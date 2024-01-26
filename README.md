@@ -1,4 +1,4 @@
-# Vest Lab Contents
+# Envizi Workshop Plan
 
 <table>
     <thead>
@@ -368,7 +368,7 @@
         <td>Session & Demo</td>
         <td>Data flow automation in Envizi</td>
         <td>15 mins</td>
-        <td></td>
+        <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>
     <tr>
         <td>10</td>
@@ -376,7 +376,7 @@
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
         <td>30 mins</td>
-        <td><a href="./125-data-flow-automation">To be updated</a></td>
+        <td><a href="./126-data-flow-automation-lab">Link</a></td>
    </tr>        
     <tr>
         <td>11</td>
@@ -487,3 +487,10 @@
         <td><a href="./162-Creating-Contacts-and-Users-using-template">Using Template </a></td>
    </tr>
 </table>
+
+
+
+## Note : 
+
+1. The URL links listed for each day in the plan will only become operational on the day the workshop begins.
+2. The files referred in the lab are available in the shared folder with the same directory structure.
