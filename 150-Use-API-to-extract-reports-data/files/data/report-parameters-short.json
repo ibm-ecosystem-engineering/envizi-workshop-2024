@@ -1,0 +1,43 @@
+[
+    {
+        "associateId": 5000395,
+        "params": [
+            {
+                "name": "Group_Id",
+                "defaultValue": null,
+                "availableValues": [
+                    { "name": "All Groups",                         "value": "" }, 
+                    { "name": "TurbonomicD1",                       "value": "5037105" },
+                    { "name": "TurbonomicD1 > CLOUD-Region",        "value": "5037509" },
+                    { "name": "TurbonomicD1 > ONPREM-DataCenter",    "value": "5037106" },
+                    { "name": "Ultra Clean",                        "value": "5041586" },
+                    { "name": "Uranium Energy Corp",                "value": "5042720" },
+                    { "name": "Uranium Energy Corp > Asset Type",   "value": "5042721" }
+                ]
+            },
+            {
+                "name": "Location_Id",
+                "defaultValue": null,
+                "availableValues": [
+                    { "name": "All Locations",                          "value": "" },
+                    { "name": "Academic Average",                       "value": "5064516"} ,
+                    { "name": "HawthorneSales",                         "value": "5060406"} ,
+                    { "name": "Hayward",                                "value": "5064958"} ,
+                    { "name": "VAUX EN BUGEY_Bollore Truck",            "value": "5063595"} ,
+                    { "name": "vc03dc01",                               "value": "5060409"} ,
+                    { "name": "UCS-DC-10.10.150.38",                    "value": "5060408"} ,
+                    { "name": "VAUDREUIL-DORION_Bollore Truck",         "value": "5063952"} ,
+                    { "name": "VAULX EN VELIN_Bollore SEA",             "value": "5063990" }
+                ]
+            },
+            {
+                "name": "Filter_By",
+                "defaultValue": null,
+                "availableValues": [
+                    { "name": "Execution Mode: Normal",                          "value": 0 },
+                    { "name": "Execution Mode: Generate Latitude and Longitude", "value": 5 }
+                ]
+            }
+        ]
+    }
+]
