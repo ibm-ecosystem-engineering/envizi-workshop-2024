@@ -91,7 +91,7 @@
         <td>10</td>
         <td>Data Management</td>
         <td>Quiz</td>
-        <td>POX Best Practices quiz </td>
+        <td>Quiz </td>
         <td>15 mins</td>
         <td></td>
    </tr>
