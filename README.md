@@ -228,7 +228,7 @@
         <td>Lab</td>
         <td>Custom Emission Factors & Auditing</td>
         <td>15 mins</td>
-        <td><a href="./172-Custom-Emission-Factors">To be updated</a></td>
+        <td><a href="./172-Custom-Emission-Factors">Link</a></td>
    </tr>   
     <tr>
         <td>7</td>
