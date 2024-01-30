@@ -1,6 +1,6 @@
 # Envizi Connectors & Templates
 
-## Envizi connectors
+### Envizi connectors
 
 <img src="images/00-connectors.png">
 
@@ -70,28 +70,28 @@
 </table>
 
 
-## Connector Templates
+### Connector Templates
 
-### 1. Config connector
+#### 1. Config connector
 
 <img src="images/01-config-connector.png">
 
-### 2. Universal Data Connector (UDC)
+#### 2. Universal Data Connector (UDC)
 
 <img src="images/02-udc.png">
 
-### 3. Universal Account Setup and Data Load - PM&C
+#### 3. Universal Account Setup and Data Load - PM&C
 
 <img src="images/03-pmc.png">
 
-### 4. Universal Account Setup and Data Load
+#### 4. Universal Account Setup and Data Load
 
 <img src="images/04-asdl.png">
 
-### 5. AI Assist
+#### 5. AI Assist
 
 <img src="images/05-ai-assist.png">
 
-## 6. Contact connector
+#### 6. Contact connector
 
 <img src="images/06-contacts.png">
