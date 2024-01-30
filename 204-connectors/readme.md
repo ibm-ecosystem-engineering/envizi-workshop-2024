@@ -72,30 +72,28 @@
 </table>
 
 
+## Connectors
 
-00-connectors
-
-
-## Config connector
+### 1. Config connector
 
 <img src="images/01-config-connector.png">
 
-## Universal Data Connector (UDC)
+### 2. Universal Data Connector (UDC)
 
 <img src="images/02-udc.png">
 
-## Universal Account Setup and Data Load - PM&C
+### 3. Universal Account Setup and Data Load - PM&C
 
 <img src="images/03-pmc.png">
 
-## Universal Account Setup and Data Load
+### 4. Universal Account Setup and Data Load
 
 <img src="images/04-asdl.png">
 
-## AI Assist
+### 5. AI Assist
 
 <img src="images/05-ai-assist.png">
 
-## Contact connector
+## 6. Contact connector
 
 <img src="images/06-contacts.png">
