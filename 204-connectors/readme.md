@@ -1,6 +1,4 @@
-# Connectors
-
-
+# Envizi Connectors & Templates
 
 ## Envizi connectors
 
@@ -72,7 +70,7 @@
 </table>
 
 
-## Connectors
+## Connector Templates
 
 ### 1. Config connector
 
