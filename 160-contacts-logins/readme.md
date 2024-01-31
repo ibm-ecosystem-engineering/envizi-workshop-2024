@@ -57,9 +57,13 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 
 **View Only Engineer** has a user experience that is optimized for users of EFD and APM. The user has a limited set of menus which align with the EFD and APM modules. View only users can’t edit or change information, rather only view charts and run reports.
 
-Tag User has a user experience that is optimized for users who have general user access to one Tag only.
+**Tag User** has a user experience that is optimized for users who have general user access to one Tag only.
 
-Tag View Only has a user experience that is optimized for users who have view only access to one Tag only.
+**Tag View Only** has a user experience that is optimized for users who have view only access to one Tag only.
+
+**Personal Role for API Tokens** allows the user to have access to APIs.
+
+**Admin  Role for API Tokens** allows the user to have access to APIs.
 
 
 In this lab exercise we will create Contacts and Logins in Envizi for a given organization using Envizi Setup Contacts excel template.
@@ -76,17 +80,13 @@ Work roles enable users to perform specialized functions, the main one being rec
 - Each module will specify what work roles may be required to perform specific functions within that module.
 - A contact can have multiple work roles
 
+Here are the roles available.
 
-
-Data Assurance - used in Data Receipt reporting.
-
-Data Manager - used in Data Receipt reporting.
-
-Issue Manager - used in Issue Management.
-
-PowerReport Edit - used in PowerReports.
-
-Survey Administrator - used in Value Chain Survey.
+1. Data Assurance - used in Data Receipt reporting.
+2. Data Manager - used in Data Receipt reporting.
+3. Issue Manager - used in Issue Management.
+4. PowerReport Edit - used in PowerReports.
+5. Survey Administrator - used in Value Chain Survey.
 
 ## Next Steps
 
