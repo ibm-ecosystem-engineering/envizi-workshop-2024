@@ -94,32 +94,64 @@ The user is created successfully along with the contact details and also enabled
 
 <details><summary>CLICK ME</summary>
 
-### Excercise 1
+### Create PowerEdit User
+
+Create an user with the below details and assign the worker role.
+
+- First Name : YourFirstName PowerEditUser (ex: `Peter PowerEdit`)
+- Last Name : YourLastName
+- User Name : YourFirstName_YourLastName_poweredit@ibmapac.com  (ex: `peter_john_poweredit@ibmapac.com`)
+- Access Role : General User
+- Work Role : PowerReport Edit
+
+### Create API User
 
 Create an user with the below details and assign the specialized role.
 
 - First Name : YourFirstName APIUser (ex: `Peter APIUser`)
 - Last Name : YourLastName
 - User Name : YourFirstName_YourLastName_apiuser@ibmapac.com  (ex: `peter_john_apiuser@ibmapac.com`)
+- Access Role : General
 - Specialized Role : API Access
 
-### Excercise 2
+### Create SRM User
 
 Create an user with the below details and assign the specialized role.
 
-- First Name : YourFirstName SRMUser (ex: `Peter SRMUser`)
+#### SRM Owner
+
+- First Name : YourFirstName SRM Owner (ex: `Peter SRM Owner`)
 - Last Name : YourLastName
-- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_srm@ibmapac.com`)
+- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_srmowner@ibmapac.com`)
+- Access Role : General User
 - Specialized Role : SRM Role
 
-### Excercise 3
+#### Data Owner
 
-Create an user with the below details and assign the specialized role.
-
-- First Name : YourFirstName PowerEditUser (ex: `Peter PowerEdit`)
+- First Name : YourFirstName SRM Owner (ex: `Peter SRM Owner`)
 - Last Name : YourLastName
-- User Name : YourFirstName_YourLastName_poweredit@ibmapac.com  (ex: `peter_john_poweredit@ibmapac.com`)
-- Work Role : PowerReport Edit
+- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_dataowner@ibmapac.com`)
+- Access Role : General User
+- Specialized Role : SRM Role
+
+#### SRM Reviewer
+
+- First Name : YourFirstName SRM Reviewer (ex: `Peter SRM Reviewer`)
+- Last Name : YourLastName
+- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_srmreviewer@ibmapac.com`)
+- Access Role : General User
+- Specialized Role : SRM Role
+
+#### SRM Approver
+
+- First Name : YourFirstName SRM Approver (ex: `Peter SRM Approver`)
+- Last Name : YourLastName
+- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_srmapprover@ibmapac.com`)
+- Access Role : General User
+- Specialized Role : SRM Role
+
+
+
 
 </details>
 
