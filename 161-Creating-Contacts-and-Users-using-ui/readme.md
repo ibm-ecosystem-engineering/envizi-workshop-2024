@@ -128,7 +128,7 @@ Create an user with the below details and assign the specialized role.
 
 #### Data Owner
 
-- First Name : YourFirstName SRM Owner (ex: `Peter SRM Owner`)
+- First Name : YourFirstName Data Owner (ex: `Peter Data Owner`)
 - Last Name : YourLastName
 - User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_dataowner@ibmapac.com`)
 - Access Role : General User
