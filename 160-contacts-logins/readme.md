@@ -24,7 +24,14 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 
 ## 2. Types of Users
 
+#### Contacts, Logins and Roles
+<img src="images/image1.png">
+
+
 ### 2.1 Standard Roles
+
+
+
 
 - **System Administrators** can manage groups, locations, accounts, contacts and logins and organization preferences.
 
@@ -33,6 +40,8 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 - **View Only** users can run reports, view data but cannot edit any data in your organization.
 
 ### 2.2 Specialised Roles
+
+<img src="images/image3.png">
 
 **Engineer Admin** has a user experience that is optimized for users of EFD and APM. The user has a limited set of menus which align with the EFD and APM modules. They also have addition menus related to system administration functions.
 
@@ -64,6 +73,8 @@ Work roles enable users to perform specialized functions, the main one being rec
 - Each module will specify what work roles may be required to perform specific functions within that module.
 - A contact can have multiple work roles
 
+<img src="images/image2.png">
+
 
 Data Assurance - used in Data Receipt reporting.
 
@@ -72,6 +83,8 @@ Data Manager - used in Data Receipt reporting.
 Issue Manager - used in Issue Management.
 
 PowerReport Edit - used in PowerReports.
+
+Survey Administrator - used in Value Chain Survey.
 
 ## Next Steps
 
