@@ -30,7 +30,7 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 
 ### 2.1 Standard Roles
 
-<img src="images/image4.png">
+<img src="images/image3.png">
 
 - **System Administrators** can manage groups, locations, accounts, contacts and logins and organization preferences.
 
@@ -41,7 +41,7 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 
 ### 2.2 Specialised Roles
 
-<img src="images/image3.png">
+<img src="images/image4.png">
 
 **Engineer Admin** has a user experience that is optimized for users of EFD and APM. The user has a limited set of menus which align with the EFD and APM modules. They also have addition menus related to system administration functions.
 
