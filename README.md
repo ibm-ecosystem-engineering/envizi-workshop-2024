@@ -281,21 +281,21 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>Targets setting</td>
+        <td>API Integrations</td>
         <td>Session & Demo</td>
-        <td>Target setting and tracking  </td>
-        <td>30 mins</td>
+        <td>Envizi API</td>
+        <td>15 mins</td>
         <td></td>
    </tr>
     <tr>
         <td>2</td>
-        <td>Targets setting</td>
+        <td>API Integrations</td>
         <td><strong>Lab</strong></td>
-        <td>Target setting and tracking  </td>
-        <td>30 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr>   
-      <tr>
+        <td>Use API to extract reports data</td>
+        <td>60 mins</td>
+        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
+   </tr>
+    <tr>
         <td>3</td>
         <td>Data Health</td>
         <td>Session</td>
@@ -328,40 +328,39 @@
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a> </td>
     </tr>        
     <tr>
+        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
+    </tr>
+    <tr>
         <td>7</td>
+        <td>Targets setting</td>
+        <td>Session & Demo</td>
+        <td>Target setting and tracking  </td>
+        <td>30 mins</td>
+        <td></td>
+   </tr>
+    <tr>
+        <td>8</td>
+        <td>Targets setting</td>
+        <td><strong>Lab</strong></td>
+        <td>Target setting and tracking  </td>
+        <td>30 mins</td>
+        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
+   </tr>
+    <tr>
+        <td>9</td>
         <td>Reports</td>
         <td>Session</td>
         <td>Creating Custom power reports and best practices </td>
         <td>30 mins</td>
         <td></td>
    </tr>
-    <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
-    </tr>
-
    <tr>
-        <td>8</td>
+        <td>10</td>
         <td>Reports</td>
         <td><strong>Lab</strong></td>
         <td>Creating Custom power reports</td>
         <td>30 mins</td>
         <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
-   </tr>
-    <tr>
-        <td>9</td>
-        <td>API Integrations</td>
-        <td>Session & Demo</td>
-        <td>Envizi API</td>
-        <td>15 mins</td>
-        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
-   </tr>
-    <tr>
-        <td>10</td>
-        <td>API Integrations</td>
-        <td><strong>Lab</strong></td>
-        <td>Use API to extract reports data</td>
-        <td>60 mins</td>
-        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
    </tr>
     <tr>
         <td>11</td>
