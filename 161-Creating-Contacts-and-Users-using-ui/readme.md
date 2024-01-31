@@ -111,8 +111,8 @@ Create an user with the below details and assign the specialized role.
 - First Name : YourFirstName APIUser (ex: `Peter APIUser`)
 - Last Name : YourLastName
 - User Name : YourFirstName_YourLastName_apiuser@ibmapac.com  (ex: `peter_john_apiuser@ibmapac.com`)
-- Access Role : General
-- Specialized Role : API Access
+- Access Role : General User
+- Specialized Role : Personal role for API Tokens
 
 ### Create SRM User
 
