@@ -30,14 +30,14 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 
 ### 2.1 Standard Roles
 
-
-
+<img src="images/image4.png">
 
 - **System Administrators** can manage groups, locations, accounts, contacts and logins and organization preferences.
 
 - **General User** can run reports, view data and enter data into Envizi.
 
 - **View Only** users can run reports, view data but cannot edit any data in your organization.
+
 
 ### 2.2 Specialised Roles
 
@@ -67,13 +67,15 @@ In this lab exercise we will create Contacts and Logins in Envizi for a given or
 
 ## 3. Work Roles
 
+<img src="images/image2.png">
+
+
 Work roles enable users to perform specialized functions, the main one being receiving the Data Receipt report when automated data loaded into the platform. 
 
 - There may also be work roles that are specific to a particular module. 
 - Each module will specify what work roles may be required to perform specific functions within that module.
 - A contact can have multiple work roles
 
-<img src="images/image2.png">
 
 
 Data Assurance - used in Data Receipt reporting.
