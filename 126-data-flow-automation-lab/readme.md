@@ -100,7 +100,7 @@ You can see the Account is created and also the records are loaded successfully.
 
 </details>
 
-### 3. Troubleshooting 
+## 3. Troubleshooting 
 
 ### 3.1. Data Load Issue - Verify logs
 
