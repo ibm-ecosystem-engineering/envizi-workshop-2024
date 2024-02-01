@@ -14,11 +14,15 @@ In this exercise you would learn how to use Postman tool to invoke CloudStorage 
 For this exercise, refer the s3-configs.txt file updated by instructor
 
 2. Keep you input file in UDC format ready
-You can take the sample file from [files](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) and update the content based on the data which you want to ingest
+You can take the sample file from [POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) and update the content based on the data which you want to ingest
 
-## Use Postman tool to load the Data into Envizi S3 Folder
+## 1. Use Postman tool to load the Data into Envizi S3 Folder
+
+<details><summary>CLICK ME</summary>
+
 1. Form the url  based on the details    
    http://<bucket_name>.s3.amazonaws.com/<folder_name>/<file_name_with_extension>
+   
    example:
    http://envizi-client-dataservice-us-prod.s3.amazonaws.com/client_dedd4566f2f247/POCAccountSetupandDataLoad_INbank_Co_All.XLSX
 
@@ -31,7 +35,7 @@ You can take the sample file from [files](./files/POCAccountSetupandDataLoad_INb
 
 
 4. In the request window of Postman, configure the below 
-- `Method``: `PUT`
+- `Method`: `PUT`
 - `URL`:  The one formed in step 1
 
 
@@ -68,8 +72,13 @@ You can take the sample file from [files](./files/POCAccountSetupandDataLoad_INb
 <img src="images/Envizi-AWS-S3-using-Postman-RequestSuccess.png">
 
 
+</details>
 
-## Validate the Data loaded through Envizi UI
+
+## 2. Validate the Data loaded through Envizi UI
+
+<details><summary>CLICK ME</summary>
+
 
 1. Navigate to `Admin` > `Data Flow Automation` 
 2. Click on `File Delivery Status` to check the file loaded
@@ -88,9 +97,15 @@ You can take the sample file from [files](./files/POCAccountSetupandDataLoad_INb
 
 You can see the Account is created and also the records are loaded successfully.
 
-### Troubleshooting 
 
-### 1. Data Load Issue - Verify logs
+</details>
+
+### 3. Troubleshooting 
+
+### 3.1. Data Load Issue - Verify logs
+
+<details><summary>CLICK ME</summary>
+
 
 If the file is not processed and showing the Error in the Load Status of the file delivered to S3 as below, then verify the Parse errors and Load erros
 
@@ -121,7 +136,12 @@ Unable to match the current row with any of the row specifications.File specific
 9. Similarly, you can check `Load Errors` 
     
 
-### 2. Postman related issue - Mismatch of header x-amz-content-sha25
+</details>
+
+### 3.2. Postman related issue - Mismatch of header x-amz-content-sha25
+
+<details><summary>CLICK ME</summary>
+
 
 If the request in Postman fails with the error : The provided 'x-amz-content-sha256' header does not match what was computed. 
 
@@ -139,6 +159,8 @@ Please follow the below instructions to resolve.
 -  `value`: Output of the command  from Step 1&2 above
 
 <img src="images/Envizi-AWS-S3-using-Postman-RequestHeader.png">
+
+</details>
 
 
 ### Reference 
