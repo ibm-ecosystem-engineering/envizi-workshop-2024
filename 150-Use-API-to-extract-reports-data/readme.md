@@ -320,7 +320,7 @@ export API_ACCESS_TOKEN==<<TOKEN>>
 export REPORT_NAME=<<REPORT>>
 
 export API_SUFFIX=api.envizi.com/api
-export API_URL="https://$API_REGION$API_SUFFIX/meta/reports/$REPORT_NAME"
+export API_URL="https://$API_REGION$API_SUFFIX/meta/$REPORT_NAME"
 
 
 curl "$API_URL" --header "Authorization: Bearer $API_ACCESS_TOKEN"
