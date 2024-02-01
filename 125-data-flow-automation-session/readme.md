@@ -115,6 +115,20 @@ The Data pipeline is created.
 
 ## 3. Sending UDC excel to S3
 
+### 3.1 Sending via Postman
+
+<details><summary>CLICK ME</summary>
+
+<img src="images/img-22-postman.png">
+
+
+<img src="images/img-23-postman.png">
+
+</details>
+
+
+### 3.2 Sending via Python Script
+
 <details><summary>CLICK ME</summary>
 
 Lets use the sample python script [main.py](./python/main.py) to push the [data.xlsx](./python/data.xlsx) file into S3 now. 
