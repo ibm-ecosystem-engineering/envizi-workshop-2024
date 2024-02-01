@@ -422,3 +422,14 @@ The filters panel shows that the `In Bank` is selected by default.
 
 </details>
 
+## Reference
+
+1. Monthly Dataset - Glossary - Basic Fields
+https://knowledgebase.envizi.com/home/monthly-dataset-glossary
+
+2. Monthly Dataset - Glossary - Advanced Fields
+https://knowledgebase.envizi.com/home/monthly-dataset-glossary-advanced-fields
+
+3. Monthly Dataset - Tutorials
+https://knowledgebase.envizi.com/home/monthly-dataset-tutorials
+
