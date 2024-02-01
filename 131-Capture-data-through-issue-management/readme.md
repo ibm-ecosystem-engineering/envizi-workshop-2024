@@ -32,7 +32,7 @@ Now, lets look at how the issue is resolved by the assigned user.
 
 3. Click on issue under `Issues by Location`.  
 
-Please note that you can also go to this same screen directly from Envizi UI -> `Manitor` -> Issues -> `All issues`
+Please note that you can also go to this same screen directly from Envizi UI -> `Monitor` -> Issues -> `All issues`
 
 <img src="images/Envizi-DataManager-Issue-View.png">
 
