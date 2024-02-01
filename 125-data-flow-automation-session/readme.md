@@ -8,10 +8,14 @@ Data Flow Automation is IBM Envizi’s solution to simplify and streamline the 
 
 <img src="images/image-11.png">
 
+### Components
+
 The three main components are:
 - Data Services
 - Data Pipelines
 - Monitoring and Logging
+
+<img src="images/img-21-datapipelines.png">
 
 #### Data Services
 
@@ -25,7 +29,7 @@ Data Services are configured to provide endpoints for data to be delivered for i
 
 #### Data Pipelines
 
-A Data Pipeline defines how a data file will be processed by Envizi. A Data Pipeline has the following configuration:
+A Data Pipeline defines how a data file will be processed by Envizi. It could be `None` or `IBM App Connect ETL` as of now.
 
 
 ## 1. Create Data Service for S3
