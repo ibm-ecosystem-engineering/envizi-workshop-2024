@@ -16,10 +16,12 @@ The three main components are:
 #### Data Services
 
 Data Services are configured to provide endpoints for data to be delivered for ingestion into Envizi. Supported data services are: 
-- Cloud Storage (Amazon S3)
-- Mailbox address (Amazon Simple Email)
-- SFTP folder (Amazon Transfer)
-- Data ETL (IBM App Connect)
+- Amazon S3 (Cloud Storage)
+- Amazon Simple Email (Mailbox)
+- Amazon Transfer (SFTP)
+- IBM App Connect (Data ETL)
+- NLP Service (Data ETL)
+
 
 #### Data Pipelines
 

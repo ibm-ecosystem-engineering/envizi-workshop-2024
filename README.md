@@ -332,22 +332,6 @@
     </tr>
     <tr>
         <td>7</td>
-        <td>Targets setting</td>
-        <td>Session & Demo</td>
-        <td>Target setting and tracking  </td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>
-    <tr>
-        <td>8</td>
-        <td>Targets setting</td>
-        <td><strong>Lab</strong></td>
-        <td>Target setting and tracking  </td>
-        <td>30 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr>
-    <tr>
-        <td>9</td>
         <td>Reports</td>
         <td>Session</td>
         <td>Creating Custom power reports and best practices </td>
@@ -355,7 +339,7 @@
         <td></td>
    </tr>
    <tr>
-        <td>10</td>
+        <td>8</td>
         <td>Reports</td>
         <td><strong>Lab</strong></td>
         <td>Creating Custom power reports</td>
@@ -363,7 +347,7 @@
         <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
    </tr>
     <tr>
-        <td>11</td>
+        <td>9</td>
         <td>Data flow Automation</td>
         <td>Session & Demo</td>
         <td>Data flow automation in Envizi</td>
@@ -371,12 +355,28 @@
         <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>
     <tr>
-        <td>12</td>
+        <td>10</td>
         <td>Data flow Automation</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
         <td>30 mins</td>
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
+   </tr>   
+    <tr>
+        <td>11</td>
+        <td>Targets setting</td>
+        <td>Session & Demo</td>
+        <td>Target setting and tracking  </td>
+        <td>30 mins</td>
+        <td></td>
+   </tr>
+    <tr>
+        <td>12</td>
+        <td>Targets setting</td>
+        <td><strong>Lab</strong></td>
+        <td>Target setting and tracking  </td>
+        <td>30 mins</td>
+        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
    </tr>        
     <tr>
         <td>13</td>
