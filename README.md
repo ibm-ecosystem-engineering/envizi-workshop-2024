@@ -364,22 +364,6 @@
    </tr>   
     <tr>
         <td>11</td>
-        <td>Targets setting</td>
-        <td>Session & Demo</td>
-        <td>Target setting and tracking  </td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>
-    <tr>
-        <td>12</td>
-        <td>Targets setting</td>
-        <td><strong>Lab</strong></td>
-        <td>Target setting and tracking  </td>
-        <td>30 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr>        
-    <tr>
-        <td>13</td>
         <td></td>
         <td>Quiz</td>
         <td>Quiz</td>
@@ -411,13 +395,29 @@
     <tr>
         <td>3</td>
         <td>Targets setting</td>
+        <td>Session & Demo</td>
+        <td>Target setting and tracking  </td>
+        <td>30 mins</td>
+        <td></td>
+   </tr>
+    <tr>
+        <td>4</td>
+        <td>Targets setting</td>
+        <td><strong>Lab</strong></td>
+        <td>Target setting and tracking  </td>
+        <td>30 mins</td>
+        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
+   </tr>        
+    <tr>
+        <td>5</td>
+        <td>Targets setting</td>
         <td><strong>Lab</strong></td>
         <td>Target setting and tracking - Validation  </td>
         <td>30 mins</td>
         <td><a href="./171-Target-setting-and-tracking">Link</a></td>
    </tr>
     <tr>
-        <td>4</td>
+        <td>6</td>
         <td>Programs Tracking</td>
         <td>Session & Demo</td>
         <td>Sustainability Programs Tracking   </td>
@@ -425,7 +425,7 @@
         <td></td>
    </tr>    
     <tr>
-        <td>5</td>
+        <td>7</td>
         <td>Data Health</td>
         <td>Session & Demo</td>
         <td>Overview of Virtual Accounts & Tags</td>
@@ -436,7 +436,7 @@
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>    
     <tr>
-        <td>6</td>
+        <td>8</td>
         <td>Advanced</td>
         <td>Session & Demo</td>
         <td>Envizi Advanced Modules ( Value chain surveys and assessments | Building ratings and benchmarks | Interval Meters | Utility Analytics )  </td>
@@ -444,7 +444,7 @@
         <td></td>
    </tr>
     <tr>
-        <td>7</td>
+        <td>9</td>
         <td>RFX</td>
         <td>Session</td>
         <td>RFX - Scoping and Pricing   </td>
@@ -452,7 +452,7 @@
         <td></td>
    </tr>   
     <tr>
-        <td>8</td>
+        <td>10</td>
         <td>RoadMap</td>
         <td>Session</td>
         <td>Whats is new in Envizi and RoadMap</td>
@@ -460,7 +460,7 @@
         <td></td>
    </tr>
     <tr>
-        <td>9</td>
+        <td>11</td>
         <td>Case Studies</td>
         <td>Session</td>
         <td>Envizi Succes Story/Case studies   </td>
@@ -468,7 +468,7 @@
         <td></td>
    </tr>   
     <tr>
-        <td>10</td>
+        <td>12</td>
         <td></td>
         <td>Quiz</td>
         <td>Final Evaluation Quiz</td>
