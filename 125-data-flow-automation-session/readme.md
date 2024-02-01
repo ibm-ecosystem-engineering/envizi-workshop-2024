@@ -28,6 +28,9 @@ A Data Pipeline defines how a data file will be processed by Envizi. A Data Pipe
 
 ## 1. Create Data Service for S3
 
+<details><summary>CLICK ME</summary>
+
+
 Need to create a Data Service for S3 bucket.
 
 1. Open the Data Services by clicking  `Admin > Data flow Automation`
@@ -67,8 +70,12 @@ The `Manage Connections` page of the data service is opened.
 - Access Key
 - Secret Access Key
 
+</details>
 
 ## 2. Create Data Pipeline
+
+<details><summary>CLICK ME</summary>
+
 
 Need to create Data pipeline to download udc files from S3 bucket and push to Envizi for data ingestion. 
 
@@ -98,8 +105,11 @@ The Data pipeline is created.
 
 <img src="images/img-19.png">
 
+</details>
 
 ## 3. Sending UDC excel to S3
+
+<details><summary>CLICK ME</summary>
 
 Lets use the sample python script [main.py](./python/main.py) to push the [data.xlsx](./python/data.xlsx) file into S3 now. 
 
@@ -144,6 +154,8 @@ The envizi should have processed your file now.
 You can see the status of your file.
 
 <img src="images/img-20.png">
+
+</details>
 
 ### Reference 
 
