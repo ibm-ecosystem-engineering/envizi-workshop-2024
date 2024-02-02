@@ -382,7 +382,7 @@
         <td>Session & Demo</td>
         <td>Integrating Envizi with external Systems</td>
         <td>15 mins</td>
-        <td></td>
+        <td><a href="./151-Integrating-Envizi-with-external-Systems">Link</a></td>
    </tr>
     <tr>
         <td>2</td>
@@ -390,7 +390,7 @@
         <td><strong>Session</strong></td>
         <td>Envizi & Turbonomic Integration via Integration Hub</td>
         <td>30 mins</td>
-        <td><a href="https://developer.ibm.com/tutorials/awb-integrate-turbonomic-with-envizi/">Link</a></td>
+        <td><a href="./152-Envizi-and-Turbonomic-Integration-via-Integration-Hub">Link</a></td>
     </tr>
     <tr>
         <td>3</td>
@@ -476,15 +476,39 @@
         <td></td>
    </tr>       
     <tr>
-        <td colspan="6"> ............................................................................. <strong>Optional list </strong> ............................................................................</td>
+        <td colspan="6"> ............................................................................. <strong>Additional Info </strong> ............................................................................</td>
     </tr>
-      <tr>
+    <tr>
         <td>1</td>
         <td>User mgmt</td>
         <td><strong>Lab</strong></td>
         <td>Creating Contacts and Users</td>
         <td>30 mins</td>
-        <td><a href="./162-Creating-Contacts-and-Users-using-template">Using Template </a></td>
+        <td><a href="./162-Creating-Contacts-and-Users-using-template">Link</a></td>
+   </tr>
+    <tr>
+        <td>2</td>
+        <td>Account Style</td>
+        <td><strong>Guide</strong></td>
+        <td>Account Style</td>
+        <td></td>
+        <td><a href="./203-account-style-link">Link</a></td>
+   </tr>
+    <tr>
+        <td>2</td>
+        <td>Connectors</td>
+        <td><strong>Guide</strong></td>
+        <td>Connectors</td>
+        <td></td>
+        <td><a href="./204-connectors">Link</a></td>
+   </tr>
+    <tr>
+        <td>1</td>
+        <td>Important Links</td>
+        <td><strong>Info</strong></td>
+        <td>Important Links</td>
+        <td></td>
+        <td><a href="./205-Important-Links">Link</a></td>
    </tr>
 </table>
 
