@@ -36,16 +36,16 @@
         <td>Accounts & Data</td>
         <td>.xlsx, csv</td>
         <td>Account_Setup_and_Data_Load_-_PM&C_xxxxx.xlsx</td>
-        <td>Setup</td>
+        <td></td>
         <td>Multi Account Styles, PM & C</td>
         <td><a href="../122-3-Create-Scope3-data-using-AccountConnector">Link</a></td>
     </tr>
     <tr>
-        <td>Universal Account Setup and Data Load</td>
+        <td>Account Setup and Data Load</td>
         <td>Accounts & Data</td>
         <td>.xlsx, csv</td>
         <td>Account_Setup_and_Data_Load_xxxxx.xlsx</td>
-        <td>Setup</td>
+        <td></td>
         <td>Single Account Style, Many fields</td>
         <td><a href="../123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a></td>
     </tr>
@@ -54,7 +54,7 @@
         <td>Accounts & Data</td>
         <td>.xlsx</td>
         <td>Account Setup and Data Load - AI Assist-xxxxx.xlsx</td>
-        <td>Setup</td>
+        <td>Records to load</td>
         <td></td>
         <td><a href="../124-Loading-Scope-3-Category1-data-using-AI-Assist">Link</a></td>
     </tr>
