@@ -18,9 +18,9 @@ Here are the key steps in this process:
 - Capture data into Scope 3 Accounts
 
 # 1. Download the Templates for Config Connector
-Download the templates for Config Connector and UDC from the links below. 
 
-- [Config Connector template](../files/templates/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX)
+1. Download the config connector excel template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` from [here](./files/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX) or from the shared Box folder. 
+
 
 # 2. Create Organization Hierarchy using Config Connector for Scope 3 
 
@@ -52,7 +52,7 @@ To stay aligned with the subsequent labs, we recommend using the Prepopulated te
 
 Let's download the Prepopulated Template file and do the required changes.
 
-1. Download the Prepopulated Template data file from [Envizi_SetupConfig_INbank-S3.xlsx](./files/Envizi_SetupConfig_INbank-S3.xlsx)
+1. Download the Prepopulated Template data file `Envizi_SetupConfig_INbank-S3.xlsx` from [here](./files/Envizi_SetupConfig_INbank-S3.xlsx) or from the shared Box folder. 
 2. The file name format should be `SetupConfig_xxxxx.xlsx`. Replace xxxx with your preferred text. But it is better to use your `Prefix-Id`.
 3. Replace the `ORGANIZATION` column values with Organization name you obtained as a prerequisite.
 4. To prevent naming conflicts, replace the prefix `IN Bank` with your `Prefix-Id` in the `GROUP NAME 1`, `GROUP NAME 2`,	`GROUP NAME 3` and `LOCATION` columns. For example, transform `IN Bank - Data Centers` to `A12-IN Bank - Data Centers`.

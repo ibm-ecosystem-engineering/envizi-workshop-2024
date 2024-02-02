@@ -101,7 +101,7 @@ Now, narrow down on S3.6 account styles, and based on the additional parameters 
 
  <details><summary>CLICK ME</summary>
 
-Using the same `Account Setup  and Data Load - PMC report, we can download the template specific to Groups / locations only for which the data capture is planned.
+Using the same `Account Setup  and Data Load - PMC` report, we can download the template specific to Groups / locations only for which the data capture is planned.
 
   
 1. In Envizi Global Search >  Reports > search for  `Account Setup and Data Load - PM&C`
@@ -156,7 +156,7 @@ Now, Let's populate the template with data for all the locations we created in t
 
 1. Take a copy of the downloaded file `Account_Setup_and_Data_Load_-_PM&C.xlsx`  
    
-2. Add any  suffix to the file name  `Account_Setup_and_Data_Load_-_PM&C_xxxxx.xlsx` , replace xxxx with any value  to easily identify
+2. Add any  suffix to the file name  `Account_Setup_and_Data_Load_-_PM&C_xxxxx.xlsx` , replace xxxx with any value  to easily identify. But it is better to suffix your `Prefix-Id`.
 
 3. Fill in the values for the below columns
    - **Account Style Link** : Enter the  account style link obtained for the data type in section #3.1.9 
@@ -171,7 +171,7 @@ Now, Let's populate the template with data for all the locations we created in t
 
 <img src="images/Data-PMC-template-populated.png">
 
-You can refer the sample file `POCAccountSetupandDataLoad_INbank_S3.xlsx` to pick the values to pouplate into this file 
+You can refer the sample file `POCAccountSetupandDataLoad_INbank_S3.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_S3.xlsx) or from the shared Box folder to pick the values to pouplate into this file.
 
 5. Save the file
 
