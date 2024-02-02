@@ -85,7 +85,7 @@
         <td><strong>Lab</strong></td>
         <td>Create Group and Location Using Config Connector</td>
         <td>60 mins</td>
-        <td></td>
+        <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
    </tr>
     <tr>
         <td>10</td>
