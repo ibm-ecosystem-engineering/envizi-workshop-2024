@@ -290,109 +290,31 @@ Note: This script takes time to execute based on the data available in the org. 
 </details>
 
 
-## 5. Using API via PostMan
+## 5. How to use PostMan
 
 <details><summary>CLICK ME</summary>
 
+Lets retrieve the Report Names using the PostMan.
 
-## 5.1 Retrieve Report Names
-
-The `meta` API option allows the user to get the `list of reports` available for data download via API for this user. 
-
-
-### Retrieve Parameters
-
-1. Prepare URL
-    - Subsitute the value for `REGION`
-    - Subsitute the value for `REPORT` with the identified report name
-```
-https://<<REGION>>api.envizi.com/api/meta/reports/<<REPORT>>
-```
-
-2. In the postman, click on + to create new tab.
+1. In the postman, click on + to create new tab.
 
 <img src="images/postman1.png">
 
 
-3. Enter the following in the postman window.
+2. Enter the following in the postman window.
 
-    - Above prepared URL
+    - The URL.  Ex: `https://ukapi.envizi.com/api/meta`
     - GET option to be selected
     - Authorization > Bearer token > Token
 
 <img src="images/postman2.png">
 
 
-4. Click on the `Send` button
+3. Click on the `Send` button
 
-5. Process the results
-    - From the result identify the parameter name and value for the Group
-    - From the result identify the parameter name and value for the Period
-
-
-
-### Retrieve Parameters
-
-1. Prepare URL
-    - Subsitute the value for `REGION`
-    - Subsitute the value for `REPORT` with the identified report name
-```
-https://<<REGION>>api.envizi.com/api/meta/reports/<<REPORT>>
-```
-
-2. In the postman, click on + to create new tab.
-
-<img src="images/postman1.png">
-
-
-3. Enter the following in the postman window.
-
-    - Above prepared URL
-    - GET option to be selected
-    - Authorization > Bearer token > Token
-
-<img src="images/postman2.png">
-
-
-4. Click on the `Send` button
-
-5. Process the results
-    - From the result identify the parameter name and value for the Group
-    - From the result identify the parameter name and value for the Period
-
-
-### Retrieve Data
-
-Report Name, Group, Period are identified. Now lets retrieve the data.
-
-1. Prepare URL
-    - Subsitute the value for `REGION`
-    - Subsitute the value for `URL_VALUE` with the report name, group and period details. The example value could be `_Envizi-IssueDetails?Period=1&End_Period=2023/03/31&Group_Id=5003114`
-
-```
-https://<<REGION>>api.envizi.com/api/data/reports/<<URL_VALUE>>"
-```
-
-2. In the postman, click on + to create new tab.
-
-<img src="images/postman1.png">
-
-
-4. Enter the following in the postman window.
-
-    - Above prepared URL
-    - GET option to be selected
-    - Authorization > Bearer token > Token
-
-<img src="images/postman2.png">
-
-6. Click on the `Send` button
-
-7. View the results
-
+4. View the results in the bottom section of the window.
 
 </details>
-
 
 </details>
 
