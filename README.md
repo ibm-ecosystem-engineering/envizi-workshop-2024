@@ -433,9 +433,6 @@
         <td></td>
    </tr>
     <tr>
-        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
-    </tr>    
-    <tr>
         <td>8</td>
         <td>Advanced</td>
         <td>Session & Demo</td>
@@ -443,6 +440,9 @@
         <td>60 mins</td>
         <td></td>
    </tr>
+    <tr>
+        <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
+    </tr>    
     <tr>
         <td>9</td>
         <td>RFX</td>
@@ -475,46 +475,42 @@
         <td>15 mins</td>
         <td></td>
    </tr>       
-    <tr>
-        <td colspan="6"> ............................................................................. <strong>Additional Info </strong> ............................................................................</td>
-    </tr>
+</table>
+
+## Additional Info
+<table>
+    <thead>
+        <th>S.No</th>
+        <th>Topic</th>
+        <th>Type</th>
+        <th>Link</th>
+    </thead>
     <tr>
         <td>1</td>
-        <td>User mgmt</td>
-        <td><strong>Lab</strong></td>
         <td>Creating Contacts and Users</td>
-        <td>30 mins</td>
+        <td><strong>Lab</strong></td>
         <td><a href="./162-Creating-Contacts-and-Users-using-template">Link</a></td>
    </tr>
     <tr>
         <td>2</td>
         <td>Account Style</td>
         <td><strong>Guide</strong></td>
-        <td>Account Style</td>
-        <td></td>
         <td><a href="./203-account-style-link">Link</a></td>
    </tr>
     <tr>
         <td>2</td>
         <td>Connectors</td>
         <td><strong>Guide</strong></td>
-        <td>Connectors</td>
-        <td></td>
         <td><a href="./204-connectors">Link</a></td>
    </tr>
     <tr>
         <td>1</td>
         <td>Important Links</td>
         <td><strong>Info</strong></td>
-        <td>Important Links</td>
-        <td></td>
         <td><a href="./205-Important-Links">Link</a></td>
    </tr>
 </table>
 
-
-
 ## Note : 
 
-1. The URL links listed for each day in the plan will only become operational on the day the workshop begins.
-2. The files referred in the lab are available in the shared folder with the same directory structure.
+1. The files referred in the lab are available in the shared folder with the same directory structure.
