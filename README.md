@@ -516,4 +516,4 @@
 
 ## Note : 
 
-1. The files referred in the lab are available in the shared folder with the same directory structure.
+1. The template Excel files mentioned in the labs are available in the shared Box folder with the same directory structure. Get the Box folder link from your instructor.

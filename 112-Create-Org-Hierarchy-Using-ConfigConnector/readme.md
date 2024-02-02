@@ -26,7 +26,7 @@ Here are the key steps in this process:
 
 ## 1. Download the Template
 
-1. Download the config connector excel template from [here](../files/templates/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX).
+1. Download the config connector excel template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` from [here](./files/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX) or from the shared Box folder. 
 
 **Note:** This template is the modified version of the template  [Envizi L4 POX - Setup config template + examples.XLSX](https://ibm.seismic.com/Link/Content/DCT9JP7FQMfq2GTGFQGRfc4cbpJB) available in `Seismic`.
 
@@ -74,7 +74,7 @@ To stay aligned with the subsequent labs, we recommend using the Prepopulated te
 
 Lets download the Prepopulated Template file and do the required changes.
 
-1. Download the Prepopulated Template data file from [Envizi_SetupConfig_1_INBank.xlsx](./files/Envizi_SetupConfig_1_INBank.xlsx)
+1. Download the Prepopulated Template data file `Envizi_SetupConfig_1_INBank.xlsx` from [here](./files/Org-Hierarchy-IN-Bank.xlsx) or from the shared Box folder. 
 2. The file name format should be `SetupConfig_xxxxx.xlsx`. Replace xxxx with your preferred text. But it is better to use your `Prefix-Id`.
 3. Replace the `ORGANIZATION` column values with Organization name you obtained as a prerequisite.
 4. To prevent naming conflicts, add prefix `Prefix-Id` for `GROUP NAME 1`, `GROUP NAME 2`,	`GROUP NAME 3` and `LOCATION` columns. For example, transform `IN Bank - Data Centers` to `A12-IN Bank - Data Centers`.
