@@ -42,7 +42,7 @@
         <td>Session</td>
         <td>Implmentation Methodologies / PoX Best Practices</td>
         <td>30 mins</td>
-        <td><a href="./300-decks/aaaa.pdf">Pdf</a></td>
+        <td><a href="./300-decks/12-Implementation-Project-Cycle-Walkthrough.pdf">Pdf</a></td>
     </tr>
     <tr>
         <td>5</td>
@@ -51,7 +51,7 @@
         <td>Data Management</td>
         <td>45 mins</td>
         <td><a href="./300-decks/13-Data-Management.pdf">Pdf</a></td>
-    </tr>       
+    </tr>
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>    
@@ -301,7 +301,7 @@
         <td>Session</td>
         <td>Data Monitoring,  Health & Issue Management</td>
         <td>60 mins</td>
-        <td></td>
+        <td><a href="./300-decks/17-Data-Monitoring.pdf">Pdf</a></td>
    </tr>
    <tr>
         <td>4</td>
