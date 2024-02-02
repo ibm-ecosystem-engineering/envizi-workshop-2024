@@ -25,8 +25,8 @@
         <td>Overview</td>
         <td>Session</td>
         <td>Overview of Sustainability & Envizi + Modules</td>
+        <td>60 mins</td>
         <td><a href="./300-decks/11-Envizi-Overview-2024.pdf">Pdf</a></td>
-        <td></td>
     </tr>
     <tr>
         <td>3</td>
