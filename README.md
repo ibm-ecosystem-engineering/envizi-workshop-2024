@@ -477,6 +477,9 @@
    </tr>       
 </table>
 
+
+
+
 ## Additional Info
 <table>
     <thead>
@@ -498,13 +501,13 @@
         <td><a href="./203-account-style-link">Link</a></td>
    </tr>
     <tr>
-        <td>2</td>
+        <td>3</td>
         <td>Connectors</td>
         <td><strong>Guide</strong></td>
         <td><a href="./204-connectors">Link</a></td>
    </tr>
     <tr>
-        <td>1</td>
+        <td>4</td>
         <td>Important Links</td>
         <td><strong>Info</strong></td>
         <td><a href="./205-Important-Links">Link</a></td>
