@@ -433,7 +433,7 @@ The custom report created is available exclusively for the current user.
 
 1. Right click on the report.
 
-2. Choose `Share`
+2. Choose `Sharing`
 
 <img src="images/26-share-2.png">
 
@@ -446,9 +446,6 @@ The report is available for all the users now.
 <img src="images/26-share-4.png">
 
 </details>
-
-
-
 
 
 ## Reference

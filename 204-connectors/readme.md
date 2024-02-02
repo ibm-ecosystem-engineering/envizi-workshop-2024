@@ -23,7 +23,7 @@
         <td><a href="../121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
     </tr>
     <tr>
-        <td>Universal Data Connector (UDC)</td>
+        <td>POC Account Setup and Data Load</td>
         <td>Accounts & Data</td>
         <td>.xlsx</td>
         <td>POCAccountSetupandDataLoad_xxxxx.xlsx</td>
@@ -32,7 +32,7 @@
         <td><a href="../121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
     </tr>
     <tr>
-        <td>Universal Account Setup and Data Load - PM&C</td>
+        <td>Account Setup and Data Load - PM&C</td>
         <td>Accounts & Data</td>
         <td>.xlsx, csv</td>
         <td>Account_Setup_and_Data_Load_-_PM&C_xxxxx.xlsx</td>
@@ -76,15 +76,19 @@
 
 <img src="images/01-config-connector.png">
 
-#### 2. Universal Data Connector (UDC)
+#### 2. POC Account Setup and Data Load
 
 <img src="images/02-udc.png">
 
-#### 3. Universal Account Setup and Data Load - PM&C
+#### 3. Account Setup and Data Load - PM&C
+
+This is also called as  `Universal Account Setup and Data Load - PM&C`
 
 <img src="images/03-pmc.png">
 
-#### 4. Universal Account Setup and Data Load
+#### 4. Account Setup and Data Load
+
+This is also called as  `Universal Account Setup and Data Load`
 
 <img src="images/04-asdl.png">
 
