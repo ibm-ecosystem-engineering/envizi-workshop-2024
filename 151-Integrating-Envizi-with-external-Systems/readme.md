@@ -1,5 +1,9 @@
 # Integrating Envizi with external Systems
 
+## Envizi Services Pathway
+
+<img src="images/img-1.png">
+
 
 ## IBM Sustainability Software Portfolio Connectors
 
@@ -37,11 +41,5 @@ https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2
 
 #### Turbonomic Performance Dashboard in Envizi 
 https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/04/01/turbonomic-performance-dashboard-in-envizi
-
-
-## Self Service Pathway
-
-<img src="images/img-1.png">
-
 
 
