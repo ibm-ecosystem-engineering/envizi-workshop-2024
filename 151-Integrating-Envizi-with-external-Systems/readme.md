@@ -34,7 +34,7 @@ https://ibm.github.io/IBM-Sustainability-Software-Portfolio-Connectors/turbonomi
 
 #### IBM Turbonomic Dashboard
 
-<img src="images/image-03.png">
+<img src="images/image-04.png">
 
 #### Integrating Turbo with Envizi via AppConnect for Green IT data 
 https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
