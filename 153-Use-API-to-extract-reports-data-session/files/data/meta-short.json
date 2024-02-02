@@ -1,0 +1,47 @@
+{
+    "associates": [
+        { "associate_Id": 5000395, "name": "Demo Corp D1"}
+    ],
+    "reports": [
+        { "report_Id": 1481, "name": "_Envizi-AccountItemsAndCostAudit" },
+        { "report_Id": 1523, "name": "_Envizi-EnergyStarRatings" },
+        {  "report_Id": 1813, "name": "_Envizi-LocationMonthlyDataCurrentandPreviousYear" },
+        {  "report_Id": 1538, "name": "_Envizi-Locations_GetViewable" },
+        {  "report_Id": 1450, "name": "_Envizi-LocationsDetails" },
+        {  "report_Id": 1753, "name": "_Envizi-MarketBasedEmissions" },
+        {  "report_Id": 1890, "name": "_Envizi-MissingDataDateRange" },
+        {  "report_Id": 1529, "name": "_Envizi-MonthlyActualvsExpectedWeatherNormalize" },
+        {  "report_Id": 1444, "name": "_Envizi-MonthlyDataSummary" },
+        {  "report_Id": 1822, "name": "_Envizi-MonthlyDataSummary_CDP" },
+        {  "report_Id": 1482, "name": "_Envizi-MonthlyDataSummaryAllMeasures" },
+        {  "report_Id": 1537, "name": "_Envizi-PBIEmbeddedCache" },
+        {  "report_Id": 1447, "name": "_Envizi-RawDataExtract" },
+        {  "report_Id": 1661, "name": "_Envizi-RecentLogins" },
+        {  "report_Id": 1846, "name": "_Envizi-RecordsAndCostAudit" },
+        {  "report_Id": 1561, "name": "_Envizi-ReportUsageDetails" },
+        {  "report_Id": 1478, "name": "_Envizi-SetupAccounts" },
+        {  "report_Id": 1530, "name": "_Envizi-SetupGroups" },
+        {  "report_Id": 1570, "name": "_Envizi-SetupIssues" },
+        {  "report_Id": 1524, "name": "_Envizi-SetupLocationRatings" },
+        {  "report_Id": 1479, "name": "_Envizi-SetupLocations" },
+        {  "report_Id": 1543, "name": "_Envizi-SetupMeterAlertRules" },
+        {  "report_Id": 1520, "name": "_Envizi-SetupMeters" },
+        {  "report_Id": 1726, "name": "_Envizi-SetupTariffs" },
+        {  "report_Id": 1654, "name": "_Envizi-WeatherStationReview" },
+        {  "report_Id": 1442, "name": "_Envizi-IssueDetails" },     {  "report_Id": 1442, "name": "Issue Details" },
+        {  "report_Id": 1467, "name": "_Envizi-EquipmentMonthlyMetrics" },
+        {  "report_Id": 1437, "name": "_Envizi-IssueSummary" },
+        {  "report_Id": 1693, "name": "_Envizi-GRESBExtractforLocationRatings" },
+        {  "report_Id": 1668, "name": "_Envizi-MonthlyDataSummary_GRESB" },
+        {  "report_Id": 1496, "name": "_Envizi-ElectricityIntervalDataExtract" }, {  "report_Id": 1496, "name": "Electricity Interval Data Extract Report " }, 
+        {  "report_Id": 1540, "name": "Indicative Location Ratings Generation" },
+        {  "report_Id": 1693, "name": "GRESB Extract for Location Ratings" },   {  "report_Id": 1727, "name": "NABERS Indicative Ratings by Location" },
+        {  "report_Id": 1491, "name": "_Envizi-ExtractforPrograms" },  {  "report_Id": 1491, "name": "Extract for Programs" },
+        {  "report_Id": 1532, "name": "_Envizi-ExtractForLocations-Solar" },
+        {  "report_Id": 1490, "name": "_Envizi-SolarPerformanceAndPayback" },
+        {  "report_Id": 1527, "name": "_Envizi-ActualvsTargetandBudget" },
+        {  "report_Id": 1446, "name": "_Envizi-SetupTargetData" },
+        {  "report_Id": 1527, "name": "Actual vs Target and Budget" }, {  "report_Id": 1446, "name": "Setup Target Data"
+        }
+    ]
+}

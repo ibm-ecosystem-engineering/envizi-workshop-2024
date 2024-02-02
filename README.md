@@ -286,6 +286,9 @@
         <td>Envizi API</td>
         <td>15 mins</td>
         <td></td>
+        <td><a href="./v153-Use-API-to-extract-reports-data-session">Link</a></td>
+
+
    </tr>
     <tr>
         <td>2</td>
