@@ -26,24 +26,24 @@ Retrive the `Report Names` using the Curl or Postman.
 
 ### Excercise 2
 
-1. Retrieve all the `locations` within the `G12 - IN Bank - Corporate offices` group for the last 12 months and using the API.
+Retrieve all the `locations` within the `G12 - IN Bank - Corporate offices` group for the last 12 months and using the API.
 
-You need to retrive the report parameters first and then retrive the report data.
+(You need to retrive the report parameters first and then retrive the report data.)
 
 ### Excercise 3
 
-1. Retrieve all the `accounts` within the `IN Bank - APAC Corp Offices` group for the last 6 months
+Retrieve all the `accounts` within the `IN Bank - APAC Corp Offices` group for the last 6 months
 
-You need to retrive the report parameters first and then retrive the report data.
+(You need to retrive the report parameters first and then retrive the report data.)
 
 ### Excercise 4
 
-1. Retrieve all the `MonthlyDataSummary` within the `IN Bank - APAC Corp Offices` group for the last 6 months
+Retrieve all the `MonthlyDataSummary` within the `IN Bank - APAC Corp Offices` group for the last 6 months
 
-You need to retrive the report parameters first and then retrive the report data.
+(You need to retrive the report parameters first and then retrive the report data.)
 
 ### Excercise 5
 
-1. Retrieve all the `MissingDataDateRange` within the `IN Bank - APAC Corp Offices` group for the last 12 months
+Retrieve all the `MissingDataDateRange` within the `IN Bank - APAC Corp Offices` group for the last 12 months
 
-You need to retrive the report parameters first and then retrive the report data.
+(You need to retrive the report parameters first and then retrive the report data.)
