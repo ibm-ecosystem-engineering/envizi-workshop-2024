@@ -26,7 +26,8 @@ Here are the key steps in this process:
 
 ## 1. Download the Template
 
-1. Download the `Universal Data Connector` (UDC) template from [here](../files/templates/Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx) .
+1. Download the `Universal Data Connector` (UDC) template `Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx` from [here](./files/Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx) or from the shared Box folder .
+
 
 ## 2. Understand the template
 
@@ -147,7 +148,8 @@ To stay aligned with the subsequent labs, we recommend using the Prepopulated te
 
 Lets download the Prepopulated Template files and do the required changes.
 
-1. Download the Prepopulated Template data file from [POCAccountSetupandDataLoad_INbank_Co_All.xlsx](./files/POCAccountSetupandDataLoad_INbank_Co_All.xlsx) and [POCAccountSetupandDataLoad_INbank_Branches_All.xlsx](./files/POCAccountSetupandDataLoad_INbank_Branches_All.xlsx) 
+1. Download the Prepopulated Template data files 
+`POCAccountSetupandDataLoad_INbank_Co_All.xlsx` and `POCAccountSetupandDataLoad_INbank_Branches_All.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_Co_All.xlsx) and [here](./files/POCAccountSetupandDataLoad_INbank_Branches_All.xlsx) or from the shared Box folder.
 
 2. Rename the files in the format `POCAccountSetupandDataLoad_xxxxx.xlsx` , here xxxxx could be anything just uniquely identify your file. You can replace it with your `Prefix-Id`.
 3. Replace the `ORGANIZATION` column values with name of Organization configured in your Envizi instance
