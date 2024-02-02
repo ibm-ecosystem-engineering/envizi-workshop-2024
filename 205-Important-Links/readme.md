@@ -87,3 +87,13 @@ https://developer.ibm.com/articles/awb-reports-and-dashboards-in-envizi/
 
 7. Dataflow automation for sending UDC Excel to AWS S3 bucket in Envizi
 https://developer.ibm.com/tutorials/awb-sending-udc-excel-to-s3/
+
+
+## Turbonomic & Envizi Demo
+
+#### Turbonomic & Envizi Demo
+
+Choose the Envizi Demo Video tile
+https://techzone.ibm.com/collection/model-home/journey-envizi
+
+
