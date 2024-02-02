@@ -422,6 +422,35 @@ The filters panel shows that the `In Bank` is selected by default.
 
 </details>
 
+
+### 3.14 Sharing
+
+<details><summary>CLICK ME</summary>
+
+The custom report created is available exclusively for the current user.
+
+<img src="images/26-share-1.png">
+
+1. Right click on the report.
+
+2. Choose `Share`
+
+<img src="images/26-share-2.png">
+
+3. Confirm it by clicking on `Yes`
+
+<img src="images/26-share-3.png">
+
+The report is available for all the users now.
+
+<img src="images/26-share-4.png">
+
+</details>
+
+
+
+
+
 ## Reference
 
 1. Monthly Dataset - Glossary - Basic Fields
