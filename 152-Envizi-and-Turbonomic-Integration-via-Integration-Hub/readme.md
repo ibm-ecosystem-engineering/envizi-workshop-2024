@@ -13,3 +13,9 @@ https://developer.ibm.com/tutorials/awb-integrate-turbonomic-with-envizi/
 ## Source
 
 https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app
+
+
+## Envizi Services Pathway
+
+<img src="images/img-1.png">
+
