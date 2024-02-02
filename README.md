@@ -26,7 +26,7 @@
         <td>Session</td>
         <td>Overview of Sustainability & Envizi + Modules</td>
         <td>60 mins</td>
-        <td><a href="./300-decks/11-Envizi-Overview-2024.pdf">Pdf</a></td>
+        <td></td>
     </tr>
     <tr>
         <td>3</td>
@@ -42,7 +42,7 @@
         <td>Session</td>
         <td>Implmentation Methodologies / PoX Best Practices</td>
         <td>30 mins</td>
-        <td><a href="./300-decks/12-Implementation-Project-Cycle-Walkthrough.pdf">Pdf</a></td>
+        <td></td>
     </tr>
     <tr>
         <td>5</td>
@@ -50,7 +50,7 @@
         <td>Session</td>
         <td>Data Management</td>
         <td>45 mins</td>
-        <td><a href="./300-decks/13-Data-Management.pdf">Pdf</a></td>
+        <td></td>
     </tr>
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
@@ -77,7 +77,7 @@
         <td>Session & Demo</td>
         <td>Overview of Config Connector </td>
         <td>30 mins</td>
-        <td><a href="./300-decks/14-Config-Connector-and-UAC-Connector.pdf">Pdf</a></td>
+        <td></td>
     </tr>
    <tr>
         <td>9</td>
@@ -85,7 +85,7 @@
         <td><strong>Lab</strong></td>
         <td>Create Group and Location Using Config Connector</td>
         <td>60 mins</td>
-        <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Pdf</a></td>
+        <td></td>
    </tr>
     <tr>
         <td>10</td>
@@ -107,7 +107,7 @@
         <td>Session & Demo</td>
         <td>Overview of Universal Account Connector</td>
         <td>30 mins</td>
-        <td><a href="./300-decks/14-Config-Connector-and-UAC-Connector.pdf">Pdf</a></td>
+        <td></td>
    </tr>
    <tr>
         <td>2</td>
@@ -123,7 +123,7 @@
         <td>Session & Demo</td>
         <td>Managing Scope 1 & 2 in Envizi</td>
         <td>45 mins</td>
-        <td><a href="./300-decks/15-Scope-1-and-2.pdf">Pdf</a></td>
+        <td></td>
    </tr>
     <tr>
         <td>4</td>
@@ -131,7 +131,7 @@
         <td>Session & Demo</td>
         <td>Managing Scope 3 in Envizi</td>
         <td>45 mins</td>
-        <td><a href="./300-decks/16-Scope-3-Solution-Overview.pdf">Pdf</a></td>
+        <td></td>
    </tr>
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
@@ -285,8 +285,7 @@
         <td>Session & Demo</td>
         <td>Envizi API</td>
         <td>15 mins</td>
-        <td></td>
-        <td><a href="./v153-Use-API-to-extract-reports-data-session">Link</a></td>
+        <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
 
 
    </tr>
@@ -304,7 +303,7 @@
         <td>Session</td>
         <td>Data Monitoring,  Health & Issue Management</td>
         <td>60 mins</td>
-        <td><a href="./300-decks/17-Data-Monitoring.pdf">Pdf</a></td>
+        <td></td>
    </tr>
    <tr>
         <td>4</td>

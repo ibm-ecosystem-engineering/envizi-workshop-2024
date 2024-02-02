@@ -290,95 +290,31 @@ Note: This script takes time to execute based on the data available in the org. 
 </details>
 
 
-# 5 Excercise
-
-Using the Envizi API, you are requested to do all the below mentioned excercises.
+## 5. Using API via PostMan
 
 <details><summary>CLICK ME</summary>
 
-## 5.1 How to do this excercise
 
-Need to call API twice for each excercise. The first call is to get the parameters of the report and then next call is get data based on the given paramters.
+## 5.1 Retrieve Report Names
 
-Based on your convenience, you can go for Curl based or Postman based approach.
+The `meta` API option allows the user to get the `list of reports` available for data download via API for this user. 
 
-### 5.1.1 Using Curl
-
-<details><summary>CLICK ME</summary>
 
 ### Retrieve Parameters
 
-1. Identify the report name mentioned in the excercise (use `meta` data report to find the exact name)
-
-2. Run the below code to get the parameters available for the identified report name.
-    - Subsitute the value for `REGION` and `TOKEN`
-    - Subsitute the value for `REPORT` with the identified report name
-    - Run the code in the terminal
-
-```
-export API_REGION=<<REGION>>
-export API_ACCESS_TOKEN==<<TOKEN>>
-
-export REPORT_NAME=<<REPORT>>
-
-export API_SUFFIX=api.envizi.com/api
-export API_URL="https://$API_REGION$API_SUFFIX/meta/$REPORT_NAME"
-
-
-curl "$API_URL" --header "Authorization: Bearer $API_ACCESS_TOKEN"
-```
-
-3. Process the results
-    - From the result identify the parameter name and value for the Group
-    - From the result identify the parameter name and value for the Period
-
-### Retrieve Data
-
-Report Name, Group, Period are identified. Now lets retrieve the data.
-
-1. The below code helps to get the parameters available for the identified report name.
-
-    - Subsitute the value for `REGION` and `TOKEN`
-    - Subsitute the value for `URL_VALUE` with the report name, group and period details. The example value could be `_Envizi-IssueDetails?Period=1&End_Period=2023/03/31&Group_Id=5003114`
-    - Run the code in the terminal
-
-```
-export API_REGION=<<REGION>>
-export API_ACCESS_TOKEN==<<TOKEN>>
-
-export URL_SUFFIX=<<URL_VALUE>>
-
-export API_SUFFIX=api.envizi.com/api
-export API_URL="https://$API_REGION$API_SUFFIX/data/$URL_SUFFIX"
-
-curl "$API_URL" --header "Authorization: Bearer $API_ACCESS_TOKEN"
-```
-
-3. View the results
-
-</details>
-
-### 5.1.2 Using Postman
-
-<details><summary>CLICK ME</summary>
-
-### Retrieve Parameters
-
-1. Identify the report name mentioned in the excercise (use `meta` data report to find the exact name)
-
-2. Prepare URL
+1. Prepare URL
     - Subsitute the value for `REGION`
     - Subsitute the value for `REPORT` with the identified report name
 ```
 https://<<REGION>>api.envizi.com/api/meta/reports/<<REPORT>>
 ```
 
-3. In the postman, click on + to create new tab.
+2. In the postman, click on + to create new tab.
 
 <img src="images/postman1.png">
 
 
-4. Enter the following in the postman window.
+3. Enter the following in the postman window.
 
     - Above prepared URL
     - GET option to be selected
@@ -387,9 +323,40 @@ https://<<REGION>>api.envizi.com/api/meta/reports/<<REPORT>>
 <img src="images/postman2.png">
 
 
-5. Click on the `Send` button
+4. Click on the `Send` button
 
-6. Process the results
+5. Process the results
+    - From the result identify the parameter name and value for the Group
+    - From the result identify the parameter name and value for the Period
+
+
+
+### Retrieve Parameters
+
+1. Prepare URL
+    - Subsitute the value for `REGION`
+    - Subsitute the value for `REPORT` with the identified report name
+```
+https://<<REGION>>api.envizi.com/api/meta/reports/<<REPORT>>
+```
+
+2. In the postman, click on + to create new tab.
+
+<img src="images/postman1.png">
+
+
+3. Enter the following in the postman window.
+
+    - Above prepared URL
+    - GET option to be selected
+    - Authorization > Bearer token > Token
+
+<img src="images/postman2.png">
+
+
+4. Click on the `Send` button
+
+5. Process the results
     - From the result identify the parameter name and value for the Group
     - From the result identify the parameter name and value for the Period
 
