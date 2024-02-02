@@ -18,7 +18,7 @@ Refer the content [here](../153-Use-API-to-extract-reports-data-session) if you 
 
 # 3. Excercise
 
-Do all the below exercises. Refer the content [here](../153-Use-API-to-extract-reports-data-session) for your help.
+Do all the below exercises.
 
 ### Excercise 1
 
