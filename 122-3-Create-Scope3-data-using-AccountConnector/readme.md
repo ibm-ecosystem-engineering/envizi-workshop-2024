@@ -197,7 +197,6 @@ Let us take a look at the data loaded into various accounts of our bank location
 
 <img src="images/Bank-Scope3-Accounts.png"> 
 
-
 2. The `Account Summary` page is displayed.
 
 <img src="images/Bank-Scope3-AccountSummary.png">

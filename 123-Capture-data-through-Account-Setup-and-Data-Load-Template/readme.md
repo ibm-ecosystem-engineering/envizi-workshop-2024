@@ -56,9 +56,9 @@ Lets extract the data for the  `electricity` account `IN Bank - Mumbai Co-Electr
 
 #### Observe the Data
 
-5. Open the file `Account_Setup_and_Data_Load.csv`
+5. Open the downloaded file `Account_Setup_and_Data_Load.csv`
 
-5. Verify the content of the file. 
+6. Verify the content of the file. 
 - As mentioned in the issue description above, this account has only one record loaded from July - Nov. 
 - And the column `Record Data Quality`  shows this record is `Estimated`.
 

@@ -21,13 +21,13 @@ We have already created the  Groups and locations for the same in the previous l
 
 <img src="images/AI-assist-download-templates-2.png">
 
-4. View file [Account Setup and Data Load - AI Assist.xlsx](./files/templates/Account%20Setup%20and%20Data%20Load%20-%20AI%20Assist.xlsx) contents
+4. Open the downloaded file `Account Setup and Data Load - AI Assist.xlsx` contents
 
 5. Go through all the 4 sheets of the file carefully to get more insights on AI Assist feature
-   - **Records to load              : ** This is main data file which will be processed once uploaded into the system 
-   - **Guidance                     : ** Provides overview of AI Assist, important notes on how to use various fields, do and don't 
-   - **Supported account styles     : ** Provides list Account styles supported for Scope 3 - Category 1 Purchased Goods and Services in Envizi through Eora 66 Emission factor library
-   - **Template fields definitions  : ** - Details on field types , mandatory or optional, etc
+   - **Records to load              :** This is main data file which will be processed once uploaded into the system 
+   - **Guidance                     :** Provides overview of AI Assist, important notes on how to use various fields, do and don't 
+   - **Supported account styles     :** Provides list Account styles supported for Scope 3 - Category 1 Purchased Goods and Services in Envizi through Eora 66 Emission factor library
+   - **Template fields definitions  :** - Details on field types , mandatory or optional, etc
 
 <img src="images/AI-assist-templates-contents.png">
 
@@ -38,7 +38,8 @@ We have already created the  Groups and locations for the same in the previous l
 
 1. Make a copy of the template file 
 
-2. Prepare the template file by filling relevant columns or take the sample file available [here](./files/data/Account%20Setup%20and%20Data%20Load%20-%20AI%20Assist-set1.xlsx)
+2. Prepare the template file by filling relevant columns or take the sample file
+`Account-Setup-and-Data-Load-AI-Assist-set1.xlsx` available [here](./files/Account-Setup-and-Data-Load-AI-Assist-set1.xlsx) or in the shared Box folder.
 
 3. Verify the values of the mandatory fields
    - Organization 
@@ -114,7 +115,7 @@ The following exercise calls out a a scenario where the account style assigned b
 
 ### 3.1 Upload file for AI Assist Processing
 
-1. Take copy of the  sample file [Account Setup and Data Load - AI Assist-set2.xlsx](./files/data/Account%20Setup%20and%20Data%20Load%20-%20AI%20Assist-set2.xlsx)
+1. Take copy of the  sample file `Account-Setup-and-Data-Load-AI-Assist-set2.xlsx` from [here](./files/Account-Setup-and-Data-Load-AI-Assist-set2.xlsx) or from the shared Box folder.
 
 2. Update the fields Organization and prefix of location as created in your hierarchy in the file.  The file content looks like
 
