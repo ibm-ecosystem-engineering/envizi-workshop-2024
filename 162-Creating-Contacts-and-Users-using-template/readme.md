@@ -16,7 +16,8 @@ Here are the key steps in this process:
 
 ## 1. Download the Template
 
-1. Download the excel template here [371-PartnerTraining-ContactCreate-and-Update_v1.xlsx](./files/371-PartnerTraining-ContactCreate-and-Update_v1.xlsx.xlsx). Get the file from the shared folder, if the link is not working.
+1. Download the excel template `ContactCreate-and-Update_v1.xlsx` from [here](./files/ContactCreate-and-Update_v1.xlsx) or from the shared Box folder.
+
 
 ## 2. Understand the template
 
@@ -34,7 +35,7 @@ We are going to use the Prepopulated Template to feed in the contacts and login.
 
 ### 3.1 Download the Prepopulated Template
 
-1. Download the Prepopulated Template data file here [372-Envizi_SetupContacts_G11.xlsx](./files/372-Envizi_SetupContacts_G11.xlsx). Get the file from the shared folder, if the link is not working.
+1. Download the Prepopulated Template data file `Envizi_SetupContacts_G11.xlsx` from [here](./files/Envizi_SetupContacts_G11.xlsx) or from the shared Box folder.
 
 ### 3.2 Understand the Prepopulated Template
 
