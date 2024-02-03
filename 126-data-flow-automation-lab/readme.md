@@ -11,7 +11,7 @@ In this exercise you would learn how to use Postman tool to invoke CloudStorage 
 - Access Key
 - Secret Access Key
   
-For this exercise, refer the s3-configs.txt file updated by instructor
+You can find this info in the file `s3-config.txt` from [here](./files/s3-config.txt)  or from the shared Box folder.
 
 2. Keep you input file in UDC format ready
 You can take the sample file `POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) or from the shared Box folder and update the content based on the data which you want to ingest
