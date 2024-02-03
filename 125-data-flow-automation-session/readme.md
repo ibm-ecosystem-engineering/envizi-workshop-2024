@@ -133,10 +133,9 @@ The Data pipeline is created.
 
 Lets use the sample python script [main.py](./python/main.py) to push the [data.xlsx](./python/data.xlsx) file into S3 now. 
 
-
 1. Download the `main.py` and `data.xlsx` files into a folder.
 
-2. Update the `Location` column in the `data.xlsx` with the some existing location in your envizi environment.
+2. Update the `Organization`, `Location` and `Account Style Caption` column in the `data.xlsx` with the some existing location in your envizi environment.
 
 3. Open the linux/mac terminal window and goto folder where you downloaded the `main.py` file.
 

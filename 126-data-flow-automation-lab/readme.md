@@ -14,7 +14,7 @@ In this exercise you would learn how to use Postman tool to invoke CloudStorage 
 For this exercise, refer the s3-configs.txt file updated by instructor
 
 2. Keep you input file in UDC format ready
-You can take the sample file from [POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) and update the content based on the data which you want to ingest
+You can take the sample file `POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) or from the shared Box folder and update the content based on the data which you want to ingest
 
 ## 1. Use Postman tool to load the Data into Envizi S3 Folder
 
