@@ -113,7 +113,7 @@
         <td><a href="./160-contacts-logins">Link</a>  </td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>2</td>
         <td>User mgmt</td>
         <td><strong>Lab</strong></td>
         <td>Creating Contacts and Users</td>
@@ -121,7 +121,7 @@
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></a></td>
     </tr>    
     <tr>
-        <td>1</td>
+        <td>3</td>
         <td>API Integrations</td>
         <td>Session & Demo</td>
         <td>Envizi API</td>
@@ -129,7 +129,7 @@
         <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
    </tr>
     <tr>
-        <td>2</td>
+        <td>4</td>
         <td>API Integrations</td>
         <td><strong>Lab</strong></td>
         <td>Use API to extract reports data</td>
@@ -137,7 +137,7 @@
         <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
    </tr>
     <tr>
-        <td>9</td>
+        <td>5</td>
         <td>Data flow Automation</td>
         <td>Session & Demo</td>
         <td>Data flow automation in Envizi</td>
@@ -145,7 +145,7 @@
         <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>
     <tr>
-        <td>10</td>
+        <td>6</td>
         <td>Data flow Automation</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
@@ -172,29 +172,21 @@
         <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
    </tr>    
     <tr>
-        <td>3</td>
-        <td>Targets setting</td>
+        <td>9</td>
+        <td>Target setting & Tracking</td>
         <td>Session & Demo</td>
         <td>Target setting and tracking  </td>
-        <td>30 mins</td>
+        <td>45 mins</td>
         <td></td>
    </tr>
     <tr>
-        <td>4</td>
-        <td>Targets setting</td>
+        <td>10</td>
+        <td>Target setting & Tracking</td>
         <td><strong>Lab</strong></td>
         <td>Target setting and tracking  </td>
         <td>30 mins</td>
         <td><a href="./171-Target-setting-and-tracking">Link</a></td>
    </tr> 
-    <tr>
-        <td>6</td>
-        <td>Programs Tracking</td>
-        <td>Session & Demo</td>
-        <td>Sustainability Programs Tracking   </td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>   
     <tr>
         <td colspan="6">&nbsp;</td>
     </tr>    
@@ -210,7 +202,7 @@
         <td></td>
    </tr>
    <tr>
-        <td>4</td>
+        <td>2</td>
         <td>Data Monitoring & Validation</td>
         <td><strong>Lab</strong></td>
         <td>Identify data gaps and Raise issues using Issue Management</td>
@@ -218,7 +210,7 @@
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a> </td>
     </tr>
     <tr>
-        <td>5</td>
+        <td>3</td>
         <td>Data Monitoring & Validation </td>
         <td><strong>Lab</strong></td>
         <td>Capture data using Issue management</td>
@@ -226,18 +218,26 @@
         <td><a href="./131-Capture-data-through-issue-management">Link</a> </td>
     </tr>
    <tr>
-        <td>6</td>
+        <td>4</td>
         <td>Data Monitoring & Validation</td>
         <td><strong>Lab</strong></td>
         <td>Capture data through Account Setup and Data Load Template</td>
-        <td>60 mins</td>
+        <td>45 mins</td>
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a> </td>
     </tr>
     <tr>
+        <td>5</td>
+        <td>Programs Tracking</td>
+        <td>Session & Demo</td>
+        <td>Sustainability Programs Tracking   </td>
+        <td>30 mins</td>
+        <td></td>
+   </tr>    
+    <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
-    </tr>     
+    </tr>   
    <tr>
-        <td>7</td>
+        <td>6</td>
         <td>What’s new and latest in Envizi</td>
         <td>Session & Demo</td>
         <td>Explore the Latest features released and roadmap( eg: Tags, Virtual Account, Account Style Editor, New framework updates, support new languages)</td>
@@ -245,7 +245,7 @@
         <td></td>
    </tr>
    <tr>
-        <td>8</td>
+        <td>7</td>
         <td>Integration of other products with Envizi</td>
         <td>Lab</td>
         <td> Envizi Integration with Tririga, Maximo, Turbonomic, Platform Analytics, Supply Chain Intelligent Suite(SCIS)</td>
