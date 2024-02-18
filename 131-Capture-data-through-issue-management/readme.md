@@ -19,8 +19,7 @@ So far in this lab exercise,
 
 Now, lets look at how the issue is resolved by the assigned user. 
 
-1. Login in Envizi UI with the user with `DataManager role`. Note: This step is required only if issue is assigned to a different username with Datamanager role, Otherwise continue below. Also note that, the menu options look different for the user with DataManager role. Below screenshots are from the Envizi UI using user with DataManager role. 
-
+1. The user would receive an Email notification once the issue is assigned to him/her and  Login to Envizi UI to check the details of issue. 
 
 ### Open Issue-Summary
 
@@ -71,26 +70,26 @@ Scroll-down on the page to view the activity log of the issue.
 
 ### Update Issue Status as SUBMITTED
 
-9. Now lets Update the status of the issue as it is resovled. Click on  `Boards` from right-hand corner on the issue page
+10. Update the status of the issue to `SUBMITTED`. Lets do this using Kanban boards.  Click on  `Boards` from right-hand corner on the issue page
 
 <img src="images/Envizi-DataManager-Issue-Board.png">
 
 
-10.  Drag and drop the issue tile from `IN PROGRESS` column from Board to `SUBMITTED` column
+11. Drag and drop the issue tile from `IN PROGRESS` column from Board to `SUBMITTED` column
 
 <img src="images/Envizi-DataManager-Issue-Board-updated.png">
 
 ### Update Issue Status as Resolved
 
-11. The assignee will be notified on the status of the issue and can view the records loaded into Envizi Account
+12. As soon as the status update, system will send the email notifications with the status updates.  
 <img src="images/Envizi-Issue-Capture-data-verified.png">
 
-12.  Once verified the records, the System admin update of the issue status from `Submitted` to `Resolved`
+1.  The System Admin or the user with IssueManager role, will verify the issue and the records loaded. Once satisifed with the issue status, the user will be change the status of the issue from `Submitted` to `Resolved`
 <img src="images/Envizi-Issues-Resolved.png">
 
 ### Issue Activity log
 
-13.   Assigned user is notififed of the status change. Can also check activity log. 
+14.   Assigned user is notififed of the status change. Can also check activity log. 
 
 <img src="images/Envizi-Issues-Done.png">
 

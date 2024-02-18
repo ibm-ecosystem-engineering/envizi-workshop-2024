@@ -6,7 +6,7 @@ Refer the content [here](../153-Use-API-to-extract-reports-data-session) if you 
 
 # 1. Identify API URL
 
-1. Indentify the API URL based on the user.
+1. Identify the API URL based on the user.
 
 # 2. Generate API Token
 

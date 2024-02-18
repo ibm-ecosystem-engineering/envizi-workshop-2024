@@ -114,6 +114,16 @@ Create an user with the below details and assign the specialized role.
 - Access Role : General User
 - Specialized Role : Personal role for API Tokens
 
+### Create Issue Manager
+
+Create an user with the below details and assign the work role.
+
+- First Name : YourFirstName IssueManager (ex: `Peter IssueManager`)
+- Last Name : YourLastName
+- User Name : YourFirstName_YourLastName_issuemanager@ibmapac.com  (ex: `peter_john_issuemanager@ibmapac.com`)
+- Access Role : General User
+- Work Role : Issue Manager
+
 ### Create SRM User
 
 Create an user with the below details and assign the specialized role.

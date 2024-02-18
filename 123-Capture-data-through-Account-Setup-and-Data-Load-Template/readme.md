@@ -24,7 +24,7 @@ This step is basically showcase how users with different roles and responsibilit
 2. Select the issue and click on `view issue`
 3. View the description of the issue and other details.
 
-To address this issue, users has to update the existing data. The user needs to use `Capture data` to edit / load  the data record by record. But it would be a tedious task if there are more records to update or load. Hence user will be going with template based approach, following the instructions from next section.
+To address this issue, users has to update the existing data. The user can use `Capture data` to edit / load  the data record by record. But it would be a tedious task if there are more records to update or load. Hence user will be going with template based approach, following the instructions from next section.
 
 <img src="images/Envizi-Estimate-data-issue.png">
 
@@ -103,7 +103,7 @@ Lets upload the file to load data into Envizi Accounts by navigating through  `M
 
 ## 6. Close the issue
 
-You can go ahead and close the issue raised. 
+The user with the System Admin / General user with Issue manager role can verify the status of the issue and  take it to closure.
 
 1. Open the issue by navigating `Monitor` -> `All Issues` -> Select `issue`
 
@@ -113,5 +113,5 @@ You can go ahead and close the issue raised.
 
 In this exercise, we learnt how to update the existing data of an account using the `Account Setup and Data Load` template provided by Envizi.
 
-This template is useful to update the data of the accounts belong to Single Account style with Qty and Cost data fields. If you want to update multiple accounts data of different account styles, then you can leverage the template provided by report `Account Setup and Data Load PM&C` . 
+This template is useful to create new records or update the data of the accounts belong to Single Account style with Qty and Cost data fields. If you want to update multiple accounts data of different account styles, then you can leverage the template provided by report `Account Setup and Data Load PM&C` . 
 

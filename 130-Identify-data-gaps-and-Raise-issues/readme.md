@@ -287,7 +287,7 @@ In this section, we will raise issues against the accounts and assign to an user
 - Source: Leave defaults `Accounts`
 - Related to: Leave deafault, shows account name for which the issue is being raised for
 - Priority: Select as per issue's context
-- Assignee: Select the email address of the user whom this issue has to be assigned to and worked upon. Select your username with datamanager role , ex: indira.datamanager@xxxx.com. If not select your Envizi instance logged in user.  
+- Assignee: Select the email address of the user whom this issue has to be assigned to and worked upon. It good practise to select a user who would be responsible for capturing the data from the location.  If not, assign it to self.
 - Reporter: Leave defaults
 - Category: Leave defaults to `Data Capture` 
 - Sub Category: Select `Account in Arrears` or `Missing Records`
@@ -295,7 +295,7 @@ In this section, we will raise issues against the accounts and assign to an user
 - Capture Data To: Select the data till when the data has to be captured
 - Due Date: Select by when the issue has to be acted upon
 
-6. Click on `Save` button
+1. Click on `Save` button
 
 <img src="images/Envizi-Account-Issue-3.png"> 
 
