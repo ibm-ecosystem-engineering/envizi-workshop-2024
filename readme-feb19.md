@@ -162,31 +162,31 @@
         <td>Creating Custom power reports and best practices </td>
         <td>30 mins</td>
         <td></td>
-   </tr>
-   <tr>
+    </tr>
+    <tr>
         <td>8</td>
         <td>Reports</td>
         <td><strong>Lab</strong></td>
         <td>Creating Custom power reports</td>
         <td>45 mins</td>
         <td><a href="./145-Creating-Custom-power-reports">Link</a></td>
-   </tr>    
+    </tr>    
     <tr>
         <td>9</td>
         <td>Target setting & Tracking</td>
-        <td>Session & Demo</td>
+        <td>Session & Lab </td>
         <td>Target setting and tracking  </td>
         <td>45 mins</td>
-        <td></td>
-   </tr>
+        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
+    </tr>
     <tr>
         <td>10</td>
-        <td>Target setting & Tracking</td>
-        <td><strong>Lab</strong></td>
-        <td>Target setting and tracking  </td>
+        <td>Programs Tracking</td>
+        <td>Session & Demo</td>
+        <td>Sustainability Programs Tracking   </td>
         <td>30 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr> 
+        <td></td>
+   </tr>       
     <tr>
         <td colspan="6">&nbsp;</td>
     </tr>    
@@ -225,19 +225,12 @@
         <td>45 mins</td>
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a> </td>
     </tr>
-    <tr>
-        <td>5</td>
-        <td>Programs Tracking</td>
-        <td>Session & Demo</td>
-        <td>Sustainability Programs Tracking   </td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>    
+
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>   
    <tr>
-        <td>6</td>
+        <td>5</td>
         <td>What’s new and latest in Envizi</td>
         <td>Session & Demo</td>
         <td>Explore the Latest features released and roadmap( eg: Tags, Virtual Account, Account Style Editor, New framework updates, support new languages)</td>
@@ -245,7 +238,7 @@
         <td></td>
    </tr>
    <tr>
-        <td>7</td>
+        <td>6</td>
         <td>Integration of other products with Envizi</td>
         <td>Lab</td>
         <td> Envizi Integration with Tririga, Maximo, Turbonomic, Platform Analytics, Supply Chain Intelligent Suite(SCIS)</td>
