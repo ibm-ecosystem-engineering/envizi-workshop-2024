@@ -298,7 +298,7 @@
         <td>7</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation lab (S3)</td>
-        <td> ???????? </td>
+        <td>  </td>
         <td>30 mins</td>
         <td></td>
    </tr>   
