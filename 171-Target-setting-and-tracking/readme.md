@@ -112,6 +112,8 @@ Now, we have created the Bottiom-up target for the two accounts as shown in the 
 
 </details>
 
+</details>
+
 ## 2. View the Target comparision on Performance dashboards.
 
 <details><summary>CLICK ME</summary>
