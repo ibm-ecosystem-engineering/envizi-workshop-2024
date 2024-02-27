@@ -23,6 +23,7 @@ Lets look into different accounts related to `Electricity`
 
 ## 2.1 Activity data - Scope 2 - Electricity
 
+<details><summary>CLICK ME</summary>
 
 ### Account: IN Bank - London Co-Electricity
 
@@ -92,7 +93,11 @@ This is the `defautl factor set in Envizi`. If there is no region specific facto
 
 <img src="images/IN Bank - Mumbai Co-Electricity-EF.png">
 
+</details>
+
 ## 2.2 Activity data - Scope 1 -  Diesel
+
+<details><summary>CLICK ME</summary>
 
 1. Look at the below 2 accounts 
 
@@ -104,7 +109,11 @@ This is the `defautl factor set in Envizi`. If there is no region specific facto
 ### Account: IN Bank - Washington DC Co-Diesel
 <img src="images/IN Bank - Washington DC Co-Diesel-EF.png">
 
+</details>
+
 ## 2.3 Activity data - Scope 3 
+
+<details><summary>CLICK ME</summary>
 
 ### Account: IN Bank - Employe Air miles -Business
 
@@ -114,10 +123,13 @@ This is the `defautl factor set in Envizi`. If there is no region specific facto
 
 ### Account: IN Bank - Alfa Furtniture_S3.1 - Furniture and related products - USD or local_Alfa Furtniture India
 
+<img src="images/IN Bank - Alfa Furtniture-EF.png">
 
-IN Bank - Alfa Furtniture-EF
+</details>
 
-## 2.3 Activity data - No Emissions calculated
+## 2.4 Activity data - No Emissions calculated
+
+<details><summary>CLICK ME</summary>
 
 Lets also look at the scenario where Emissions are not calculated. 
 
@@ -141,6 +153,8 @@ You can notice that, the emissions are not calculated for data captured for the 
 This happens when there are no matching factors found the Envizi emission library. In such cases, we can apply the Custom factors. 
 
 In the Custom Factors lab, we can learn how to create and apply the custom emission factors.
+
+</details>
 
 # 3. Conclusion
 
