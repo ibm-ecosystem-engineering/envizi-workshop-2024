@@ -11,6 +11,8 @@ In this lab you would be performing the following key steps
 
 ## 1. Create Bottom-up targets for the Accounts. 
 
+<details><summary>CLICK ME</summary>
+
 Lets say the business unit leader tasked to reduce the consumptions for each individual datatype for the location - IN Bank - Mumbai Co
 
 To start with, the business unit leader focused on to reduce Electricity and Gasoline. Hence the business leader came up with the reduction targets for these two accounts belongs to the locations.  The data for each of this data type is captured in respective accounts, hence the target is set directly on the Account level 
@@ -28,6 +30,8 @@ To start with, the business unit leader focused on to reduce Electricity and Gas
 Lets now create these targets in the Envizi Platform.  To start with the first step is to create a Target container and then add the targets for various accounts / locations.
 
 ### 1.1 Create Bottom-up target
+
+<details><summary>CLICK ME</summary>
 
 1. Navigate to `Manage > TARGETS AND RATES > Bottom-up Targets` 
 
@@ -54,7 +58,11 @@ Lets now create these targets in the Envizi Platform.  To start with the first s
 
 Now that the Bottom-up Target container is created to hold the target data for the accounts.
 
+</details>
+
 ### 1.2 Create Target Data for the identified accounts 
+
+<details><summary>CLICK ME</summary>
 
 ##### 1.2.1 Data type: Electricity, Account: IN Bank - Mumbai Co-Electricity 
 
@@ -102,8 +110,11 @@ Now, we have created the Bottiom-up target for the two accounts as shown in the 
 
 <img src="images/IN Bank - Mumbai Co-Account-TargetData.png">
 
+</details>
 
 ## 2. View the Target comparision on Performance dashboards.
+
+<details><summary>CLICK ME</summary>
 
 As we have created the bottom-up target and target values set for the accounts, lets have a look at how the consumption values vs target for these accounts.
 Note: there can be a 24hr delay after changing the status before the target data is updated/removed in the datamart which provides data for the dashboards and reports. 
@@ -111,8 +122,10 @@ Note: there can be a 24hr delay after changing the status before the target data
 1. Navigate to `Monitor > Performance > Performance By Data Type` 
 
 2. On `Performance By Data Type` page, Click on `Filters`
-   
-### View  Target comaprision for data type : Electricity
+
+### 2.1 View  Target comaprision for data type : Electricity
+
+<details><summary>CLICK ME</summary>
 
 
 1. Select below filters and and `Apply`
@@ -137,7 +150,11 @@ Note: there can be a 24hr delay after changing the status before the target data
 
 Similarly, you can  view the Target comparisoion for the other datatype for which the target was set above. 
 
-### View  Target comaprision for data type : Gasoline
+</details>
+
+### 2.2 View  Target comaprision for data type : Gasoline
+
+<details><summary>CLICK ME</summary>
 
 1. Select the filter for 
 - `Group`: `IN Bank`
@@ -155,6 +172,9 @@ Similarly, you can  view the Target comparisoion for the other datatype for whic
 
 4. Observer that yearly target values are not met and actually the cosumption is 75%  increased than target value
    
+</details>
+
+</details>
 
 ## Conclusion:
 In this lab we have learnt how to create the bottom-up targets at last level of organization heirarchy that is account level. YOu can create bottom-up target at account / meter or location level. We have also set the yearly target for the various activity data and compared the targets against the yearly consumption.
