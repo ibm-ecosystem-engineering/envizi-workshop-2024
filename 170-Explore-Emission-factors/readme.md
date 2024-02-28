@@ -79,10 +79,10 @@ Lets look into different accounts related to `Electricity`
 
 2. Observe the factor set applied 
 
+3. Same factor set which applied to `Chicago` account is applied to this account, because both the locations `Chicago` and `New York` are from same region/ country `United States` and have the same activity data type associated.
+
 <img src="images/IN Bank - New York Br-Electricity-EF.png">
 
-
-3. Same factor set which applied to `Chicago` account is applied to this account, because both the locations `Chicago` and `New York` are from same region/ country `United States` and have the same activity data type associated.
 
 ### Account: IN Bank - Mumbai Co-Electricity
 
