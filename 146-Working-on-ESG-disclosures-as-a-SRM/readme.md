@@ -1,11 +1,14 @@
 # Working on ESG disclosures as a Sustainability Reporting Manager (SRM)
 
 In this lab exercise you will learn how to leverae Sustainability Reporting Manager Module of Envizi to help create the ESG disclosures and work on the same. 
-In this lab, we will use various role plays who would create disclosure, work on disclosure questions, review the responses and approve to the completion.
+
+In this lab, we will use various role plays who would do the following.
+- Create disclosure
+- Work on disclosure questions
+- Review the responses
+- Approve to the completion
 
 We will basically follow the workflow as shown here from end-to-end, create disclosure, assign ownership, complete the disclosure.
-
-
 
 <img src="images/SRM-workflow.png">
 
@@ -13,40 +16,46 @@ To do this lab with various personas, we should have the following users created
 
 <table>
     <thead>
-        <th>SRM Persona </th>
-        <th>First Name </th>        
-        <th>Username </th>
-        <th>Access + Special Role </th>        
+        <th>SRM Persona</th>
+        <th>First Name</th>       
+        <th>Username</th>
+        <th>Access Role</th>
+        <th>Special Role</th>
     </thead>
     <tr>
-        <td>System Administrator + SRM Role</td>        
+        <td>SRM</td>        
         <td>Your Envizi Admin User</td>
-        <td>Envizi System Admin user</td>        
+        <td>Your Envizi Admin User</td>
         <td>System Administrator</td>
+        <td>SRM Role</td>
     </tr> 
     <tr>
         <td>SRM Owner (Disclosure Owner)</td>
         <td>xxx_SRM Owner</td>    
         <td>xxx_srmowner</td>
-        <td>General User + SRM Role</td>                
+        <td>General User</td>
+        <td>SRM  Role</td>     
     </tr> 
     <tr>
         <td>Data Owner</td>        
         <td>xxx_Data Owner</td>
         <td>xxx_dataowner</td>
-        <td>General User + SRM Role</td>                
+        <td>General User</td>
+        <td>SRM  Role</td>     
     </tr> 
     <tr>
         <td>SRM Reviewer</td>
         <td>xxx_SRM Reviewer</td>    
         <td>xxx_srmreviewer</td>
-        <td>General User + SRM Role</td>                
+        <td>General User</td>
+        <td>SRM  Role</td>     
     </tr> 
     <tr>
         <td>xxx_SRM Approver</td>    
         <td>xxx_srmapprover</td>
-        <td>General User + SRM Role</td>                
-        <td>SRM  Approver</td>        
+        <td>General User + SRM Role</td>     
+        <td>General User</td>
+        <td>SRM  Role</td>     
     </tr> 
     </table>
 
