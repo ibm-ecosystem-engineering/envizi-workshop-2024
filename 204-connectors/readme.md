@@ -1,5 +1,10 @@
 # Envizi Connectors & Templates
 
+
+### Data Flow Automation
+
+<img src="images/10-pathways.png">
+
 ### Envizi connectors
 
 <img src="images/00-connectors.png">
