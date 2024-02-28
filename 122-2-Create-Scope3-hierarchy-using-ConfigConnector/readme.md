@@ -27,7 +27,7 @@ Here are the key steps in this process:
 Now, Let's create the Scope 3 grouping structure as we have defined in our organization hierarchy. 
     <img src="images/Org-Hier-S3.png">
 
-## 2.1. Populate Template with Organization Hierarchy for Scope 3 Grouping structure
+## 2.1. Populate Template with Organization Hierarchy for Scope 3 Grouping structure (Optional)
 
 You already familiar with the Config Connector as you have performed the lab exercise to create part of the Org hierarchy.
 

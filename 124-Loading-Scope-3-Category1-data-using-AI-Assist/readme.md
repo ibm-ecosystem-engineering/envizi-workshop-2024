@@ -5,7 +5,7 @@ In this exercise, using AI assist features we will load spend-based data for the
 For reference, here is our Bank Scope 3 groups and categories identified.
 <img src="images/Bank-Scope3-Cat1-PGS.png">
 
-We have already created the  Groups and locations for the same in the previous lab exercises. This exercise provide the instructions to capture the data by leveraging AI Assistwith two different scenarios. 
+We have already created the  Groups and locations for the same in the previous lab exercises. This exercise provide the instructions to capture the data by leveraging AI Assist with two different scenarios. 
    - Scenario 1 : Automatically submit the file processed by AI Assist directly 
    - Scenario 2 : Modify the file processed by AI Assist and submit manually
 

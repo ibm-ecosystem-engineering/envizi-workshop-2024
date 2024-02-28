@@ -74,12 +74,12 @@ You can see there are multiple account styles for `Air Travel` representing vari
 
 For example, Account style caption starts with S3.x - represents Scope 3. Category x.
 
-- `S3.4 - Air Travel - Domestic - pkm`  : Air travel  represents `Scope 3  Category 4 - Upstream Transportation and Distribution`
-- `S3.6 - Air Travel-Long haul-Business - miles` :   Air travel  represents  `Scope 3  Category 6 - Business travel`
-- `S3.7 - Air Travel - Domestic - pkm` : Air travel  represents  `Scope 3  Category 7 - Employee commuting`
-- `S3.9 - Air Travel - Long-haul International - pkm`: Air travel  represents  `Category 9 - Downstream transportation and distribution`
+- **S3.4 - Air Travel - Domestic - pkm**  : Air travel  represents `Scope 3  Category 4 - Upstream Transportation and Distribution`
+- **S3.6 - Air Travel-Long haul-Business - miles** :   Air travel  represents  `Scope 3  Category 6 - Business travel`
+- **S3.7 - Air Travel - Domestic - pkm** : Air travel  represents  `Scope 3  Category 7 - Employee commuting`
+- **S3.9 - Air Travel - Long-haul International - pkm**: Air travel  represents  `Category 9 - Downstream transportation and distribution`
 
-In our example, Business travel is basically representing the employess travel for the various conferences,client meetings, etc on business purpose. Hence our data belongs to Category 6 - S3.6. 
+In our example, `Business travel` is basically representing the employess travel for the various conferences,client meetings, etc on business purpose. Hence our data belongs to `Category 6 - S3.6`. 
 
 Now, narrow down on S3.6 account styles, and based on the additional parameters like class - businesss/ economy, etc and long-haul/ short-haul , chose the appropriate account style from the list and take a note of values of the fields 
 
