@@ -51,9 +51,9 @@ To do this lab with various personas, we should have the following users created
         <td>SRM  Role</td>     
     </tr> 
     <tr>
+        <td>SRM Approver</td>
         <td>xxx_SRM Approver</td>    
         <td>xxx_srmapprover</td>
-        <td>General User + SRM Role</td>     
         <td>General User</td>
         <td>SRM  Role</td>     
     </tr> 
@@ -65,7 +65,7 @@ To do this lab with various personas, we should have the following users created
 <details><summary>CLICK ME</summary>
 
 
-### 1.1 Login with `System Administrator` Access Role + `SRM`
+### 1.1 Login with `System Administrator` Access Role + `SRM` 
 
 1. Login into as `System Administrator role` with `SRM Role` access
    
@@ -113,16 +113,17 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 
 5. Click on  `CREATE DISCLOSURE`
 
+<img src="images/Envizi-SRM-page-srmowner2.png">
+
 The disclosure got created.
 
-<img src="images/Envizi-SRM-page-srmowner2.png">
+<img src="images/Envizi-SRM-Add Disclosure-3.png">
 
 
 Please note that we are setting all the users to the same as Disclosure owner here, because in the next step the disclosure owner can take more control on whom to assign which roles. 
 
 Similarly, Disclosure Owner can assign an `approver`, hence not selected here.
 
-<img src="images/Envizi-SRM-Add Disclosure-2.png">
 
 </details>
 
