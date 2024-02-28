@@ -223,6 +223,8 @@ User can check their inbox for the messages from `messenger@envizi.com <messenge
 
 ## 4. Working on Questions assigned by Assignee (xxx_SRM Data Owner)
 
+<details><summary>CLICK ME</summary>
+
 1. Log into Envizi with user `xxx_SRM Data Owner`
 2. Navigate to `Sustainability Reporting Manager` page
 
@@ -280,7 +282,7 @@ Now that the some questions are assigned to review, lets look at Reviewer's view
 
 </details>
 
-## 4. Reviw the questions by Reviewer (xxx_SRM Reviewer)
+## 5. Reviw the questions by Reviewer (xxx_SRM Reviewer)
 
 <details><summary>CLICK ME</summary>
 
@@ -304,7 +306,7 @@ Note: If the response is not satisifactory, Reviewer can send back the question 
    
 </details>
 
-## 5. Approve the questions Review on Questions by Reviewer (xxx_SRM Reviwer)
+## 6. Approve the questions Review on Questions by Reviewer (xxx_SRM Reviwer)
 
 <details><summary>CLICK ME</summary>
 
@@ -336,7 +338,7 @@ In case, the responses are not satisifactory or additional information is needed
 
 </details>
 
-## 6. Export Disclosure document 
+## 7. Export Disclosure document 
 
 <details><summary>CLICK ME</summary>
 
