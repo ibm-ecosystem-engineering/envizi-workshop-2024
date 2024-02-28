@@ -430,7 +430,7 @@
    </tr>
     <tr>
         <td>3</td>
-        <td>Connectors</td>
+        <td>Connectors & Templates </td>
         <td><strong>Guide</strong></td>
         <td><a href="./204-connectors">Link</a></td>
    </tr>
