@@ -272,7 +272,7 @@
    </tr>     
     <tr>
         <td>4</td>
-        <td><strong>Lab</strong></td>
+        <td>Session</td>
         <td>Data flow automation in Envizi</td>
         <td></td>
         <td>30 mins</td>
@@ -280,6 +280,14 @@
    </tr>   
     <tr>
         <td>5</td>
+        <td><strong>Lab</strong></td>
+        <td>Data flow automation in Envizi</td>
+        <td></td>
+        <td>30 mins</td>
+        <td><a href="./125-data-flow-automation-session">Link</a></td>
+   </tr>   
+    <tr>
+        <td>6</td>
         <td>Session</td>
         <td>User Management</td>
         <td>Discussion on  create users, logins,  providing access, assigning various work roles,  setting password policies</td>
@@ -287,21 +295,13 @@
         <td><a href="./160-contacts-logins">Link</a>  </td>
    </tr>
     <tr>
-        <td>6</td>
+        <td>7</td>
         <td><strong>Lab</strong></td>
         <td>Creating Contacts and Users</td>
         <td>Creating Contacts and Users via UI</td>
         <td>30 mins</td>
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></a></td>
    </tr>  
-    <tr>
-        <td>7</td>
-        <td><strong>Lab</strong></td>
-        <td>Data flow automation lab (S3)</td>
-        <td>  </td>
-        <td>30 mins</td>
-        <td></td>
-   </tr>   
     <tr>
         <td>8</td>
         <td><strong>Lab</strong></td>
@@ -442,8 +442,8 @@
    </tr>
     <tr>
         <td>5</td>
-        <td>Lab: Create Custom Emission Factors</td>
-        <td><strong>Info</strong></td>
+        <td>Create Custom Emission Factors</td>
+        <td><strong>Lab</strong></td>
         <td><a href="./172-Custom-Emission-Factors">Link</a></td>
    </tr>     
 </table>
