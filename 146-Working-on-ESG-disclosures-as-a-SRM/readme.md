@@ -1,6 +1,6 @@
 # Working on ESG disclosures as a Sustainability Reporting Manager (SRM)
 
-In this lab exercise you will learn how to leverae Sustainability Reporting Manager Module of Envizi to help create the ESG disclosures and work on the same. 
+In this lab exercise you will learn how to leverage Sustainability Reporting Manager Module of Envizi to help create the ESG disclosures and work on the same. 
 
 In this lab, we will use various role plays who would do the following.
 - Create disclosure
@@ -12,7 +12,7 @@ We will basically follow the workflow as shown here from end-to-end, create disc
 
 <img src="images/SRM-workflow.png">
 
-To do this lab with various personas, we should have the following users created with the roles provided in the table under column named `Access + Special Role`. To create the users and logins please refer [User creation lab exercise](/161-Creating-Contacts-and-Users-using-ui/readme.md) and create the following users by logging into Envizi with `System Adminstrator` role.  The SRM Persona will be defined in the SRM module while working on the disclosures.
+To do this lab with various personas, we should have the following users created with the roles provided in the table under column named `Access + Special Role`. To create the users and logins please refer [User creation lab exercise](/161-Creating-Contacts-and-Users-using-ui/readme.md) and create the following users by logging into Envizi with `System Administrator` role.  The SRM Persona will be defined in the SRM module while working on the disclosures.
 
 <table>
     <thead>
@@ -87,7 +87,7 @@ Observer that, user with `System Administrator` role can create the disclosures.
 2. Click on Envizi  `Sustainability Reporting Manager` in the home page
 3. On the Sustainability Reporting Manager page , you can see  `Framework Library`. 
 
-However you do NOT find the `Add Disclosure`  button, because currently you are not owner of any disclsoure or assigned to any disclosure to work on.
+However you do NOT find the `Add Disclosure`  button, because currently you are not owner of any disclosure or assigned to any disclosure to work on.
 
 <img src="images/Envizi-SRM-page-generaluser.png">
 
@@ -106,8 +106,8 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 
 4. Add details as below for the disclosure and assign to a owner `(xxx_SRM Owner)`
 - `Name` : Provide name of the disclosure. ex: `IN Bank BRSR Disclosure 2024`. (Don't forget to prefix with your Prefix-Id)
-- `Disclosure Owner` - Select SRM Owner user `xxx_SRM Owner` from the list. Type first 3 letters of user firstname, list would appear.
-- `Default Asignee` - Same as SRM Owner as above
+- `Disclosure Owner` - Select SRM Owner user `xxx_SRM Owner` from the list. Type first 3 letters of user first name, list would appear.
+- `Default Assignee` - Same as SRM Owner as above
 - `Default Reviewer` - Same as SRM Owner as above
 -  Set Due Dates for `Ready for Review`, `Complete by` and `Disclosure Due by`
 
@@ -162,7 +162,7 @@ The BRSR Framework page is displayed.
 
 9. Now, the disclosure owner can see all the questions on this page, along with the default assignee and reviewer  to the questions. 
 
-However there is no approver role assigned. Hene Disclosure owner wants to include an approver and then assign the questions to various users
+However there is no approver role assigned. Hence Disclosure owner wants to include an approver and then assign the questions to various users
 
 </details>
 
@@ -184,7 +184,7 @@ However there is no approver role assigned. Hene Disclosure owner wants to inclu
 
 <img src="images/Disclosure-page-srmowner-setproperties-3.png">
 
-3. Leave other fileds as-is and click `Save`
+3. Leave other fields as-is and click `Save`
 
 4. Now you can see the `Approver` role assigned against each question. 
 
@@ -199,19 +199,19 @@ However there is no approver role assigned. Hene Disclosure owner wants to inclu
 Now that the disclosure is created and also added the questions, the disclosure owner would like to do the following.
 - Distribute the questions to different users who can work on the question and provide the appropriate response.  - Assign a reviewer to each question so that he/she can review once the response is ready
 
-#### Set Assignee
+#### 3.3.1 Set Assignee
 
 1. On Disclosure page, Select the set of questions which you want to assign
 
 <img src="images/assign-questions-2.png">
 
-2. Click on `Assignee` but at the botton of the page 
+2. Click on `Assignee` but at the bottom of the page 
    
 3. Remove current assignee and select the user `xxx_Data Owner` 
    
 4. Click `Yes`
 
-#### Set Reviewer
+#### 3.3.2 Set Reviewer
 
 Similarly, Change Reviewer user. 
 
@@ -220,7 +220,7 @@ Similarly, Change Reviewer user.
 7. Now you can view on the page, the Assignee and Reviewers got updated.
 <img src="images/question-users-updated.png">
 
-#### Notification
+#### 3.3.3 Notification
 
 For each question and update, there is an Email notifications sent by the system. 
 
@@ -238,9 +238,9 @@ User can check their inbox for the messages from `messenger@envizi.com <messenge
 2. Navigate to `Sustainability Reporting Manager` page
 
 3. The page displays the details about the disclosure like 
-- Number of questions assigned and in different status (Todo,In progress, Ready for Review, Ready for Approval, Complete ) 
-- Due date with respect to reivew / approval / completion and disclosure
-- reviwers assigned
+- Number of questions assigned and in different status (Todo, In progress, Ready for Review, Ready for Approval, Complete ) 
+- Due date with respect to review / approval / completion and disclosure
+- reviewers assigned
 <img src="images/data-assignee-srmpage.png">
 
 
@@ -262,7 +262,7 @@ User can check their inbox for the messages from `messenger@envizi.com <messenge
 <img src="images/dataowner-question-work-1-details-2.png">
 
 For each of the question, Envizi provides additional guidance along with the supported which can supply the inputs to respond to the question.
-For examplle, for this selected question related to Scope 1, 2 emissions, Envizi Guidance  provides link to `Sustainaility Executive Report`
+For example, for this selected question related to Scope 1, 2 emissions, Envizi Guidance  provides link to `Sustainability Executive Report`
 
 Click on the `Sustainaility Executive Report` to get the details related to various scopes, to fill back as response to the question. 
 <img src="images/dataowner-question-work-1-report.png">
@@ -274,7 +274,7 @@ Click on the `Sustainaility Executive Report` to get the details related to vari
 
 You can leverage  `Search Responses` option on the  on top right corner , to get  matching response for this questions from previous / other disclosures if any available, where the similar question is answered / have responses filled. 
 
-9. Add attahchments. For example, you can download the `Sustainaility Executive Report`  and attach as a supporting document for the quantitative information provided. Similarly can add links and any other external documents as supplements for the response.
+9. Add attachments. For example, you can download the `Sustainability Executive Report`  and attach as a supporting document for the quantitative information provided. Similarly can add links and any other external documents as supplements for the response.
 
 10. Once done with response, Send to review by changing the  status from `In Progress` to `Ready for Review`
 
@@ -291,7 +291,7 @@ Now that the some questions are assigned to review, lets look at Reviewer's view
 
 </details>
 
-## 5. SRM Reviewer : Reviw the questions
+## 5. SRM Reviewer : Review the questions
 
 <details><summary>CLICK ME</summary>
 
@@ -305,13 +305,13 @@ Now that the some questions are assigned to review, lets look at Reviewer's view
 
 <img src="images/reviewer-disclosure-question.png">
 
-5. Reivew the response and add comments as neccessary.
+5. Review the response and add comments as necessary.
 
 <img src="images/reviewer-disclosure-question-update.png">
 
 6. Change the status from `Ready for Review` to `Ready for Approval`
 
-Note: If the response is not satisifactory, Reviewer can send back the question to assignee by changing the status from `Ready for Review` to `Todo` / `In Progress`
+Note: If the response is not satisfactory, Reviewer can send back the question to assignee by changing the status from `Ready for Review` to `Todo` / `In Progress`
    
 </details>
 
@@ -336,7 +336,7 @@ Note: If the response is not satisifactory, Reviewer can send back the question 
 7. Change status from `Ready for Approval` to `Complete`
    
 Note:
-In case, the responses are not satisifactory or additional information is needed , then the approver send back the question to either reviewer or directly to assignee by changing status from `Ready to Approval` to `Ready for Review` / `Inprogess` to `Todo`. 
+In case, the responses are not satisfactory or additional information is needed , then the approver send back the question to either reviewer or directly to assignee by changing status from `Ready to Approval` to `Ready for Review` / `Inprogress` to `Todo`. 
 
 <img src="images/approver-disclosure-question-status.png">
 
