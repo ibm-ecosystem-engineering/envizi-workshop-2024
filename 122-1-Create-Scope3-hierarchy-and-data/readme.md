@@ -5,6 +5,9 @@ In this lab exercise we will do the followings.
 - Create groups and locations for Scope 3 Categories identified for our Bank example. 
 - Capture the data using the Universal account connector (UDC). 
 
+    <img src="images/Org-Hier-S3.png">
+
+
 You have already learnt how to use Config connector and UDC in Lab 1 and Lab 2 respectively. 
 
 ## 1 Create Groups and Locations for Scope 3
