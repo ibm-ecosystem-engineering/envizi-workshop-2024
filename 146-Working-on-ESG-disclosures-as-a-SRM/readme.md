@@ -102,7 +102,7 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 
 3. Click on  `Add Disclosure`
 
-<img src="images/Envizi-SRM-Add Disclosure.png">
+<img src="images/Envizi-SRM-Add Disclosure-1.png">
 
 4. Add details as below for the disclosure and assign to a owner `(xxx_SRM Owner)`
 - `Name` : Provide name of the disclosure. ex: `IN Bank BRSR Disclosure 2024`. (Don't forget to prefix with your Prefix-Id)
@@ -113,12 +113,11 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 
 5. Click on  `CREATE DISCLOSURE`
 
-<img src="images/Envizi-SRM-page-srmowner2.png">
+<img src="images/Envizi-SRM-Add Disclosure-2.png">
 
 The disclosure got created.
 
 <img src="images/Envizi-SRM-Add Disclosure-3.png">
-
 
 Please note that we are setting all the users to the same as Disclosure owner here, because in the next step the disclosure owner can take more control on whom to assign which roles. 
 
