@@ -13,16 +13,16 @@ In this lab you would be performing the following key steps
 
 <details><summary>CLICK ME</summary>
 
-Lets say the business unit leader tasked to reduce the consumptions for each individual datatype for the location - IN Bank - Mumbai Co
+Lets say the business unit leader tasked to reduce the consumptions for each individual datatype for the location `IN Bank - Mumbai Co`.
 
-To start with, the business unit leader focused on to reduce Electricity and Gasoline. Hence the business leader came up with the reduction targets for these two accounts belongs to the locations.  The data for each of this data type is captured in respective accounts, hence the target is set directly on the Account level 
+To start with, the business unit leader focused on to reduce `Electricity` and `Gasoline`. Hence the business leader came up with the reduction targets for these two accounts belongs to the locations.  The data for each of this data type is captured in respective accounts, hence the target is set directly on the Account level 
 
-#### Data type: Electricity, Account: IN Bank - Mumbai Co-Electricity 
+#### Data type: `Electricity`, Account: `IN Bank - Mumbai Co-Electricity `
 - Target value : 5000 kwh
 - Time-frame: Jan 2023 - Dec 2023
 - Track in Native Units
  
-#### Data type: Gasoline, Account: IN Bank - Mumbai Co-Gas
+#### Data type: `Gasoline`, Account: `IN Bank - Mumbai Co-Gas`
 - Target value : 500 gal
 - Time-frame: Jan 2023 - Dec 2023
 - Track in Native Units
