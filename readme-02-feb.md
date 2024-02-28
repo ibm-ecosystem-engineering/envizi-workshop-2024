@@ -440,6 +440,12 @@
         <td><strong>Info</strong></td>
         <td><a href="./205-Important-Links">Link</a></td>
    </tr>
+    <tr>
+        <td>5</td>
+        <td>Lab: Create Custom Emission Factors</td>
+        <td><strong>Info</strong></td>
+        <td><a href="./172-Custom-Emission-Factors">Link</a></td>
+   </tr>     
 </table>
 
 ## Note : 
