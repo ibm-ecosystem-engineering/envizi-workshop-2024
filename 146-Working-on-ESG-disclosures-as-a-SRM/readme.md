@@ -13,34 +13,34 @@ To do this lab with various personas, we should have the following users created
 
 <table>
     <thead>
+        <th>SRM Persona </th>
         <th>First Name </th>        
         <th>Username </th>
         <th>Access + Special Role </th>        
-        <th>SRM Persona </th>
     </thead>
     <tr>
+        <td>System Administrator + SRM Role</td>        
         <td>Your Envizi Admin User</td>
         <td>Envizi System Admin user</td>        
         <td>System Administrator</td>
-        <td>System Administrator + SRM Role</td>        
     </tr> 
     <tr>
+        <td>SRM Owner (Disclosure Owner)</td>
         <td>xxx_SRM Owner</td>    
         <td>xxx_srmowner</td>
         <td>General User + SRM Role</td>                
-        <td>Disclosure Owner</td>
     </tr> 
     <tr>
+        <td>Data Owner</td>        
         <td>xxx_Data Owner</td>
         <td>xxx_dataowner</td>
         <td>General User + SRM Role</td>                
-        <td>Data Owner</td>        
     </tr> 
     <tr>
+        <td>SRM Reviewer</td>
         <td>xxx_SRM Reviewer</td>    
         <td>xxx_srmreviewer</td>
         <td>General User + SRM Role</td>                
-        <td>SRM Reviewer</td>
     </tr> 
     <tr>
         <td>xxx_SRM Approver</td>    
@@ -51,7 +51,7 @@ To do this lab with various personas, we should have the following users created
     </table>
 
 
-## 1. Navigate to `Sustainability Reporting Manager` with various roles
+## 1. Navigate to `SRM` with various roles
 
 <details><summary>CLICK ME</summary>
 
@@ -84,7 +84,7 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 
 </details>
 
-## 2. Create to Disclosure and assign to owner
+## 2. SRM Owner : Create Disclosure
 
 <details><summary>CLICK ME</summary>
 
@@ -117,7 +117,7 @@ Similarly, Disclosure Owner can assign an `approver`, hence not selected here.
 
 </details>
 
-## 3. Working on Disclosure as Disclosure Owner (xxx_SRM Owner)
+## 3. SRM Owner : Working on Disclosure
 
 ### 3.1 Add Framework and questions to Disclosure
 
@@ -157,7 +157,7 @@ However there is no approver role assigned. Hene Disclosure owner wants to inclu
 
 </details>
 
-### 3.2 Update  Disclosure Properties to assign Approver
+### 3.2 Assign Approver for all questions
 
 <details><summary>CLICK ME</summary>
 
@@ -183,12 +183,12 @@ However there is no approver role assigned. Hene Disclosure owner wants to inclu
 
 </details>
 
-### 3.3 Assign questions and set reviewer
+### 3.3 Assign Data Owner (Assignee) and Reviewer
 
 <details><summary>CLICK ME</summary>
 
-
-Now that the disclosure is created and also added the questions, the disclosure owner would like to distribute the questions to different users who can work on the question and provide the appropriate response.  And a reviewer is assigned to each question so that he/she can review once the response is ready
+Now that the disclosure is created and also added the questions, the disclosure owner would like to do the following.
+- Distribute the questions to different users who can work on the question and provide the appropriate response.  - Assign a reviewer to each question so that he/she can review once the response is ready
 
 #### Set Assignee
 
@@ -198,7 +198,7 @@ Now that the disclosure is created and also added the questions, the disclosure 
 
 2. Click on `Assignee` but at the botton of the page 
    
-3. Remove current assignee and select the user `xxx_SRM Data Owner` 
+3. Remove current assignee and select the user `xxx_Data Owner` 
    
 4. Click `Yes`
 
@@ -221,11 +221,11 @@ User can check their inbox for the messages from `messenger@envizi.com <messenge
 
 </details>
 
-## 4. Working on Questions assigned by Assignee (xxx_SRM Data Owner)
+## 4. Data Owner: Working on Questions
 
 <details><summary>CLICK ME</summary>
 
-1. Log into Envizi with user `xxx_SRM Data Owner`
+1. Log into Envizi with user `xxx_Data Owner`
 2. Navigate to `Sustainability Reporting Manager` page
 
 3. The page displays the details about the disclosure like 
@@ -282,7 +282,7 @@ Now that the some questions are assigned to review, lets look at Reviewer's view
 
 </details>
 
-## 5. Reviw the questions by Reviewer (xxx_SRM Reviewer)
+## 5. SRM Reviewer : Reviw the questions
 
 <details><summary>CLICK ME</summary>
 
@@ -306,7 +306,7 @@ Note: If the response is not satisifactory, Reviewer can send back the question 
    
 </details>
 
-## 6. Approve the questions Review on Questions by Reviewer (xxx_SRM Reviwer)
+## 6. SRM Approver : Approve the questions
 
 <details><summary>CLICK ME</summary>
 
