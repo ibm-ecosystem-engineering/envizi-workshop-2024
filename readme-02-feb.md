@@ -223,7 +223,7 @@
         <td>8</td>
         <td><strong>Lab</strong></td>
         <td>Explore Emission factors</td>
-        <td>Explore Emission factors associated with the data loaded through Labs (Create emission factors | Verify the data loaded to the Accounts and emissions factors associated | Audit)</td>
+        <td>Explore Emission factors associated with the data loaded through Labs</td>
         <td>60 mins</td>
         <td><a href="./170-Explore-Emission-factors">Link</a></td>
    </tr>      
