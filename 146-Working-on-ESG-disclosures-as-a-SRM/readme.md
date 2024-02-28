@@ -53,10 +53,14 @@ To do this lab with various personas, we should have the following users created
 
 ## 1. Navigate to `Sustainability Reporting Manager` with various roles
 
-### 1.1 Login with System Administrator Access Role + SRM 
-1. Login into as System Administrator role with SRM Role access
+<details><summary>CLICK ME</summary>
+
+
+### 1.1 Login with `System Administrator` Access Role + `SRM`
+
+1. Login into as `System Administrator role` with `SRM Role` access
    
-2. Click on Envizi  `Sustainability Reporting Manager` in the home page
+2. Click on Envizi `Sustainability Reporting Manager` in the home page
 
 <img src="images/Envizi-Home-SRM.png">
 
@@ -68,7 +72,7 @@ The  Sustainability Reporting Manager page is opened in new browser session.
 
 Observer that, user with `System Administrator` role can create the disclosures. 
 
-### 1.2 Login with General User Access Role + SRM : xxx_SRM Owner
+### 1.2 Login with `General User` Access Role + `SRM` (xxx_SRM Owner)
 
 1. Login into Envizi UI in separate browser
 2. Click on Envizi  `Sustainability Reporting Manager` in the home page
@@ -78,8 +82,11 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 
 <img src="images/Envizi-SRM-page-generaluser.png">
 
+</details>
 
-## 2. Create to Disclosure and assgin to owner
+## 2. Create to Disclosure and assign to owner
+
+<details><summary>CLICK ME</summary>
 
 1. Login with  `System Administrator` role with SRM Role access
 2. Go to  `Sustainability Reporting Manager`  
@@ -89,11 +96,18 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 <img src="images/Envizi-SRM-Add Disclosure.png">
 
 4. Add details as below for the disclosure and assign to a owner `(xxx_SRM Owner)`
-- `Name` : Provide name of the disclosure
+- `Name` : Provide name of the disclosure. ex: `IN Bank BRSR Disclosure 2024`. (Don't forget to prefix with your Prefix-Id)
 - `Disclosure Owner` - Select SRM Owner user `xxx_SRM Owner` from the list. Type first 3 letters of user firstname, list would appear.
 - `Default Asignee` - Same as SRM Owner as above
 - `Default Reviewer` - Same as SRM Owner as above
 -  Set Due Dates for `Ready for Review`, `Complete by` and `Disclosure Due by`
+
+5. Click on  `CREATE DISCLOSURE`
+
+The disclosure got created.
+
+<img src="images/Envizi-SRM-page-srmowner2.png">
+
 
 Please note that we are setting all the users to the same as Disclosure owner here, because in the next step the disclosure owner can take more control on whom to assign which roles. 
 
@@ -101,41 +115,52 @@ Similarly, Disclosure Owner can assign an `approver`, hence not selected here.
 
 <img src="images/Envizi-SRM-Add Disclosure-2.png">
 
-## 2. Working on Disclosure as Disclosure Owner(xxx_SRM Owner)
+</details>
 
-### 2.1 Add Framework and questions to Disclosure
-1. Login to Envizi as xxx_SRM Owner 
+## 3. Working on Disclosure as Disclosure Owner (xxx_SRM Owner)
+
+### 3.1 Add Framework and questions to Disclosure
+
+<details><summary>CLICK ME</summary>
+
+1. Login to Envizi as `xxx_SRM Owner` 
 2. Navigate to  `Sustainability Reporting Manager`
-
-<img src="images/Envizi-SRM-page-srmowner.png">
-
-3. Click on `Framework Library`  to view various libraries available and Click on `Back To Disclosures` 
-   
-4. On SRM home page, Click on `View` under the disclosure created above `IN Bank BRSR Disclosure 2024`
 
 <img src="images/Envizi-SRM-page-srmowner-view.png">
 
-5. You can view the Disclosure details. As there no frameworks / questions added you would probably see a blank page.
+3. On SRM home page, Click on `View` under the disclosure created above `IN Bank BRSR Disclosure 2024`
+
+
+4. You can view the Disclosure details. As there no frameworks / questions added you would probably see a blank page.
 
 <img src="images/Envizi-Disclosure-page-srmowner-addquestion.png">
 
-6. Click on `Actions` > `Add Questions`
+5. Click on `Actions` > `Add Questions`
 
-7. The page will display the set of frameworks available in Envizi. Chose a framework by clicking a `Select this framework`. For example `BRSR`
+The page will display the set of frameworks available in Envizi.
+
+6. Choose a framework by clicking a `Select this framework`. For example `BRSR`
 
 <img src="images/Disclosure-srmowner-addquestion-2.png">
 
-8. On the next Framework page, select the questions as you wish. For this exercise we select all the questions  
+The BRSR Framework page is displayed.
+
+7. in this page, Select the questions as you wish. (for this exercise we select all the questions)
 
 <img src="images/Disclosure-srmowner-addquestion-3.png">
 
-9. Click on `Save`
+8. Click on `Save`
 
-10. Now, the disclosure owner can see all the questions on this page, along with the defautl assignee and reviewer  to the questions. 
+9. Now, the disclosure owner can see all the questions on this page, along with the default assignee and reviewer  to the questions. 
 
 However there is no approver role assigned. Hene Disclosure owner wants to include an approver and then assign the questions to various users
 
-### 2.2 Update  Disclosure Properties to assign Approver
+</details>
+
+### 3.2 Update  Disclosure Properties to assign Approver
+
+<details><summary>CLICK ME</summary>
+
 
 1. On Disclosure page, click on `Actions` > `Set Properties`
 
@@ -156,36 +181,47 @@ However there is no approver role assigned. Hene Disclosure owner wants to inclu
 
 <img src="images/Disclosure-page-srmowner-setproperties-4.png">
 
-### 2.2 Assign questions and set reviewer
+</details>
 
-Now that the disclosure is created and also added the questions, the disclosure owner would like to distribute the questions to different users who can work on the question and provide the appropriate response.  And A reviewer is assigned to each question so that he/she can review once the response is ready
+### 3.3 Assign questions and set reviewer
+
+<details><summary>CLICK ME</summary>
+
+
+Now that the disclosure is created and also added the questions, the disclosure owner would like to distribute the questions to different users who can work on the question and provide the appropriate response.  And a reviewer is assigned to each question so that he/she can review once the response is ready
+
+#### Set Assignee
 
 1. On Disclosure page, Select the set of questions which you want to assign
 
-<img src="images/assign-questions-1.png">
+<img src="images/assign-questions-2.png">
 
 2. Click on `Assignee` but at the botton of the page 
    
 3. Remove current assignee and select the user `xxx_SRM Data Owner` 
    
 4. Click `Yes`
-   
-<img src="images/assign-questions-2.png">
 
-5. Similarly, Change Reviewer user. Click `Reviewer` button 
+#### Set Reviewer
+
+Similarly, Change Reviewer user. 
+
+5. Click `Reviewer` button 
 6. Remove current reviwer  and select the user `xxx_SRM Reviewer` 
-
-
 7. Now you can view on the page, the Assignee and Reviewers got updated.
-
 <img src="images/question-users-updated.png">
 
-8. For each question and update, there is an Email notifications sent by the system. User can check their inbox for the messages from `messenger@envizi.com <messenger@envizi.com>' 
+#### Notification
+
+For each question and update, there is an Email notifications sent by the system. 
+
+User can check their inbox for the messages from `messenger@envizi.com <messenger@envizi.com>' 
    An example will look like this 
 <img src="images/email-question-owner-change.png">
 
+</details>
 
-## 3. Working on Questions assigned by Assignee (xxx_SRM Data Owner)
+## 4. Working on Questions assigned by Assignee (xxx_SRM Data Owner)
 
 1. Log into Envizi with user `xxx_SRM Data Owner`
 2. Navigate to `Sustainability Reporting Manager` page
@@ -241,10 +277,12 @@ You can leverage  `Search Responses` option on the  on top right corner , to get
 13. Click on various `statuses` on right side, and you can view the `% completion` against each `status` for the questions assigned to you.
 
 Now that the some questions are assigned to review, lets look at Reviewer's view of `Sustainability Reporting Manager` page
-`
-    
 
-## 3. Reviw the questions by Reviewer (xxx_SRM Reviewer)
+</details>
+
+## 4. Reviw the questions by Reviewer (xxx_SRM Reviewer)
+
+<details><summary>CLICK ME</summary>
 
 1. Log into Envizi with user `xxx_SRM Reviwer`
 2. Navigate to `Sustainability Reporting Manager` page
@@ -264,8 +302,11 @@ Now that the some questions are assigned to review, lets look at Reviewer's view
 
 Note: If the response is not satisifactory, Reviewer can send back the question to assignee by changing the status from `Ready for Review` to `Todo` / `In Progress`
    
+</details>
 
-## 4. Approve the questions Review on Questions by Reviewer (xxx_SRM Reviwer)
+## 5. Approve the questions Review on Questions by Reviewer (xxx_SRM Reviwer)
+
+<details><summary>CLICK ME</summary>
 
 1. Log into Envizi with user `xxx_SRM Approver`
 
@@ -293,8 +334,11 @@ In case, the responses are not satisifactory or additional information is needed
 <img src="images/approver-disclosure-page-2.png">
 
 
+</details>
 
-## 4. Export Disclosure document 
+## 6. Export Disclosure document 
+
+<details><summary>CLICK ME</summary>
 
 The user can download the disclosure either as  `pdf` or `Microsoft Word` with whatever necessary details relevant based on the requirements.
 
@@ -313,6 +357,8 @@ The user can download the disclosure either as  `pdf` or `Microsoft Word` with w
 
 <img src="images/View-disclosure-pdf.png">
 
+
+</details>
 
 ## Conclusion:  
 In this lab, we have learnt how an organization can use Envizi to create an ESG Disclosure for their annual ESG reporting disclosure requirements including various frameworks. We have also learnt how different personas with different roles such as disclosure owner, assignee, reviewer and approver, can participate in the disclosure preparation and bring to completion. 
