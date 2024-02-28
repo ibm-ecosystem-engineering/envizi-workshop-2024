@@ -29,6 +29,8 @@ Now, Let's create the Scope 3 grouping structure as we have defined in our organ
 
 ## 2.1. Populate Template with Organization Hierarchy for Scope 3 Grouping structure (Optional)
 
+<details><summary>CLICK ME</summary>
+
 You already familiar with the Config Connector as you have performed the lab exercise to create part of the Org hierarchy.
 
 Let's Populate the template with the below organization hierarchy data.
@@ -47,6 +49,9 @@ Let's Populate the template with the below organization hierarchy data.
     
 #### Important
 To stay aligned with the subsequent labs, we recommend using the Prepopulated template file discussed in the following section for the upcoming steps.
+
+</details>
+
 
 ## 2.2 Preparing the Prepopulated Template
 
