@@ -174,33 +174,18 @@ The below pictures shows that the data fields are different for each account sty
 
 ## The duplication of Scope 3 Account Styles names across categories is by purpose
 
-The similar account styles exists in same categories. 
+The account style `Air Travel Domestics` exists in Cateogories 4, 6, 7 & 8.
 
-For example, the Air Travel Domestics exists in Cateogories 4, 6, 7 & 8.
+<img src="images/Picture1.png">
 
-```
-S3.4 - Air Travel - Domestic - pkm
-S3.6 - Air Travel - Domestic - pkm
-S3.7 - Air Travel - Domestic - pkm
-S3.8 - Air Travel - Domestic - pkm
-```
+Here are some of the other account styles exists across different categories.
 
-The below similar account styles are also exists in the different categories.
+<img src="images/Picture1.png">
 
-```
-S3.4 - Transport - Rental Cars - gasoline - gal
-S3.6 - Transport - Rental Cars - gasoline - gal
-S3.7 - Transport - Rental Cars - gasoline - gal
-S3.9 - Transport - Rental Cars - gasoline - gal
+<img src="images/Picture2.png">
 
-S3.4 - Average Local Bus - miles
-S3.6 - Average Local Bus - miles
-S3.7 - Average Local Bus - miles
-S3.9 - Average Local Bus - miles
+<img src="images/Picture3.png">
 
-S3.1 - Accommodation - USD or local
-S3.2 - Accommodation - USD or local
-S3.6 - Accommodation - USD or local
-```
+The similar account styles can exists across categories and it is for the purpose only.
 
 <img src="images/60-account-style-categories.png">
