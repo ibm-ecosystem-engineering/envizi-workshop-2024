@@ -169,7 +169,7 @@ Now, Let's populate the template with data for all the locations we created in t
 
 4. The file looks like below.
 
-<img src="images/Data-PMC-template-populated.png">
+<img src="images/Data-PMC-template-populated2.png">
 
 5. You can refer the sample file `Account_Setup_and_Data_Load_-_PM&C-Temp.xlsx` from [here](./files/Account_Setup_and_Data_Load_-_PM&C-Temp.xlsx) or from the shared Box folder to pick the values to pouplate into this file.
 
