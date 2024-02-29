@@ -32,11 +32,11 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 
 <img src="images/image3.png">
 
-- **System Administrators** can manage groups, locations, accounts, contacts and logins and organization preferences.
+- **System Administrators** can manage `groups`, `locations`, `accounts`, `contacts` and logins and organization preferences.
 
-- **General User** can run reports, view data and enter data into Envizi.
+- **General User** can run reports, view data and `enter data` into Envizi.
 
-- **View Only** users can run reports, view data but cannot edit any data in your organization.
+- **View Only** users can run reports, `view data` but cannot edit any data in your organization.
 
 
 ### 2.2 Specialised Roles

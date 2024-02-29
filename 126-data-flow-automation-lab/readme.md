@@ -20,7 +20,7 @@ You can find this info in the file `s3-config.txt` from [here](./files/s3-config
 
 ### 1.2 Download the prepopulated template file
 
-1. Keep you input file in UDC format ready
+1. Keep your input file in UDC format ready
 
 You can take the sample file `POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) or from the shared Box folder
 
