@@ -11,7 +11,7 @@ Envizi provides the below reports to understand the quality of data and also hel
 1. Account Data health check 
 2. Account Incomplete Report
 
-# 1.1. Power Report: Account Data health check
+## 1.1. Power Report: Account Data health check
 
 <details><summary>CLICK ME</summary>
 
@@ -19,9 +19,9 @@ Account Data health check is a power report which helps us to analyze health of 
 
 In this section we will go through these reports and get the insights on the data which we have so far loaded into accounts for our organization. 
 
-## 1.1.1 Report Home
+### 1.1.1 Report Home
 
-### Open Account Data health Check report
+#### Open Account Data health Check report
 
 1. In the Global Search ->  Choose `Reports` from the drop-down and enter `health` in the text box to search for the report. 
 
@@ -38,7 +38,7 @@ In this section we will go through these reports and get the insights on the dat
 <img src="images/Account-Data-health-check-home.png">   
 
 
-### Apply Filter for Group Level 1
+#### Apply Filter for Group Level 1
 
 4. Click `Group Filter` on right-hand corner and select your group in `Group Level 1` ( Ex: `IN Bank`) and close
 
@@ -48,9 +48,9 @@ As per the screenshot , 87% of the accounts have the data captured in last 4 mon
 
 <img src="images/Account-Data-health-check-Group.png"> 
 
-## 1.1.2 Data Activity - Current
+### 1.1.2 Data Activity - Current
 
-### Current Home
+#### Current Home
 
 5. Click on `View` under `Data Activity - Current` in the above screen to view more details
 
@@ -60,7 +60,7 @@ As per the screenshot, there are 27 Accounts for which the data is loaded in las
 
 <img src="images/Account-Data-health-check-Current.png"> 
 
-### Account Information
+#### Account Information
 
 6. Click on `Account Information` in the above screen to view those accounts
 
@@ -69,7 +69,7 @@ Notice the `Last Date of Data` column, which indicates when the data is last cap
 <img src="images/Account-Data-health-check-Current-Account.png"> 
 
 
-## 1.1.3 Data Activity - Arrears
+### 1.1.3 Data Activity - Arrears
 
 7. Go back to home page of `Account Data Health Check` report 
 
@@ -77,19 +77,19 @@ Notice the `Last Date of Data` column, which indicates when the data is last cap
 
 <img src="images/Account-Data-health-check-Group-arrears.png"> 
 
-### Arrears Home
+#### Arrears Home
 
 9. There are few accounts for which the data is not captured in last 4 months. Click on the `Account Information` to view those accounts
 
 <img src="images/Account-Data-health-check-Arrears.png"> 
 
-### Account Information
+#### Account Information
 
 Looking at the `Last Date of Data` column (eg: June 30, 2023) , the data capture team can identify that they need to capture the latest data into these accounts and work on it further.  For example, at the time of this report (refer screenhot - Last updated on 09/12/2023 03:07 AM),  its been more than 4 months  that the data is not captured into these accounts, hence identified as arrears.  
 
 <img src="images/Account-Data-health-check-Arrears-Account.png"> 
 
-## 1.1.4 Data Gaps
+### 1.1.4 Data Gaps
 
 10. Lets go back to `Home` page and look at the `Data Gaps`. The bar graphs under `Data Gaps` section shows that from July 2023 there is lot of accured data, which  means the 
 system has estimate the data based on previously available data because the accounts are not loaded. 
@@ -97,7 +97,7 @@ system has estimate the data based on previously available data because the acco
 
 <img src="images/Account-Data-health-check-home-gaps-view.png"> 
 
-### Data Gaps Home
+#### Data Gaps Home
 
 11. Click on `View` in the above screen to see more details
 
@@ -119,7 +119,7 @@ You can also see the `Date Gaps by Supplier` chart, where you can see that from 
 <img src="images/Account-Data-health-check-DataGaps-ele.png"> 
 
 
-### Data Gaps by Supplier
+#### Data Gaps by Supplier
 
 13. Click on `BEST` from  `Data Gaps By Supplier` in the above screen to Drill-down on Supplier to get more insights. 
 
@@ -133,7 +133,7 @@ So this is not good sign for data accuracy and quality. Hence there is a need to
 <img src="images/Account-Data-health-check-DataGaps-ele-best.png"> 
 
 
-### Data Gaps by Supplier in detail
+#### Data Gaps by Supplier in detail
 
 14. Click on `Drill through to BEST details` in the above screen to see the more detailed view
 
@@ -144,7 +144,7 @@ This screen shows location wise data capture from the Supplier. You can see the 
 
 <img src="images/Account-Data-health-check-DataGaps-ele-best-locs.png"> 
 
-### Data Gaps by Supplier in detail - Mumbai Br
+#### Data Gaps by Supplier in detail - Mumbai Br
 
 15. Select `IN Bank - Mumbai Br` in the above screen.
 
@@ -154,13 +154,13 @@ This screen shows location wise data capture from the Supplier. You can see the 
 
 <img src="images/Account-Data-health-check-DataGaps-ele-best-locs-Br.png">
 
-### Data Gaps by Supplier in detail - Mumbai Co
+#### Data Gaps by Supplier in detail - Mumbai Co
 
 17. Similarly, Click on   `IN Bank - Mumbai Co` in the above screen and get insights for this location. 
 
 <img src="images/Account-Data-health-check-DataGaps-ele-best-locs-Co.png"> 
 
-### Data Gaps by Supplier in detail - View Accounts
+#### Data Gaps by Supplier in detail - View Accounts
 
 18. Click on `View Accounts` on the above screen to view account-wise details. 
 
@@ -174,7 +174,7 @@ In the next section we will also look at `Accounts Incomplete Data report` and h
 
 </details>
 
-# 1.2. Report: Accounts Incomplete Data report
+## 1.2. Report: Accounts Incomplete Data report
 
 <details><summary>CLICK ME</summary>
 
@@ -182,7 +182,7 @@ The Accounts Incomplete Data report provides details of accounts that contain `m
 
 Lets look at what this report provides you in details.
 
-## 1.2.1 Open the report and Download as CSV
+### 1.2.1 Open the report and Download as CSV
 
 1. In the Global Search ->  Choose `Reports` from the drop-down and enter `incomplete` in the text box to search for the report. 
 
@@ -194,9 +194,9 @@ Lets look at what this report provides you in details.
 
 3. Click on the `Download As CSV` and save it to your local machine.
 
-## 1.2.2 Observe the report content
+### 1.2.2 Observe the report content
 
-### View missing data records
+#### View missing data records
 4. Open the file as csv or using Microsoft xls   
 
 Look at the below columns 
@@ -208,7 +208,7 @@ Look at the below columns
 
 5. Filter the rows where `Days_Mismatch` is > 0, which gives all the accounts which has missing data for 1 or more days in a given month
 
-### Filter by Location `IN Bank - Mumbai Br`
+#### Filter by Location `IN Bank - Mumbai Br`
 
 From the report `Account Data Health check` above, we have observed that `40% of data is missing`  from location `IN Bank - Mumbai Br` of  `electricity` accounts.
 
@@ -226,13 +226,13 @@ We will learn how to address this using issue management by raising an issue aga
 
 </details>
 
-# 1.3 What we observed from the 2 reports
+## 1.3 What we observed from the 2 reports
 
 <details><summary>CLICK ME</summary>
 
 What we observed from the reports `Account Data health check` & `Accounts Incomplete Data` reports?
 
-### Account Data health check report
+#### Account Data health check report
 
 From the `Account Data health check` report, we have identified 
 -  % of accounts which are missing data from last 4 months
@@ -241,13 +241,13 @@ From the `Account Data health check` report, we have identified
 -  what is % of estimated data and which accounts / locations has estimate data
 -  Suppliers who is not providing data from last few months
 
-### Accounts Incomplete Data report
+#### Accounts Incomplete Data report
 
 From the `Accounts Incomplete Data report` report, we have identified 
 - identitfied missing data across all locations 
 - identified how many days of data is missig for each account 
 
-### Identified Accounts 
+#### Identified Accounts 
 
 In the above exercise, we have encountered couple of accounts which having data quality issues like - missing data  or having esitmated data instead of actual data. 
 
