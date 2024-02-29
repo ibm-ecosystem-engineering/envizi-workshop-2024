@@ -3,7 +3,12 @@
 
 In this exercise you would learn how to use Postman tool to invoke CloudStorage (S3) apis to load data into the Envizi. The data is provided in .csv/xlsx file in the format of Universal Account Connector templates.
 
-##  Pre-requisites:
+## 1. Use Postman tool to load the Data into Envizi S3 Folder
+
+<details><summary>CLICK ME</summary>
+
+### 1.1 Get S3 Details.
+
 1. Get the details of the Envizi Cloud Storage (S3) credentials
 
 - Bucket 
@@ -13,33 +18,39 @@ In this exercise you would learn how to use Postman tool to invoke CloudStorage 
   
 You can find this info in the file `s3-config.txt` from [here](./files/s3-config.txt)  or from the shared Box folder.
 
-2. Keep you input file in UDC format ready
-You can take the sample file `POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) or from the shared Box folder and update the content based on the data which you want to ingest
+### 1.2 Download the prepopulated template file
 
-## 1. Use Postman tool to load the Data into Envizi S3 Folder
+1. Keep you input file in UDC format ready
 
-<details><summary>CLICK ME</summary>
+You can take the sample file `POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx) or from the shared Box folder
 
-1. Form the url  based on the details    
+
+2. Update the content based on the data which you want to ingest.
+
+3. Prefix the columns `Location` and `Account Number` with the `Prefix-Id` to avoid duplicates.
+
+### 1.3 Form the URL for S3
+
+1. Form the url  based on the details  
+
    http://<bucket_name>.s3.amazonaws.com/<folder_name>/<file_name_with_extension>
    
-   example:
+   Example:
    http://envizi-client-dataservice-us-prod.s3.amazonaws.com/client_dedd4566f2f247/POCAccountSetupandDataLoad_INbank_Co_All.XLSX
 
+### 1.4 Push the file using PostMan
 
-2. Open Postman tool
+1. Open Postman tool
    
-3. Click to "+" to add a new request 
+2. Click to "+" to add a new request 
 
 <img src="images/Envizi-AWS-S3-using-Postman-NewRequest.png">
 
-
-4. In the request window of Postman, configure the below 
+3. In the request window of Postman, configure the below 
 - `Method`: `PUT`
 - `URL`:  The one formed in step 1
 
-
-5. Click on `Authorization` tab and Set below parameters 
+4. Click on `Authorization` tab and Set below parameters 
 - Select `Type`: `AWS Signature`
 - `AccessKey`: Obtained in pre-reqs for S3 connection
 - `SecretKey`: Obtained in pre-reqs for S3 connection
@@ -52,7 +63,7 @@ You can take the sample file `POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx`
 <img src="images/Envizi-AWS-S3-using-Postman-Authorization-1.png">
 
 
-6. Click on `Body` tab and 
+5. Click on `Body` tab and 
 
 - Select `binary`
 - Click on `Select File` box and click on `New File from local machine`
@@ -66,11 +77,10 @@ You can take the sample file `POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx`
 
 - Make sure the file name matches the file selected
   
-7. Click on `Send`
+6. Click on `Send`
 
-8. Check the `Respnse` status should be `OK`
+7. Check the `Respnse` status should be `OK`
 <img src="images/Envizi-AWS-S3-using-Postman-RequestSuccess.png">
-
 
 </details>
 
