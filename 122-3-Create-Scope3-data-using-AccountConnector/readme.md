@@ -154,7 +154,7 @@ In the next section, lets populate this template with required columns and uploa
 
 Now, Let's populate the template with data for all the locations we created in the previous lab.
 
-1. Take a copy of the downloaded file `Account_Setup_and_Data_Load_-_PM&C.xlsx`  
+1. The downloaded file name is  `Account_Setup_and_Data_Load_-_PM&C.xlsx`  
    
 2. Add any  suffix to the file name  `Account_Setup_and_Data_Load_-_PM&C_xxxxx.xlsx` , replace xxxx with any value  to easily identify. But it is better to suffix your `Prefix-Id`.
 
