@@ -171,7 +171,7 @@ Now, Let's populate the template with data for all the locations we created in t
 
 <img src="images/Data-PMC-template-populated.png">
 
-You can refer the sample file `POCAccountSetupandDataLoad_INbank_S3.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_S3.xlsx) or from the shared Box folder to pick the values to pouplate into this file.
+You can refer the sample file `Account_Setup_and_Data_Load_-_PM&C-Temp.xlsx` from [here](./files/Account_Setup_and_Data_Load_-_PM&C-Temp.xlsx) or from the shared Box folder to pick the values to pouplate into this file.
 
 5. Save the file
 
