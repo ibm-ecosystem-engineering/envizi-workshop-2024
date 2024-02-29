@@ -175,8 +175,6 @@ Now, Let's populate the template with data for all the locations we created in t
 
 Make sure that you prefix the columns `Location` and `Account Number` with your Prefix-Id.
 
-5. Save the file
-
 </details>
 
 ## 4 Upload the template file into Envizi
