@@ -1,12 +1,12 @@
-# Retriving Account Style Link (Id) of an Account Style
+# Account Style Related info
 
-This article explains how to get the `Account Style Link (id)` of any `Account Style`.
+This article explains several info regarding  `Account Style`.
 
 This id is needed while using the builk data upload (`Account Setup and Data Load - PM&C`  and `Account Setup and Data Load`) excel template and also in the many other places.
 
 This can be Retrived in several ways. Lets explore them.
 
-## Account Styles list
+## 1. Account Styles list
 
 The accounts styles are listed as a list in the UI. You can see the account style details here but not the link (id). 
 
@@ -28,9 +28,11 @@ The accounts styles are listed as a list in the UI. You can see the account styl
 
 </details>
 
-You can use any of the following 3 methods given below.
+You can use any of the following 3 methods given below
 
-## Method 1 : Retrive using Account Style Extract
+## 2. Retriving Account Style Link (Id) of an Account Style
+
+### Method 1 : Retrive using Account Style Extract
 
 <details><summary>CLICK ME</summary>
 
@@ -76,7 +78,7 @@ This is how you can find the Link (id) for an account style.
 
 </details>
 
-## Method 2 : Retrive using Account Setup and Data Load - PM&C
+### Method 2 : Retrive using Account Setup and Data Load - PM&C
 
 <details><summary>CLICK ME</summary>
 
@@ -121,7 +123,7 @@ This is how you can find the Link (id) for an account style.
 
 </details>
 
-## Method 3 : Retrive using Account Setup and Data Load
+### Method 3 : Retrive using Account Setup and Data Load
 
 <details><summary>CLICK ME</summary>
 
@@ -166,13 +168,13 @@ Here, you can only view the link of one account style at a time.
 
 </details>
 
-## Account style based fields
+## 3. Account style based fields
 
 The below pictures shows that the data fields are different for each account styles.
 
 <img src="images/50-different-accountstyles.png">
 
-## The duplication of Scope 3 Account Styles names across categories is by purpose
+## 4. The duplication of Scope 3 Account Styles names across categories is by purpose
 
 The account style `Air Travel Domestics` exists in Cateogories 4, 6, 7 & 8.
 
@@ -180,11 +182,11 @@ The account style `Air Travel Domestics` exists in Cateogories 4, 6, 7 & 8.
 
 Here are some of the other account styles exists across different categories.
 
-<img src="images/Picture1.png">
-
 <img src="images/Picture2.png">
 
 <img src="images/Picture3.png">
+
+<img src="images/Picture4.png">
 
 The similar account styles can exists across categories and it is for the purpose only.
 
