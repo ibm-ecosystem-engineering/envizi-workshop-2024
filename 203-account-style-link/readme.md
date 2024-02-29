@@ -32,6 +32,8 @@ You can use any of the following 3 methods given below.
 
 ## Method 1 : Retrive using Account Style Extract
 
+<details><summary>CLICK ME</summary>
+
 If you have an access to `Account Style Extract` report you can use this method.
 
 1. Download the `Account Style Extract` report.
@@ -72,7 +74,11 @@ A csv file will get downloaded.
 
 This is how you can find the Link (id) for an account style.
 
+</details>
+
 ## Method 2 : Retrive using Account Setup and Data Load - PM&C
+
+<details><summary>CLICK ME</summary>
 
 You can extract all the account styles using the `Export account style supported values` mode in  `Account Setup and Data Load - PM&C` report. This can give results for multiple account records.
 
@@ -113,7 +119,11 @@ In the downloaded CSV file the columns `Account Style Link` and `Account Style C
 
 This is how you can find the Link (id) for an account style.
 
+</details>
+
 ## Method 3 : Retrive using Account Setup and Data Load
+
+<details><summary>CLICK ME</summary>
 
 You can extract all the account styles using the `Export account style supported values` mode in  `Account Setup and Data Load` report.
 
@@ -154,6 +164,8 @@ This is how you can find the Link (id) for an account style.
 
 Here, you can only view the link of one account style at a time.
 
+</details>
+
 ## Account style based fields
 
 The below pictures shows that the data fields are different for each account styles.
@@ -175,7 +187,7 @@ S3.8 - Air Travel - Domestic - pkm
 
 The below similar account styles are also exists in the different categories.
 
-````
+```
 S3.4 - Transport - Rental Cars - gasoline - gal
 S3.6 - Transport - Rental Cars - gasoline - gal
 S3.7 - Transport - Rental Cars - gasoline - gal
