@@ -22,7 +22,7 @@ The Envizi API employs `API Access Token` for authorizing access to Envizi API.
 
 Any eligible active Envizi user is able to generate and use an API token when the user has a `API Token Personal Role` assigned. 
 
-Here is the the instructions to [generate the API Access Token](../202-api-access-token)
+Here are the instructions for [generating the API Access Token](../202-api-access-token)
 
 # 3 Using API
 
@@ -34,14 +34,21 @@ The report names retrieved here to be used with all other `report meta` and `dat
 
 <details><summary>CLICK ME</summary>
 
-#### Sample URL
+### Sample URL
 
 The sample url looks like this
     
     https://ukapi.envizi.com/api/meta
 
 
-#### Sample Code
+### Sample PostMan Request
+
+<img src="images/postman-sample1.png">
+
+
+### Sample Curl Code 
+
+<details><summary>CLICK ME</summary>
 
 Here is the sample code using `meta` API to pull the report names.
 
@@ -58,7 +65,9 @@ curl "$API_URL" --header "Authorization: Bearer $API_ACCESS_TOKEN"
 - `<<TOKEN>>`    : API Access token of the Envizi user generated following the instructions from section 3 API Authentication
 - `<<REGION>>`  : The value would be `uk` , `au`, `us` or `me` based on the user region.
 
-#### Sample Output
+</details>
+
+### Sample Output
 
 The sample Output of the above API call is given in [meta.json](./files/data/meta.json) file. 
 
@@ -87,7 +96,7 @@ The parameters could be
 
 Let us see about how to retrieve report parameters.
 
-#### Sample URL
+### Sample URL
 
 The sample url looks like this  
 
@@ -99,7 +108,15 @@ Example:
 https://ukapi.envizi.com/api/meta/reports/_Envizi-SetupLocations
 ```
 
-#### Sample Code
+
+### Sample PostMan Request
+
+<img src="images/postman-sample2.png">
+
+
+### Sample Curl Code
+
+<details><summary>CLICK ME</summary>
 
 Here is the sample code using `report meta` API to pull the report parameters.
 
@@ -121,8 +138,10 @@ curl "$API_URL" --header "Authorization: Bearer $API_ACCESS_TOKEN"
     - Any report name taken from the previously retrieved [meta.json](./files/data/meta.json) file. 
     - Here we are using `_Envizi-SetupLocations` to get location parameters.
 
+</details>
 
-#### Sample Output
+
+### Sample Output
 
 The sample Output of the above API call is given in this [report-parameters.json](./files/data/report-parameters.json) file. 
 
@@ -139,11 +158,11 @@ Envizi provides an `reports data` API to retrieve data from the given report. Yo
 
 <details><summary>CLICK ME</summary>
 
-#### Sample URL
+### Sample URL
 
 The sample url looks like this.
 
-1. Without Parameters
+#### 1. Without Parameters
 
 ```
 Format: 
@@ -153,7 +172,7 @@ Example:
     https://ukapi.envizi.com/api/data/_Envizi-SetupLocations
 ```
 
-2. With `Group_Id` Parameter
+#### 2. With `Group_Id` Parameter
 
 ```
     https://ukapi.envizi.com/api/data/<<REPORT_NAME>>?<<PARAM_NAME1>>=<<PARAM_VALUE1>>
@@ -161,14 +180,22 @@ Example:
     https://ukapi.envizi.com/api/data/_Envizi-SetupLocations?Group_Id=12345
 ```
 
-3. With `Period, End_Period, and Location_Id` Parameters
+#### 3. With `Period, End_Period, and Location_Id` Parameters
 
 ```
     https://ukapi.envizi.com/api/data/_Envizi-MonthlyDataSummary?Period=1&End_Period=2023/03/31&Location_Id=5003114
 ```
 
 
-#### Sample Code
+### Sample PostMan Request
+
+<img src="images/postman-sample3.png">
+
+
+### Sample Curl Code
+
+<details><summary>CLICK ME</summary>
+
 
 Here is the sample code using `report data` API to pull the report data.
 
@@ -196,8 +223,9 @@ curl "$API_URL" --header "Authorization: Bearer $API_ACCESS_TOKEN"
     - See [report-parameters.json](./files/data/report-parameters.json) file to view the list of available group id. 
     - Here `TurbonomicD1` > `ONPREM-DataCenter` subGroup is used.
 
+</details>
 
-#### Sample Output
+### Sample Output
 
 The sample Output of the above API call is given in this [report-data.json](./files/data/report-data.json) file. 
 
