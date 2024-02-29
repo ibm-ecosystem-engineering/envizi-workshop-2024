@@ -111,6 +111,7 @@ Submit the file for data loading.  `Manage` -> `AI Assist File Processing` -> Se
 This concludes the Scenario 1 lab using the AI assist feature for deriving the relevant Account style for the spend based data of Scope 3 Category1. 
 
 </details>
+
 ## 3. Scenario 2 : Modify the file processed by AI Assist and submit manually
 <details><summary>CLICK ME</summary>
 
