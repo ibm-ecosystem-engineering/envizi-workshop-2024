@@ -26,9 +26,9 @@ The accounts styles are listed as a list in the UI. You can see the account styl
 5. Here you can see the account style `S1 - Gasoline Stationary - gal` by filtering appropriately.
 <img src="images/10-list-4.png">
 
-</details>
-
 You can use any of the following 3 methods given below
+
+</details>
 
 ## 2. Retriving Account Style Link (Id) of an Account Style
 
