@@ -275,8 +275,8 @@
         <td>Session</td>
         <td>Data flow automation in Envizi</td>
         <td></td>
-        <td><a href="./125-data-flow-automation-session">Link</a></td>
         <td>30 mins</td>
+        <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>   
     <tr>
         <td>5</td>
