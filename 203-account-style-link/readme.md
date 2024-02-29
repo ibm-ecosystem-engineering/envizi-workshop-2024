@@ -8,6 +8,8 @@ This can be Retrived in several ways. Lets explore them.
 
 ## 1. Account Styles list
 
+<details><summary>CLICK ME</summary>
+
 The accounts styles are listed as a list in the UI. You can see the account style details here but not the link (id). 
 
 1. Click on `Manage > Account Styles` from the top menu
@@ -170,11 +172,16 @@ Here, you can only view the link of one account style at a time.
 
 ## 3. Account style based fields
 
+<details><summary>CLICK ME</summary>
+
 The below pictures shows that the data fields are different for each account styles.
 
 <img src="images/50-different-accountstyles.png">
 
+</details>
 ## 4. The duplication of Scope 3 Account Styles names across categories is by purpose
+
+<details><summary>CLICK ME</summary>
 
 The account style `Air Travel Domestics` exists in Cateogories 4, 6, 7 & 8.
 
@@ -191,3 +198,5 @@ Here are some of the other account styles exists across different categories.
 The similar account styles can exists across categories and it is for the purpose only.
 
 <img src="images/60-account-style-categories.png">
+
+</details>
