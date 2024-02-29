@@ -11,6 +11,8 @@ We have already created the  Groups and locations for the same in the previous l
 
 ## 1. Download the AI Assist template
 
+<details><summary>CLICK ME</summary>
+
 1. Click on `Manage` -> `Data Upload Templates`
 
 <img src="images/AI-assist-download-templates-1.png">
@@ -31,8 +33,10 @@ We have already created the  Groups and locations for the same in the previous l
 
 <img src="images/AI-assist-templates-contents.png">
 
+</details>
 
 ## 2. Scenario 1: Automatically submit the file processed by AI Assist directly 
+<details><summary>CLICK ME</summary>
 
 ### 2.1 Upload file for AI Assist Processing
 
@@ -106,8 +110,9 @@ Submit the file for data loading.  `Manage` -> `AI Assist File Processing` -> Se
 
 This concludes the Scenario 1 lab using the AI assist feature for deriving the relevant Account style for the spend based data of Scope 3 Category1. 
 
-
+</details>
 ## 3. Scenario 2 : Modify the file processed by AI Assist and submit manually
+<details><summary>CLICK ME</summary>
 
 The following exercise calls out a a scenario where the account style assigned by AI assist is not mapped to correct Scope 3 Category or data type. In such cases, users can take modify the account style according to their requirement and then upload the files manually. Lets follow the steps to replicate this scenario.
 
@@ -174,6 +179,7 @@ Observe the values of the fields `File Status` , `Records In`, `Records Out` and
 13. For the locations specificed in the data loading file, verify that  the accounts are created and the records are loaded by navigating through the `Organization Hierarchy` or going to the `Manage`-> `Location` -> `Accounts` -> view each account details .
 
 This concludes the exercise. Happy Learning !
+</details>
 
 ## Conclusion
 

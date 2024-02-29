@@ -17,12 +17,12 @@ Here are the key steps in this process:
 - Create Organization Hierarchy for Scope 3
 - Capture data into Scope 3 Accounts
 
-# 1. Download the Templates for Config Connectorx
+# 1. Download the Template for Config Connector
 
 1. Download the config connector excel template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` from [here](./files/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX) or from the shared Box folder. 
 
 
-# 2. Create Organization Hierarchy using Config Connector for Scope 3 
+# 2. Create Organization Hierarchy using Config Connector for Scope 3 (Optional)
 
 Now, Let's create the Scope 3 grouping structure as we have defined in our organization hierarchy. 
     <img src="images/Org-Hier-S3.png">
