@@ -376,7 +376,7 @@
         <td>7</td>
         <td>Session</td>
         <td>Creating Custom power reports and best practices </td>
-        <td>Using design methodologies while creating custom reports and identifies the requirements,etc </td>
+        <td></td>
         <td>30 mins</td>
         <td></td>
    </tr>
