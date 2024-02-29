@@ -17,8 +17,6 @@ The accounts styles are listed as a list in the UI. You can see the account styl
 2. You can see the list of Accounts styles.
 <img src="images/10-list-1.png">
 
-<details><summary>CLICK ME</summary>
-
 3. Here you can see the account style `S1 - Diesel Stationary - gal` by filtering appropriately.
 <img src="images/10-list-2.png">
 
