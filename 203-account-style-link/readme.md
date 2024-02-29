@@ -177,6 +177,7 @@ The below pictures shows that the data fields are different for each account sty
 <img src="images/50-different-accountstyles.png">
 
 </details>
+
 ## 4. The duplication of Scope 3 Account Styles names across categories is by purpose
 
 <details><summary>CLICK ME</summary>
