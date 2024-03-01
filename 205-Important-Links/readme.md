@@ -28,6 +28,10 @@ Envizi Implementation and Technical Fundamentals badge
 
 https://www.ibm.com/training/badge/envizi-implementation-and-technical-fundamentals
 
+## AHA Ideas
+
+https://ibm-ai-apps-internal.ideas.aha.io/ideas/ENVIZIESG-I-117
+
 
 ## Seismic & Others (Documents, Decks)
 
