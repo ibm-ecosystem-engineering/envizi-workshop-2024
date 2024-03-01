@@ -445,7 +445,13 @@
         <td>Create Custom Emission Factors</td>
         <td><strong>Lab</strong></td>
         <td><a href="./172-Custom-Emission-Factors">Link</a></td>
-   </tr>     
+   </tr>    
+    <tr>
+        <td>6</td>
+        <td>PowerReport Developer</td>
+        <td><strong>Info</strong></td>
+        <td><a href="./351-power-report-developer">Link</a></td>
+   </tr>      
 </table>
 
 ## Note : 
