@@ -30,6 +30,8 @@ https://www.ibm.com/training/badge/envizi-implementation-and-technical-fundament
 
 ## AHA Ideas
 
+To raise an enhancement request to the product
+
 https://ibm-ai-apps-internal.ideas.aha.io/ideas/ENVIZIESG-I-117
 
 
