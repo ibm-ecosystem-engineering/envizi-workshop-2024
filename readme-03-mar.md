@@ -47,8 +47,8 @@
     <tr>
         <td>5</td>
         <td>Session</td>
-        <td>Emission Management - Show & Tell</td>
-        <td>Scope 1, 2| Dashboards | RECs | Location & Market based emissions | Carbon offsets  </td>
+        <td>Scope 1 & 2 Emission Management - Show & Tell</td>
+        <td>Dashboards | RECs | Location & Market based emissions | Carbon offsets  </td>
         <td>30 mins</td>
         <td></td>
     </tr>    
@@ -58,8 +58,8 @@
         <tr>
         <td>6</td>
         <td>Session</td>
-        <td>Emission Management - Show & Tell continued</td>
-        <td>Scope 1, 2| Dashboards | RECs | Location & Market based emissions | Carbon offsets  </td>
+        <td>Scope 1 & 2 Emission Management - Show & Tell continued</td>
+        <td>Dashboards | RECs | Location & Market based emissions | Carbon offsets  </td>
         <td>30 mins</td>
         <td></td>
     </tr>   
@@ -67,8 +67,8 @@
         <tr>
         <td>7</td>
         <td>Session</td>
-        <td>Emission Management - Show & Tell</td>
-        <td>Scope  3 | Dashboards & Power Reports | Custom Emission Factors | Financed Emissions | Virtual Accounts </td>
+        <td>Scope  3 Emission Management - Show & Tell</td>
+        <td>Dashboards & Power Reports | Custom Emission Factors | Financed Emissions | Virtual Accounts </td>
         <td>60 mins</td>
         <td></td>
     </tr>       
@@ -177,8 +177,8 @@
    <tr>
         <td>10</td>
         <td>Session</td>
-        <td>PoX Best Practices</td>
-        <td>Overall best practices to follow in the implementation of PoCs | Sandbox Provisioning</td>
+        <td>What's new in Envizi and Roadmap </td>
+        <td>Latest add-ons / upcoming features, etc</td>
         <td>30 mins</td>
         <td></td>
    </tr>   
@@ -212,7 +212,7 @@
    <tr>
         <td>3</td>
         <td><strong>Lab</strong></td>
-        <td>Create Group, Locations, Account and Data using UI</td>
+        <td>Create Groups, Locations, Account and load Data using UI</td>
         <td></td>
         <td>60 mins</td>
         <td><a href="./111-1-using-ui-to-create-groups-location-accounts-and-data">Link</a></td>
@@ -228,7 +228,7 @@
    <tr>
         <td>5</td>
         <td><strong>Lab</strong></td>
-        <td>Create Group and Location Using Config Connector</td>
+        <td>Create Groups and Locations Using Config Connector</td>
         <td>Create the Organization hierarchy using the template - Config connector</td>
         <td>30 mins</td>
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
@@ -239,7 +239,7 @@
   <tr>
         <td>5 contd </td>
         <td><strong>Lab</strong></td>
-        <td>Create Group and Location Using Config Connector contd </td>
+        <td>Create Groups and Locations Using Config Connector contd </td>
         <td>Create the Organization hierarchy using the template - Config connector</td>
         <td>30 mins</td>
         <td><a href="./112-Create-Org-Hierarchy-Using-ConfigConnector">Link</a></td>
