@@ -1,4 +1,4 @@
-# Envizi Workshop Plan - March
+# Envizi Workshop Plan
 
 <table>
     <thead>
@@ -24,7 +24,7 @@
         <td>2</td>
         <td>Session</td>
         <td>Overview of Sustainability & Envizi + Modules</td>
-        <td>Introductions to Envizi | Various modules | Value proposition | Implementation methodologies</td>
+        <td>Introductions to Envizi | Various modules | Value proposition </td>
         <td>45 mins</td>
         <td></td>
     </tr>
