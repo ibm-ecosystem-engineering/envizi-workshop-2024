@@ -197,7 +197,7 @@
         <td>1</td>
         <td>Session</td>
         <td>Data Management Overview</td>
-        <td>Groups, Locations & Accounts | Account styles , Meters, Locations, KPIs, etc | UI Navigation</td>
+        <td>Groups, Locations & Accounts | Account styles,etc | UI Navigation</td>
         <td>30 mins</td>
         <td></td>
     </tr>
@@ -261,13 +261,13 @@
         <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
     </tr>
     <tr>
-        <td>8</td>
+        <td>4</td>
         <td><strong>Lab</strong></td>
-        <td>Explore Emission factors</td>
-        <td>Explore Emission factors associated with the data loaded through Labs</td>
-        <td>60 mins</td>
-        <td><a href="./170-Explore-Emission-factors">Link</a></td>
-   </tr>      
+        <td>Data flow automation in Envizi</td>
+        <td></td>
+        <td>45 mins</td>
+        <td><a href="./126-data-flow-automation-lab">Link</a></td>
+   </tr>        
     <tr>
         <td>9</td>
         <td><strong>Lab</strong></td>
@@ -311,13 +311,13 @@
         <td><a href="./124-Loading-Scope-3-Category1-data-using-AI-Assist">Link</a></td>
    </tr>    
     <tr>
-        <td>4</td>
+        <td>8</td>
         <td><strong>Lab</strong></td>
-        <td>Data flow automation in Envizi</td>
-        <td></td>
-        <td>45 mins</td>
-        <td><a href="./126-data-flow-automation-lab">Link</a></td>
-   </tr>       
+        <td>Explore Emission factors</td>
+        <td>Explore Emission factors associated with the data loaded through Labs</td>
+        <td>30 mins</td>
+        <td><a href="./170-Explore-Emission-factors">Link</a></td>
+   </tr>      
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>  
