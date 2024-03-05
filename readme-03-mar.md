@@ -264,7 +264,7 @@
         <td>4</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
-        <td></td>
+        <td>Leveraging Envizi DataFlow AWS Service to ingest the data files automatically</td>
         <td>45 mins</td>
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
    </tr>        
@@ -272,7 +272,7 @@
         <td>9</td>
         <td><strong>Lab</strong></td>
         <td>Target setting and tracking & Validation</td>
-        <td></td>
+        <td>Set the targets for Accounts / Locations </td>
         <td>30 mins</td>
         <td><a href="./171-Target-setting-and-tracking">Link</a></td>
    </tr>        
@@ -400,7 +400,7 @@
         <td>5</td>
         <td><strong>Lab</strong></td>
         <td>Capture data through issue management</td>
-        <td></td>
+        <td>Capture data manually through Data capture feature of Issue Management  </td>
         <td>15 mins</td>
         <td><a href="./131-Capture-data-through-issue-management">Link</a> </td>
     </tr>
@@ -408,7 +408,7 @@
         <td>6</td>
         <td><strong>Lab</strong></td>
         <td>Capture data through Account Setup and Data Load Template</td>
-        <td></td>
+        <td>Leverage Universal Account template to capture the missing data</td>
         <td>30 mins</td>
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a> </td>
     </tr>        
