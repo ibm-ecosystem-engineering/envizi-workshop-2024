@@ -261,13 +261,20 @@
         <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
     </tr>
     <tr>
-        <td>4</td>
+        <td>1</td>
+        <td>Session</td>
+        <td>Recap - Managing Scope 3 | Universal Account Connector PM&C </td>
+        <td>Scope 3 categories, PM&C Connectors , etc</td>
+        <td>30 mins</td>
+        <td></td>    
+    <tr>
+        <td>2</td>
         <td><strong>Lab</strong></td>
-        <td>Data flow automation in Envizi</td>
-        <td>Leveraging Envizi DataFlow AWS Service to ingest the data files automatically</td>
-        <td>45 mins</td>
-        <td><a href="./126-data-flow-automation-lab">Link</a></td>
-   </tr>        
+        <td>Loading Scope 3 data using Account Setup and Data Load PM&C Template</td>
+        <td>Create the new accounts along with data using Account Setup and Data Load PM&C Template</td>
+        <td>60 mins</td>
+        <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
+   </tr>            
     <tr>
         <td>9</td>
         <td><strong>Lab</strong></td>
@@ -286,22 +293,7 @@
     </tr>
     <tr>
         <td colspan="6"> ................................................................................................... <strong>DAY 4</strong> ...................................................................................................</td>
-    </tr>  
-    <tr>
-        <td>1</td>
-        <td>Session</td>
-        <td>Recap - Managing Scope 3 | Universal Account Connector PM&C </td>
-        <td>Scope 3 categories, PM&C Connectors , etc</td>
-        <td>30 mins</td>
-        <td></td>    
-    <tr>
-        <td>2</td>
-        <td><strong>Lab</strong></td>
-        <td>Loading Scope 3 data using Account Setup and Data Load PM&C Template</td>
-        <td>Create the new accounts along with data using Account Setup and Data Load PM&C Template</td>
-        <td>60 mins</td>
-        <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
-   </tr>       
+    </tr>           
     <tr>
         <td>3</td>
         <td><strong>Lab</strong></td>
@@ -310,6 +302,14 @@
         <td>45 mins</td>
         <td><a href="./124-Loading-Scope-3-Category1-data-using-AI-Assist">Link</a></td>
    </tr>    
+    <tr>
+        <td>4</td>
+        <td><strong>Lab</strong></td>
+        <td>Data flow automation in Envizi</td>
+        <td>Leveraging Envizi DataFlow AWS Service to ingest the data files automatically</td>
+        <td>45 mins</td>
+        <td><a href="./126-data-flow-automation-lab">Link</a></td>
+   </tr>          
     <tr>
         <td>8</td>
         <td><strong>Lab</strong></td>
