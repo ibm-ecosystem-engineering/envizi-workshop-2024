@@ -261,14 +261,14 @@
         <td><a href="./121-Load-data-using-Universal-Account-Conenctor">Link</a></td>
     </tr>
     <tr>
-        <td>1</td>
+        <td>8</td>
         <td>Session</td>
         <td>Recap - Managing Scope 3 | Universal Account Connector PM&C </td>
         <td>Scope 3 categories, PM&C Connectors , etc</td>
         <td>30 mins</td>
         <td></td>    
     <tr>
-        <td>2</td>
+        <td>9</td>
         <td><strong>Lab</strong></td>
         <td>Loading Scope 3 data using Account Setup and Data Load PM&C Template</td>
         <td>Create the new accounts along with data using Account Setup and Data Load PM&C Template</td>
@@ -276,7 +276,7 @@
         <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
    </tr>            
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td><strong>Lab</strong></td>
         <td>Target setting and tracking & Validation</td>
         <td>Set the targets for Accounts / Locations </td>
@@ -284,7 +284,7 @@
         <td><a href="./171-Target-setting-and-tracking">Link</a></td>
    </tr>        
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td>Quiz</td>
         <td>Quiz</td>
         <td></td>
