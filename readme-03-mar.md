@@ -274,17 +274,9 @@
         <td>Create the new accounts along with data using Account Setup and Data Load PM&C Template</td>
         <td>60 mins</td>
         <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
-   </tr>            
+   </tr>              
     <tr>
         <td>10</td>
-        <td><strong>Lab</strong></td>
-        <td>Target setting and tracking & Validation</td>
-        <td>Set the targets for Accounts / Locations </td>
-        <td>30 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr>        
-    <tr>
-        <td>11</td>
         <td>Quiz</td>
         <td>Quiz</td>
         <td></td>
@@ -295,7 +287,7 @@
         <td colspan="6"> ................................................................................................... <strong>DAY 4</strong> ...................................................................................................</td>
     </tr>           
     <tr>
-        <td>3</td>
+        <td>1</td>
         <td><strong>Lab</strong></td>
         <td>Loading Scope 3 Category 1 data using AI Assist</td>
         <td>Using AI Assit feature to ingest Scope 3 Purchased goods data </td>
@@ -303,7 +295,7 @@
         <td><a href="./124-Loading-Scope-3-Category1-data-using-AI-Assist">Link</a></td>
    </tr>    
     <tr>
-        <td>4</td>
+        <td>2</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
         <td>Leveraging Envizi DataFlow AWS Service to ingest the data files automatically</td>
@@ -311,13 +303,21 @@
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
    </tr>          
     <tr>
-        <td>8</td>
+        <td>3</td>
         <td><strong>Lab</strong></td>
         <td>Explore Emission factors</td>
         <td>Explore Emission factors associated with the data loaded through Labs</td>
         <td>30 mins</td>
         <td><a href="./170-Explore-Emission-factors">Link</a></td>
-   </tr>      
+   </tr>    
+    <tr>
+        <td>4</td>
+        <td><strong>Lab</strong></td>
+        <td>Target setting and tracking & Validation</td>
+        <td>Set the targets for Accounts / Locations </td>
+        <td>30 mins</td>
+        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
+   </tr>        
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>  
