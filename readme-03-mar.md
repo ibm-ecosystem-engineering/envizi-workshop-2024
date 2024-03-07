@@ -311,7 +311,7 @@
         <td></td>
    </tr>          
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td><strong>Lab</strong></td>
         <td>Explore Emission factors</td>
         <td>Explore Emission factors associated with the data loaded through Labs</td>
@@ -319,7 +319,7 @@
         <td><a href="./170-Explore-Emission-factors">Link</a></td>
    </tr>    
     <tr>
-        <td>3</td>
+        <td>5</td>
         <td><strong>Lab</strong></td>
         <td>Custom Emission factors</td>
         <td>Create Custom Emission factors based on Organization's / Supplier specific emission factors</td>
@@ -327,7 +327,7 @@
         <td><a href="./172-Custom-Emission-Factors">Link</a></td>
    </tr>      
     <tr>
-        <td>4</td>
+        <td>6</td>
         <td><strong>Lab</strong></td>
         <td>Target setting and tracking & Validation</td>
         <td>Set the targets for Accounts / Locations </td>
@@ -338,7 +338,7 @@
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>  
     <tr>
-        <td>5</td>
+        <td>7</td>
         <td>Session</td>
         <td>User Management</td>
         <td>Discussion on  create users, logins,  providing access, assigning various work roles,  setting password policies</td>
@@ -346,7 +346,7 @@
         <td><a href="./160-contacts-logins">Link</a>  </td>
    </tr>
     <tr>
-        <td>6</td>
+        <td>8</td>
         <td><strong>Lab</strong></td>
         <td>Creating Contacts and Users</td>
         <td>Creating Contacts and Users via UI</td>
@@ -354,7 +354,7 @@
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></a></td>
    </tr>  
     <tr>
-        <td>7</td>
+        <td>9</td>
         <td><strong>Session </strong></td>
         <td>Recap on Sustainability Reporting Manager (SRM) and Governance framework </td>
         <td>Explore Sustainability Reporting Manager</td>
@@ -362,7 +362,7 @@
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
    </tr>     
     <tr>
-        <td>8</td>
+        <td>10</td>
         <td><strong>Lab</strong></td>
         <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
         <td>Explore Sustainability Reporting Manager</td>
@@ -370,7 +370,7 @@
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
    </tr>   
     <tr>
-        <td>9</td>
+        <td>11</td>
         <td>Quiz</td>
         <td>Quiz</td>
         <td></td>
