@@ -320,7 +320,7 @@
    </tr>    
     <tr>
         <td>5</td>
-        <td><strong>Lab</strong></td>
+        <td><strong>Lab(Optional)</strong></td>
         <td>Custom Emission factors</td>
         <td>Create Custom Emission factors based on Organization's / Supplier specific emission factors</td>
         <td>30 mins</td>
