@@ -301,6 +301,14 @@
         <td>Leveraging Envizi DataFlow AWS Service to ingest the data files automatically</td>
         <td>45 mins</td>
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
+   </tr>     
+   <tr>
+        <td>3</td>
+        <td><strong>Session</strong></td>
+        <td>Envizi Emission Factor Selection</td>
+        <td>Understand how Emission Factor Selection Algorithm works</td>
+        <td>30 mins</td>
+        <td></td>
    </tr>          
     <tr>
         <td>3</td>
@@ -310,6 +318,14 @@
         <td>30 mins</td>
         <td><a href="./170-Explore-Emission-factors">Link</a></td>
    </tr>    
+    <tr>
+        <td>3</td>
+        <td><strong>Lab</strong></td>
+        <td>Custom Emission factors</td>
+        <td>Create Custom Emission factors based on Organization's / Supplier specific emission factors</td>
+        <td>30 mins</td>
+        <td><a href="./172-Custom-Emission-Factors">Link</a></td>
+   </tr>      
     <tr>
         <td>4</td>
         <td><strong>Lab</strong></td>
