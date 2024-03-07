@@ -383,29 +383,13 @@
     <tr>
         <td>1</td>
         <td>Session</td>
-        <td>Envizi API</td>
-        <td>Technical overview on Envizi API and how to leverage to integrate with external systems</td>
-        <td>30 mins</td>
-        <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
-   </tr>
-    <tr>
-        <td>2</td>
-        <td><strong>Lab</strong></td>
-        <td>Use API to extract reports data</td>
-        <td>Lab: Use APIs to extract the Reports data</td>
-        <td>45 mins</td>
-        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
-   </tr>
-    <tr>
-        <td>3</td>
-        <td>Session</td>
         <td>Data Monitoring,  Health & Issue Management</td>
         <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
         <td>30 mins</td>
         <td></td>
    </tr>
    <tr>
-        <td>4</td>
+        <td>2</td>
         <td><strong>Lab</strong></td>
         <td>Identify data gaps and Raise issues</td>
         <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
@@ -413,21 +397,37 @@
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a> </td>
     </tr>
       <tr>
-        <td>5</td>
+        <td>3</td>
         <td><strong>Lab</strong></td>
         <td>Capture data through issue management</td>
         <td>Capture data manually through Data capture feature of Issue Management  </td>
         <td>15 mins</td>
         <td><a href="./131-Capture-data-through-issue-management">Link</a> </td>
-    </tr>
+    </tr>    
    <tr>
-        <td>6</td>
+        <td>4</td>
         <td><strong>Lab</strong></td>
         <td>Capture data through Account Setup and Data Load Template</td>
         <td>Leverage Universal Account template to capture the missing data</td>
         <td>30 mins</td>
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a> </td>
-    </tr>        
+    </tr>     
+    <tr>
+        <td>5</td>
+        <td>Session</td>
+        <td>Envizi API</td>
+        <td>Technical overview on Envizi API and how to leverage to integrate with external systems</td>
+        <td>30 mins</td>
+        <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
+   </tr>
+    <tr>
+        <td>6</td>
+        <td><strong>Lab</strong></td>
+        <td>Use API to extract reports data</td>
+        <td>Lab: Use APIs to extract the Reports data</td>
+        <td>45 mins</td>
+        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
+   </tr>       
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>
