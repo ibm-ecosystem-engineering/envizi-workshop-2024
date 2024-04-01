@@ -93,7 +93,7 @@ However you do NOT find the `Add Disclosure`  button, because currently you are 
 
 </details>
 
-## 2. SRM Owner : Create Disclosure
+## 2. Envizi System Admin : Create Disclosure
 
 <details><summary>CLICK ME</summary>
 

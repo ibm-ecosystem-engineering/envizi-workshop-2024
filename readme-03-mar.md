@@ -197,7 +197,7 @@
         <td>1</td>
         <td>Session</td>
         <td>Data Management Overview</td>
-        <td>Groups, Locations & Accounts | Account styles , Meters, Locations, KPIs, etc | UI Navigation</td>
+        <td>Groups, Locations & Accounts | Account styles,etc | UI Navigation</td>
         <td>30 mins</td>
         <td></td>
     </tr>
@@ -262,20 +262,19 @@
     </tr>
     <tr>
         <td>8</td>
-        <td><strong>Lab</strong></td>
-        <td>Explore Emission factors</td>
-        <td>Explore Emission factors associated with the data loaded through Labs</td>
-        <td>60 mins</td>
-        <td><a href="./170-Explore-Emission-factors">Link</a></td>
-   </tr>      
+        <td>Session</td>
+        <td>Recap - Managing Scope 3 | Universal Account Connector PM&C </td>
+        <td>Scope 3 categories, PM&C Connectors , etc</td>
+        <td>30 mins</td>
+        <td></td>    
     <tr>
         <td>9</td>
         <td><strong>Lab</strong></td>
-        <td>Target setting and tracking & Validation</td>
-        <td></td>
-        <td>30 mins</td>
-        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
-   </tr>        
+        <td>Loading Scope 3 data using Account Setup and Data Load PM&C Template</td>
+        <td>Create the new accounts along with data using Account Setup and Data Load PM&C Template</td>
+        <td>60 mins</td>
+        <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
+   </tr>              
     <tr>
         <td>10</td>
         <td>Quiz</td>
@@ -286,24 +285,9 @@
     </tr>
     <tr>
         <td colspan="6"> ................................................................................................... <strong>DAY 4</strong> ...................................................................................................</td>
-    </tr>  
+    </tr>           
     <tr>
         <td>1</td>
-        <td>Session</td>
-        <td>Recap - Managing Scope 3 | Universal Account Connector PM&C </td>
-        <td>Scope 3 categories, PM&C Connectors , etc</td>
-        <td>30 mins</td>
-        <td></td>    
-    <tr>
-        <td>2</td>
-        <td><strong>Lab</strong></td>
-        <td>Loading Scope 3 data using Account Setup and Data Load PM&C Template</td>
-        <td>Create the new accounts along with data using Account Setup and Data Load PM&C Template</td>
-        <td>60 mins</td>
-        <td><a href="./122-1-Create-Scope3-hierarchy-and-data">Link</a></td>
-   </tr>       
-    <tr>
-        <td>3</td>
         <td><strong>Lab</strong></td>
         <td>Loading Scope 3 Category 1 data using AI Assist</td>
         <td>Using AI Assit feature to ingest Scope 3 Purchased goods data </td>
@@ -311,18 +295,50 @@
         <td><a href="./124-Loading-Scope-3-Category1-data-using-AI-Assist">Link</a></td>
    </tr>    
     <tr>
-        <td>4</td>
+        <td>2</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
-        <td></td>
+        <td>Leveraging Envizi DataFlow AWS Service to ingest the data files automatically</td>
         <td>45 mins</td>
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
-   </tr>       
+   </tr>     
+   <tr>
+        <td>3</td>
+        <td><strong>Session</strong></td>
+        <td>Envizi Emission Factor Selection</td>
+        <td>Understand how Emission Factor Selection Algorithm works</td>
+        <td>30 mins</td>
+        <td></td>
+   </tr>          
+    <tr>
+        <td>4</td>
+        <td><strong>Lab</strong></td>
+        <td>Explore Emission factors</td>
+        <td>Explore Emission factors associated with the data loaded through Labs</td>
+        <td>30 mins</td>
+        <td><a href="./170-Explore-Emission-factors">Link</a></td>
+   </tr>    
+    <tr>
+        <td>5</td>
+        <td><strong>Lab(Optional)</strong></td>
+        <td>Custom Emission factors</td>
+        <td>Create Custom Emission factors based on Organization's / Supplier specific emission factors</td>
+        <td>30 mins</td>
+        <td><a href="./172-Custom-Emission-Factors">Link</a></td>
+   </tr>      
+    <tr>
+        <td>6</td>
+        <td><strong>Lab</strong></td>
+        <td>Target setting and tracking & Validation</td>
+        <td>Set the targets for Accounts / Locations </td>
+        <td>30 mins</td>
+        <td><a href="./171-Target-setting-and-tracking">Link</a></td>
+   </tr>        
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>  
     <tr>
-        <td>5</td>
+        <td>7</td>
         <td>Session</td>
         <td>User Management</td>
         <td>Discussion on  create users, logins,  providing access, assigning various work roles,  setting password policies</td>
@@ -330,7 +346,7 @@
         <td><a href="./160-contacts-logins">Link</a>  </td>
    </tr>
     <tr>
-        <td>6</td>
+        <td>8</td>
         <td><strong>Lab</strong></td>
         <td>Creating Contacts and Users</td>
         <td>Creating Contacts and Users via UI</td>
@@ -338,7 +354,7 @@
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></a></td>
    </tr>  
     <tr>
-        <td>7</td>
+        <td>9</td>
         <td><strong>Session </strong></td>
         <td>Recap on Sustainability Reporting Manager (SRM) and Governance framework </td>
         <td>Explore Sustainability Reporting Manager</td>
@@ -346,7 +362,7 @@
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
    </tr>     
     <tr>
-        <td>8</td>
+        <td>10</td>
         <td><strong>Lab</strong></td>
         <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
         <td>Explore Sustainability Reporting Manager</td>
@@ -354,7 +370,7 @@
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
    </tr>   
     <tr>
-        <td>9</td>
+        <td>11</td>
         <td>Quiz</td>
         <td>Quiz</td>
         <td></td>
@@ -367,29 +383,13 @@
     <tr>
         <td>1</td>
         <td>Session</td>
-        <td>Envizi API</td>
-        <td>Technical overview on Envizi API and how to leverage to integrate with external systems</td>
-        <td>30 mins</td>
-        <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
-   </tr>
-    <tr>
-        <td>2</td>
-        <td><strong>Lab</strong></td>
-        <td>Use API to extract reports data</td>
-        <td>Lab: Use APIs to extract the Reports data</td>
-        <td>45 mins</td>
-        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
-   </tr>
-    <tr>
-        <td>3</td>
-        <td>Session</td>
         <td>Data Monitoring,  Health & Issue Management</td>
         <td>Discussion on Data gaps, quality of data , health reports, accural , data estimation, issue management</td>
         <td>30 mins</td>
         <td></td>
    </tr>
    <tr>
-        <td>4</td>
+        <td>2</td>
         <td><strong>Lab</strong></td>
         <td>Identify data gaps and Raise issues</td>
         <td>Monitor health of the data, identify gaps using Data Health reports and Accruals | Raise issue for missing data / alerts to capture the required data</td>
@@ -397,21 +397,37 @@
         <td><a href="./130-Identify-data-gaps-and-Raise-issues">Link</a> </td>
     </tr>
       <tr>
-        <td>5</td>
+        <td>3</td>
         <td><strong>Lab</strong></td>
         <td>Capture data through issue management</td>
-        <td></td>
+        <td>Capture data manually through Data capture feature of Issue Management  </td>
         <td>15 mins</td>
         <td><a href="./131-Capture-data-through-issue-management">Link</a> </td>
-    </tr>
+    </tr>    
    <tr>
-        <td>6</td>
+        <td>4</td>
         <td><strong>Lab</strong></td>
         <td>Capture data through Account Setup and Data Load Template</td>
-        <td></td>
+        <td>Leverage Universal Account template to capture the missing data</td>
         <td>30 mins</td>
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a> </td>
-    </tr>        
+    </tr>     
+    <tr>
+        <td>5</td>
+        <td>Session</td>
+        <td>Envizi API</td>
+        <td>Technical overview on Envizi API and how to leverage to integrate with external systems</td>
+        <td>30 mins</td>
+        <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
+   </tr>
+    <tr>
+        <td>6</td>
+        <td><strong>Lab</strong></td>
+        <td>Use API to extract reports data</td>
+        <td>Lab: Use APIs to extract the Reports data</td>
+        <td>45 mins</td>
+        <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
+   </tr>       
     <tr>
         <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>
