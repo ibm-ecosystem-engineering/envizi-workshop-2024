@@ -7,6 +7,11 @@
         <th>GitHub Public</th>
     </thead>
     <tr>
+        <td>4</td>
+        <td>Workshop Apr</td>
+        <td><a href="./readme-04-apr.md">Link</a></td>
+   </tr>   
+    <tr>
         <td>3</td>
         <td>Workshop Mar</td>
         <td><a href="./readme-03-mar.md">Link</a></td>
