@@ -24,18 +24,20 @@ You can find this info in the file `\126-data-flow-automation-lab\files\s3-confi
 
 You can take the sample file `\126-data-flow-automation-lab\POCAccountSetupandDataLoad_INbank_India_ATMs.xlsx`  from the shared Box folder.
 
-2. Update the content based on the data which you want to ingest.
+2. Suffix the file name with the your `Prefix-Id`.  (POCAccountSetupandDataLoad_INbank_India_ATMs_xxxxx.xlsx)
 
 3. Prefix the columns `Location` and `Account Number` with the `Prefix-Id` to avoid duplicates.
 
 ### 1.3 Form the URL for S3
 
-1. Form the url based on the details  
+1. Form the url based on the details.
 
    http://<bucket_name>.s3.amazonaws.com/<folder_name>/<file_name_with_extension>
    
    Example:
-   http://envizi-client-dataservice-us-prod.s3.amazonaws.com/client_dedd4566f2f247/POCAccountSetupandDataLoad_INbank_Co_All.XLSX
+   http://envizi-client-dataservice-us-prod.s3.amazonaws.com/client_dedd4566f2f247/POCAccountSetupandDataLoad_INbank_Co_All.xlsx
+
+   You need to form the URL based on the excel file name that you have.
 
 ### 1.4 Push the file using PostMan
 
