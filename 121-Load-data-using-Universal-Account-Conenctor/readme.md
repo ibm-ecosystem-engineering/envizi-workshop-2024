@@ -181,6 +181,8 @@ Lets upload the file to load data into  Envizi Accounts
 1. Follow the steps given [here](../201-uploading-a-file) to upload the file into Envizi.
 2. Repeat the steps for both the files related loading data related to locations for both IN Bank Corporate offices and Branches.
 
+</details>
+
 ## 6. View the Accounts and Data in Envizi
 
 <details><summary>CLICK ME</summary>
