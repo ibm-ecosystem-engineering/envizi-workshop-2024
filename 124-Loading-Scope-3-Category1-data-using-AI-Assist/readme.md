@@ -26,7 +26,7 @@ We have already created the  Groups and locations for the same in the previous l
 4. Open the downloaded file `Account Setup and Data Load - AI Assist.xlsx` contents.
 
 5. Go through all the 4 sheets of the file carefully to get more insights on AI Assist feature
-   - **Records to load              :** This is main data file which will be processed once uploaded into the system 
+   - **Records to load              :** This is the main data sheet which will be processed once uploaded into the system 
    - **Guidance                     :** Provides overview of AI Assist, important notes on how to use various fields, do and don't 
    - **Supported account styles     :** Provides list Account styles supported for Scope 3 - Category 1 Purchased Goods and Services in Envizi through Eora 66 Emission factor library
    - **Template fields definitions  :** - Details on field types , mandatory or optional, etc
