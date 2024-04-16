@@ -29,7 +29,7 @@ Here are the key steps in this process:
 1. Download the `Universal Data Connector` (UDC) template `Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx` from [here](./files/Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx) or from the shared Box folder .
 
 
-## 2. Understand the template
+## 2. Understand the template (Optional)
 
 Let us understand about this template.
 
@@ -66,7 +66,7 @@ If you want to prepare the template with your own data then only this section is
 
 </details>
 
-### 2.2 How to Choose Account Style Caption
+### 2.2 How to Choose Account Style Caption 
 
 <details><summary>CLICK ME</summary>
 
@@ -127,7 +127,7 @@ In our bank example, the bank is `purchasing electricity` for their own operatio
 
 </details>
 
-## 3. Populate Template with activity Data
+## 3. Populate Template with activity Data  (Optional)
 
 <details><summary>CLICK ME</summary>
 
