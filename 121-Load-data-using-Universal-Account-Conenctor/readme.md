@@ -37,6 +37,8 @@ If you want to prepare the template with your own data then only this section is
 
 ### 2.1 The template
 
+<details><summary>CLICK ME</summary>
+
 1. The content of the template looks like the following. 
 
 <img src="images/UDC_Template.png">
@@ -62,8 +64,11 @@ If you want to prepare the template with your own data then only this section is
 - Record Invoice Number	Invoice number of the purchase of the activity data 
 - Record Data Quality - Provide the data being loaded is actual data or estimated data. Values: `Actual` or `Estimated`. 
 
+</details>
 
 ### 2.2 How to Choose Account Style Caption
+
+<details><summary>CLICK ME</summary>
 
 To derive correct emission factor for the activity data in Envizi, it is very important to choose an appropriate Account Style for an account. To do that, we need to know what are the available account styles in the system and then choose the correct one. 
 
@@ -120,8 +125,11 @@ In our bank example, the bank is `purchasing electricity` for their own operatio
 
 5.  If the `Total Cost Supported` column value is Yes, then you can enter the cost corresponding to activity data in `column J` of `Records to load` sheet.
 
+</details>
 
 ## 3. Populate Template with activity Data
+
+<details><summary>CLICK ME</summary>
 
 Now, Let's populate the template with data for all the locations we created in the previous lab.
 
@@ -144,7 +152,11 @@ Once prepared, you can upload the files following instructions from Section 3. H
 Once prepared, you can upload the files following instructions to upload. However
 To stay aligned with the subsequent labs, we recommend using the Prepopulated template file discussed in the following section for the upcoming steps.
 
+</details>
+
 ## 4 Preparing the Prepopulated Template
+
+<details><summary>CLICK ME</summary>
 
 Lets download the Prepopulated Template files and do the required changes.
 
@@ -158,7 +170,11 @@ Lets download the Prepopulated Template files and do the required changes.
 
 The Prepopulated Template files are ready for upload now.
 
+</details>
+
 ## 5 Upload the template file into Envizi
+
+<details><summary>CLICK ME</summary>
 
 Lets upload the file to load data into  Envizi Accounts
 
@@ -166,6 +182,8 @@ Lets upload the file to load data into  Envizi Accounts
 2. Repeat the steps for both the files related loading data related to locations for both IN Bank Corporate offices and Branches.
 
 ## 6. View the Accounts and Data in Envizi
+
+<details><summary>CLICK ME</summary>
 
 Let us take a look at the data loaded into various accounts of our bank locations. 
 
@@ -193,6 +211,8 @@ Account Summary page shows account details, last 12 months data of as bar chart,
 Review all other accounts data as and when its loaded into the System. 
 
 This completes the data loading exercise for Scope 1, 2 activity data identified for different locations in our banking examples.
+
+</details>
 
 ## 7 Next steps
 In this lab, you have learned how to capture the data into Envizi system using the Universal data connector and Universal Account Setup and Data load templates. Stay tuned to learn more on how to capture scope 3 data, get insights using dashboards, what emission factors applied, etc in the subsequent lab exercises.
