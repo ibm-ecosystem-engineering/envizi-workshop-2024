@@ -2,6 +2,8 @@
 
 In this lab exercise we will Create groups and locations for Scope 3 Categories identified for our Bank example. 
 
+<img src="images/Org-Hier-S3.png">
+
 You have already learnt how to use Config connector in the previous lab. 
 
 #### Pre-Requisite
@@ -17,23 +19,18 @@ Here are the key steps in this process:
 - Create Organization Hierarchy for Scope 3
 - Capture data into Scope 3 Accounts
 
-# 1. Download the Template for Config Connector
+# 1. Download the Template for Config Connector (Optional)
 
 1. Download the config connector excel template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` from [here](./files/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX) or from the shared Box folder. 
 
 
-# 2. Create Organization Hierarchy using Config Connector for Scope 3 (Optional)
-
-Now, Let's create the Scope 3 grouping structure as we have defined in our organization hierarchy. 
-    <img src="images/Org-Hier-S3.png">
-
-## 2.1. Populate Template with Organization Hierarchy for Scope 3 Grouping structure (Optional)
+# 2. Populate Template with Organization Hierarchy for Scope 3 Grouping structure (Optional)
 
 <details><summary>CLICK ME</summary>
 
-You already familiar with the Config Connector as you have performed the lab exercise to create part of the Org hierarchy.
+Now, Let's create the Scope 3 grouping structure as we have defined in our organization hierarchy. 
 
-Let's Populate the template with the below organization hierarchy data.
+You already familiar with the Config Connector as you have performed the lab exercise to create part of the Org hierarchy.
 
 1. Take a copy of the template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` 
 2. Rename the file as  `Envizi_SetupConfig_xxxxx.xlsx`. Here xxxxx could be anything. You can replace it with your `Prefix-Id`.
@@ -52,8 +49,7 @@ To stay aligned with the subsequent labs, we recommend using the Prepopulated te
 
 </details>
 
-
-## 2.2 Preparing the Prepopulated Template
+# 3. Preparing the Prepopulated Template
 
 Let's download the Prepopulated Template file and do the required changes.
 
@@ -64,13 +60,13 @@ Let's download the Prepopulated Template file and do the required changes.
 
 The Prepopulated Template file is ready for upload now.
 
-## 2.3 Upload the template file into Envizi
+# 4. Upload the template file into Envizi
 
 Lets us upload the above updated template file into Envizi for to create Organization Hierarchy.
 
 1. Follow the steps given [here](../201-uploading-a-file) to upload the file into Envizi.
 
-## 2.4 View the Scope 3 Groups in Envizi
+# 5. View the Scope 3 Groups in Envizi
 
 Once verified that the files are uploaded and processed successfully without any errors, navigate to Envizi UI to view the newly created groups and locations for our Bank hierarchy
 <img src="images/Bank-Scope3.png">
