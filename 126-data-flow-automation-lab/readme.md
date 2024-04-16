@@ -30,15 +30,16 @@ You can take the sample file `\126-data-flow-automation-lab\POCAccountSetupandDa
 
 ### 1.3 Form the URL for S3
 
-1. Form the url based on the details.
+1. Form the url based on the below syntax.
 
    http://<bucket_name>.s3.amazonaws.com/<folder_name>/<file_name_with_extension>
-   
+
+   Replace the `bucket_name`, `folder_name` and `file_name_with_extension` in the above url.
+
    Example:
    http://envizi-client-dataservice-us-prod.s3.amazonaws.com/client_dedd4566f2f247/POCAccountSetupandDataLoad_INbank_Co_All.xlsx
 
-   You need to form the URL based on the excel file name that you have.
-
+    
 ### 1.4 Push the file using PostMan
 
 1. Open Postman tool
