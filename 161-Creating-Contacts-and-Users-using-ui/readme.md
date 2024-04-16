@@ -132,7 +132,7 @@ Create an user with the below details and assign the specialized role.
 
 - First Name : YourFirstName SRM Owner (ex: `Peter SRM Owner`)
 - Last Name : YourLastName
-- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_srmowner@ibmapac.com`)
+- User Name : YourFirstName_YourLastName_srmowner@ibmapac.com  (ex: `peter_john_srmowner@ibmapac.com`)
 - Access Role : General User
 - Specialized Role : SRM Role
 
@@ -140,7 +140,7 @@ Create an user with the below details and assign the specialized role.
 
 - First Name : YourFirstName Data Owner (ex: `Peter Data Owner`)
 - Last Name : YourLastName
-- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_dataowner@ibmapac.com`)
+- User Name : YourFirstName_YourLastName_dataowner@ibmapac.com  (ex: `peter_john_dataowner@ibmapac.com`)
 - Access Role : General User
 - Specialized Role : SRM Role
 
@@ -148,7 +148,7 @@ Create an user with the below details and assign the specialized role.
 
 - First Name : YourFirstName SRM Reviewer (ex: `Peter SRM Reviewer`)
 - Last Name : YourLastName
-- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_srmreviewer@ibmapac.com`)
+- User Name : YourFirstName_YourLastName_srmreviewer@ibmapac.com  (ex: `peter_john_srmreviewer@ibmapac.com`)
 - Access Role : General User
 - Specialized Role : SRM Role
 
@@ -156,7 +156,7 @@ Create an user with the below details and assign the specialized role.
 
 - First Name : YourFirstName SRM Approver (ex: `Peter SRM Approver`)
 - Last Name : YourLastName
-- User Name : YourFirstName_YourLastName_srm@ibmapac.com  (ex: `peter_john_srmapprover@ibmapac.com`)
+- User Name : YourFirstName_YourLastName_srmapprover@ibmapac.com  (ex: `peter_john_srmapprover@ibmapac.com`)
 - Access Role : General User
 - Specialized Role : SRM Role
 

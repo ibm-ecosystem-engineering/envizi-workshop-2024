@@ -60,7 +60,7 @@ To do this lab with various personas, we should have the following users created
     </table>
 
 
-## 1. Navigate to `SRM` with various roles
+## 1. Navigate to `SRM` with various roles (Optional)
 
 <details><summary>CLICK ME</summary>
 
