@@ -235,20 +235,20 @@
     </tr>
     <tr>
         <td>7</td>
-        <td>External System Integrations</td>
+        <td>Data flow Automation</td>
         <td>Session & Demo</td>
-        <td>Integrating Envizi with external Systems</td>
+        <td>Data flow automation in Envizi</td>
         <td>15 mins</td>
-        <td><a href="./151-Integrating-Envizi-with-external-Systems">Link</a></td>
+        <td><a href="./125-data-flow-automation-session">Link</a></td>
    </tr>
     <tr>
         <td>8</td>
-        <td>External System Integrations</td>
-        <td><strong>Session</strong></td>
-        <td>Envizi & Turbonomic Integration via Integration Hub</td>
+        <td>Data flow Automation</td>
+        <td><strong>Lab</strong></td>
+        <td>Data flow automation in Envizi</td>
         <td>30 mins</td>
-        <td><a href="./152-Envizi-and-Turbonomic-Integration-via-Integration-Hub">Link</a></td>
-    </tr>
+        <td><a href="./126-data-flow-automation-lab">Link</a></td>
+   </tr>   
     <tr>
         <td>9</td>
         <td>SRM</td>
@@ -264,7 +264,7 @@
         <td>Working on ESG disclosures as a Sustainability Reporting Manager (SRM)</td>
         <td>60 mins</td>
         <td><a href="./146-Working-on-ESG-disclosures-as-a-SRM">Link</a></td>
-   </tr>   
+   </tr>
     <tr>
         <td>11</td>
         <td></td>
@@ -348,20 +348,20 @@
    </tr>
     <tr>
         <td>9</td>
-        <td>Data flow Automation</td>
+        <td>External System Integrations</td>
         <td>Session & Demo</td>
-        <td>Data flow automation in Envizi</td>
+        <td>Integrating Envizi with external Systems</td>
         <td>15 mins</td>
-        <td><a href="./125-data-flow-automation-session">Link</a></td>
+        <td><a href="./151-Integrating-Envizi-with-external-Systems">Link</a></td>
    </tr>
     <tr>
         <td>10</td>
-        <td>Data flow Automation</td>
-        <td><strong>Lab</strong></td>
-        <td>Data flow automation in Envizi</td>
+        <td>External System Integrations</td>
+        <td><strong>Session</strong></td>
+        <td>Envizi & Turbonomic Integration via Integration Hub</td>
         <td>30 mins</td>
-        <td><a href="./126-data-flow-automation-lab">Link</a></td>
-   </tr>   
+        <td><a href="./152-Envizi-and-Turbonomic-Integration-via-Integration-Hub">Link</a></td>
+    </tr>
     <tr>
         <td>11</td>
         <td></td>
