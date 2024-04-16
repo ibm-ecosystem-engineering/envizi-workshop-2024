@@ -156,9 +156,10 @@ In the next section, lets populate this template with required columns and uploa
 
 Now, Let's populate the template with data for all the locations we created in the previous lab.
 
-1. The downloaded file name is  `Account_Setup_and_Data_Load_-_PM&C.xlsx`  
+1. The downloaded file name is  `Account_Setup_and_Data_Load_-_PM&C.csv`  
    
-2. Add any  suffix to the file name  `Account_Setup_and_Data_Load_-_PM&C_xxxxx.xlsx` , replace xxxx with any value  to easily identify. But it is better to suffix your `Prefix-Id`.
+2. Suffix the file name with your `Prefix-Id`. Ex: `Account_Setup_and_Data_Load_-_PM&C_xxxxx.csv`.
+
 
 3. Fill in the values for the below columns
    - **Account Style Link** : Enter the  account style link obtained for the data type in section #3.1.9 
