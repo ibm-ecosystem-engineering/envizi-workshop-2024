@@ -3,6 +3,8 @@
 
 In Our Bank example, we have identified 3 different Scope 3 Categories - `Business Travel, Employee Commute` and `Purchased Goods`.
 
+<img src="images/Org-Hier-S3.png">
+
 In this exercise, we will capture the data for locations
 - `IN Bank - Employe Air miles` :  Business Travel data
 - `IN Bank - Emp Commute` : Employee Commute data
