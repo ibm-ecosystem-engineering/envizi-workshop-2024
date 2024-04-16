@@ -24,9 +24,9 @@ Envizi provides two different templates to load data using Universal Account Con
 As we only have the quantity and cost fileds to capture for our 2 different Scope 3 datatypes, we will leverage template - `Universal Account Setup and Data Load PM&C`in this lab exercise.
 
 
-## 1 Extract the Account Styles 
+## 1 Understanding Account Styles Extract
 
- <details><summary>CLICK ME</summary>
+<details><summary>CLICK ME</summary>
 
 To load the data into Envizi, the first step is identify the appropriate account style relevant to the data which we are loading into the system.   
 
