@@ -121,7 +121,7 @@ The following exercise calls out a a scenario where the account style assigned b
 
 ### 3.1 Upload file for AI Assist Processing
 
-1. Take copy of the  sample file `Account-Setup-and-Data-Load-AI-Assist-set2.xlsx` from [here](./files/Account-Setup-and-Data-Load-AI-Assist-set2.xlsx) or from the shared Box folder.
+1. Take copy of the  sample file from the shared Box folder `124-Loading-Scope-3-Category1-data-using-AI-Assist\files\data\Account-Setup-and-Data-Load-AI-Assist-set2.xlsx`.
 
 2. Update the fields Organization and prefix of location as created in your hierarchy in the file.  The file content looks like
 
