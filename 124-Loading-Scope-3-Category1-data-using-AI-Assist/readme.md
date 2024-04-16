@@ -42,8 +42,8 @@ We have already created the  Groups and locations for the same in the previous l
 
 1. Make a copy of the template file 
 
-2. Prepare the template file by filling relevant columns or take the sample file
-`Account-Setup-and-Data-Load-AI-Assist-set1.xlsx` available [here](./files/Account-Setup-and-Data-Load-AI-Assist-set1.xlsx) or in the shared Box folder.
+2. Prepare the template file by filling relevant columns or take the sample file from the shared Box folder
+`\124-Loading-Scope-3-Category1-data-using-AI-Assist\files\Account-Setup-and-Data-Load-AI-Assist-set1.xlsx` .
 
 3. Verify the values of the mandatory fields
    - Organization 
