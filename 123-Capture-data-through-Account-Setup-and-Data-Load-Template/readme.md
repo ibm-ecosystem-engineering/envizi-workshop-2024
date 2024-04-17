@@ -70,7 +70,7 @@ Now, the user can capture the missing data alongside updating the existing recor
 
 1. Open the above downloaded file `Account_Setup_and_Data_Load.csv`
 
-<img src="images/Extracted-Account-data.png">
+<img src="images/envizi-update-data.png">
 
 2. Keep only the account rows which you want to update and remove rest all the rows from the sheet.
    
