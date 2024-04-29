@@ -2,9 +2,9 @@
 
 In this lab exercise we will create Industry Specific organization hierarchy in an excel file to understand how normally the organization hierarchy looks for the different Industry.
 
-## 1. Download the Template
+## 1. Get the Template
 
-1. Download the sample Organization Hierarchy `Org-Hierarchy-IN-Bank.xlsx` from [here](./files/Org-Hierarchy-IN-Bank.xlsx) or from the shared Box folder.
+1. Get the sample Organization Hierarchy `51-Org-Hierarchy-IN-Bank.xlsx` from shared box folder.
 
 ## 2. Understand the template
 

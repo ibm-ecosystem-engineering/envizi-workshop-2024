@@ -6,7 +6,7 @@ In this lab exercise you will explore about the How to create a new custom Power
 
 #### Pre-Requisite
 
-1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `MU11`, `MU12`.
+1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `BLR01`, `BLR02`.
 
 ## 1 PowerReport Edit Permission
 

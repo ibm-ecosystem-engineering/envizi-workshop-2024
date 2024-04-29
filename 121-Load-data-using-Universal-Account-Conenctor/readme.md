@@ -7,7 +7,7 @@ Refer to the organization hierarchy defined in our previous labs. As part of def
 
 #### Pre-Requisite
 
-1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `MU11`, `MU12`.
+1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `BLR01`, `MU12`.
 2. Get the `Organization` name from Instructor.
 
 #### About Universal Data Connector
@@ -24,9 +24,9 @@ Here are the key steps in this process:
 - Update the template and prepare with data to load
 - Upload the template file into Envizi to load data into  Envizi Accounts
 
-## 1. Download the Template
+## 1. Get the Template
 
-1. Download the `Universal Data Connector` (UDC) template `Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx` from [here](./files/Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx) or from the shared Box folder .
+1. Get the `Universal Data Connector` (UDC) template `53-Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx` from the shared Box folder.
 
 
 ## 2. Understand the template (Optional)
@@ -133,9 +133,9 @@ In our bank example, the bank is `purchasing electricity` for their own operatio
 
 Now, Let's populate the template with data for all the locations we created in the previous lab.
 
-1. Take a copy of the template `Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx` 
-2. Rename the file in the format `POCAccountSetupandDataLoad_xxxxx.xlsx`. Here xxxxx could be anything. You can replace it with your `Prefix-Id`.
-3. Following the organization hierarchy above, go to to the `Records to load` sheet and add records. Fill in values for the columns listed here.
+1. Take a copy of the template `53-Envizi-L4-POX-POC-account-setup-and-data-load-template_17_11_23.xlsx` 
+2. Rename the file in the format `POCAccountSetupandDataLoad_xxxxx.xlsx`. Here xxxxx should be your `Prefix-Id`.
+3. Following the organization hierarchy above, go to the `Records to load` sheet and add records and fill in values for the columns listed here.
    - **Organization** : Enter the `Organization` name obtained as a prerequisite.
    - **Location** : Refer Lab1 organization hierarchy template loaded
    - **Account Style Caption** :  Enter Account style caption as we know how to retrieve account style.
@@ -158,15 +158,13 @@ To stay aligned with the subsequent labs, we recommend using the Prepopulated te
 
 <details><summary>CLICK ME</summary>
 
-Lets download the Prepopulated Template files and do the required changes.
+Lets get the Prepopulated Template files and do the required changes.
 
-1. Download the Prepopulated Template data files 
-`POCAccountSetupandDataLoad_INbank_Co_All.xlsx` and `POCAccountSetupandDataLoad_INbank_Branches_All.xlsx` from [here](./files/POCAccountSetupandDataLoad_INbank_Co_All.xlsx) and [here](./files/POCAccountSetupandDataLoad_INbank_Branches_All.xlsx) or from the shared Box folder.
-
-2. Rename the files in the format `POCAccountSetupandDataLoad_xxxxx.xlsx` , here xxxxx could be anything just uniquely identify your file. You can replace it with your `Prefix-Id`.
+1. Get the Prepopulated Template data files 
+`02-POCAccountSetupandDataLoad_INbank_Co_All-IBM50.xlsx` and `03-POCAccountSetupandDataLoad_INbank_Branches_All-IBM50.xlsx` from the shared Box folder.
+2. The file name format should be `POCAccountSetupandDataLoad_xxxxx.xlsx`. Remove `02-` and `03-`  from the files name and replace `IBM50` with your `Prefix-Id`. 
 3. Replace the `ORGANIZATION` column values with name of Organization configured in your Envizi instance
-4. To prevent naming conflicts, replace the prefix `IN Bank` with your `Prefix-Id` in the `Location`, and `Account Number` columns. For example, transform `IN Bank - Mumbai Co-Diesel` to `A12-IN Bank - Mumbai Co-Diesel`.
-
+4. To prevent naming conflicts, replace `IBM50` with your `Prefix-Id` in the `Location`, and `Account Number` columns. For example, transform `IBM50-IN Bank - Mumbai Co-Diesel` to `BLR12-IN Bank - Mumbai Co-Diesel`, assuming your `Prefix-Id` is `BLR12`.
 
 The Prepopulated Template files are ready for upload now.
 

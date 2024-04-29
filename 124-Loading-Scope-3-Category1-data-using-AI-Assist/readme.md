@@ -40,10 +40,9 @@ We have already created the  Groups and locations for the same in the previous l
 
 ### 2.1 Upload file for AI Assist Processing
 
-1. Make a copy of the template file 
+1. Make a copy of the downloaded template file `Account Setup and Data Load - AI Assist.xlsx` 
 
-2. Prepare the template file by filling relevant columns or take the sample file from the shared Box folder
-`\124-Loading-Scope-3-Category1-data-using-AI-Assist\files\Account-Setup-and-Data-Load-AI-Assist-set1.xlsx` .
+2. In the above template file fill the relevant columns values or take the sample file `07-Account Setup and Data Load - AI Assist-set1-IBM50.xlsx` from the shared Box folder.
 
 3. Verify the values of the mandatory fields
    - Organization 
@@ -121,25 +120,30 @@ The following exercise calls out a a scenario where the account style assigned b
 
 ### 3.1 Upload file for AI Assist Processing
 
-1. Take copy of the  sample file from the shared Box folder `\124-Loading-Scope-3-Category1-data-using-AI-Assist\files\data\Account-Setup-and-Data-Load-AI-Assist-set2.xlsx`.
+1. Take copy of the sample file `08-Account Setup and Data Load - AI Assist-set2-IBM50.xlsx` from the shared Box folder.
 
-2. Update the fields Organization and prefix of location as created in your hierarchy in the file.  The file content looks like
+2. The file name format should be `Account Setup and Data Load - AI Assist_xxxxx.xlsx`. So, remove `08-` from the file name and replace `IBM50` with your `Prefix-Id`. 
 
+3. Replace the `ORGANIZATION` column values with Organization name you obtained as a prerequisite.
+
+4. To prevent naming conflicts, replace `IBM50` with your `Prefix-Id` for the `LOCATION` column.
+
+The content may look like this.
 <img src="images/Scope3-cat1-set2-file.png"> 
 
-3. Navigate to Envizi UI and click on  `Manage` ->  `AI Assist File Processing`
+5. Navigate to Envizi UI and click on  `Manage` ->  `AI Assist File Processing`
 
-4. Click on `Upload For AI Processing` 
+6. Click on `Upload For AI Processing` 
 
-5. Select the file updated in step-2 and `Save`
+7. Select the file updated in step-2 and `Save`
 
 ### 3.2 Download AI Assisted processed File
 
-6. Once the file status changed to `Complete`, click on `Actions` -> `Download Processed File`
+8. Once the file status changed to `Complete`, click on `Actions` -> `Download Processed File`
 
 <img src="images/AI-assist-file-set2-uploaded-for-ai.png">
 
-7. Open the `downloaded` file which is processed by AI Assit
+9. Open the `downloaded` file which is processed by AI Assit
 
 <img src="images/AI-assist-Processed-file-set2-contents.png">
 
@@ -149,35 +153,35 @@ The following exercise calls out a a scenario where the account style assigned b
 
 ### 3.3 Observe and Update the account style
 
-8. Observe that the `Account style caption` column against each spend data.  Apart from Records/ Row 1, for the rest it is mapped correctly
+10. Observe that the `Account style caption` column against each spend data.  Apart from Records/ Row 1, for the rest it is mapped correctly
 
 For Row 1, the spend data is related to computers and laptops purchased, however AI Assist mapped to it as `S3.1 - Other real estate, general - USD or local` , which is incorrect. 
 
-9. Update the `Account style caption` for the Row 1 to `S3.1 - Computer and electronic products - USD or local`
+11. Update the `Account style caption` for the Row 1 to `S3.1 - Computer and electronic products - USD or local`
 You can click on `Account style caption`  drop-down to chose  the correct one or can refer to sheet `Supported account styles`
 
 <img src="images/AI-assist-Processed-file-set2-contents-updated-by-user.png">
 
 ### 3.4 Upload the file for data loading
 
-10. As we have modified the file after AI Assist processing, we can't directly submit the file for data loading as we did in the previous exercise. Here, we need to manual provide the file to upload. 
+12. As we have modified the file after AI Assist processing, we can't directly submit the file for data loading as we did in the previous exercise. Here, we need to manual provide the file to upload. 
 
 `Manage` -> `AI Assist File Processing` -> Select the file -> click on `UPLOAD DIRECTLY TO DATA LOADING`
 <img src="images/AI-assist-Processed-file-set2-load-manual.png">
 
 ### 3.5 Verify file upload status
 
-11. Check the status of the file from AI Assist page. Observe the filed status  - `AI Processing Status` - `Not Applicable` . This is because, the file we have uploaded is already having the `Account style caption` filled. AI Assist only process the rows if the `Account style caption` is blank and the `NLP reference 1` column is filled. 
+13. Check the status of the file from AI Assist page. Observe the filed status  - `AI Processing Status` - `Not Applicable` . This is because, the file we have uploaded is already having the `Account style caption` filled. AI Assist only process the rows if the `Account style caption` is blank and the `NLP reference 1` column is filled. 
 <img src="images/AI-assist-Processed-file-set2-load-status.png">
 
-12.  Click on `GO TO FILES PROCESSED` , which shows the file status and the number of accounts created. 
+14.  Click on `GO TO FILES PROCESSED` , which shows the file status and the number of accounts created. 
 <img src="images/AI-assist-Processed-file-set2-load-processed.png">
 
 Observe the values of the fields `File Status` , `Records In`, `Records Out` and `Delivered By`
 
 ### 3.6 Verify Account Summary
 
-13. For the locations specificed in the data loading file, verify that  the accounts are created and the records are loaded by navigating through the `Organization Hierarchy` or going to the `Manage`-> `Location` -> `Accounts` -> view each account details .
+15. For the locations specificed in the data loading file, verify that  the accounts are created and the records are loaded by navigating through the `Organization Hierarchy` or going to the `Manage`-> `Location` -> `Accounts` -> view each account details .
 
 This concludes the exercise. Happy Learning !
 </details>

@@ -13,7 +13,7 @@ It allow users to specify a range of selection criteria to view the data in scre
 Extracting reports provides the following options.
 - Choose from various delivery methods (screen, email)
 - Choose Groups, locations, Regions, Utilities, report time period/end date
-- Choosing `Create Report and E-mail it now` in CSV, PDF, XLSX format
+- Choosing `Create Report and E-mail it now` in CSV, PDF, xlsx format
 - Choosing `Schedule Report and E-mail it later` also adds the Daily, Weekly, ...etc. schedule.
 
 Click Submit to run the report based on the selected parameters.

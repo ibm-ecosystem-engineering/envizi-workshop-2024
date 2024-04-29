@@ -156,12 +156,12 @@ In the next section, lets populate this template with required columns and uploa
 
 Now, Let's populate the template with data for all the locations we created in the previous lab.
 
-1. The downloaded file name is  `Account_Setup_and_Data_Load_-_PM&C.csv`  
+1. The downloaded file name should be `Account_Setup_and_Data_Load_-_PM&C.csv`  
    
-2. Suffix the file name with your `Prefix-Id`. Ex: `Account_Setup_and_Data_Load_-_PM&C_xxxxx.csv`.
+2. Suffix the file name with your `Prefix-Id`. Ex: `Account_Setup_and_Data_Load_-_PM&C_BLR12.csv`, assuming your `Prefix-Id` is `BLR12`.
 
+3. Fill in the values for the below columns for `Business Travel` and `Employee commute`. Also you can use the sample file `05-Account_Setup_and_Data_Load_-_PM&C-IBM50.xlsx` from the shared Box folder for the data.
 
-3. Fill in the values for the below columns
    - **Account Style Link** : Enter the  account style link obtained for the data type in section #3.1.9 
    - **Account Style Caption** :  Enter Account style caption obtained for the data type in section #3.1.9 
    - **Account Number** : Provide unique account name. Account is where the activity data is recorded. 
@@ -170,13 +170,14 @@ Now, Let's populate the template with data for all the locations we created in t
    - **Quantity** - Quantity of activity data. 
    - **Total cost (incl. Tax) in local currency** - Amount spend for the activity.
 
-4. The file looks like below.
+
+4. Make sure that you replace `IBM50` with your `Prefix-Id` in the `Location`, and `Account Number` columns.
+
+5. Ensure that the `YYYY-MM-DD` format is followed for the date columns.
+
+6. Now the content of the file may look like below.
 
 <img src="images/Data-PMC-template-populated2.png">
-
-5. You can refer the sample file `Account_Setup_and_Data_Load_-_PM&C-Temp.xlsx` from [here](./files/Account_Setup_and_Data_Load_-_PM&C-Temp.xlsx) or from the shared Box folder to pick the values to pouplate into this file.
-
-Make sure that you prefix the columns `Location` and `Account Number` with your Prefix-Id.
 
 </details>
 

@@ -4,7 +4,7 @@ In this lab exercise we will create a organization hierarchy in Envizi for a giv
 
 #### Pre-Requisite
 
-1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `MU11`, `MU12`.
+1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `BLR01`, `BLR02`.
 2. Get the `Organization` name from Instructor.
 
 #### About Config Connector
@@ -24,11 +24,11 @@ Here are the key steps in this process:
 2. Update the template according to the provided organizational hierarchy.
 3. Upload the template file into Envizi to create the hierarchy in Envizi.
 
-## 1. Download the Template
+## 1. Get the Template
 
-1. Download the config connector excel template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` from [here](./files/Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX) or from the shared Box folder. 
+1. Get the config connector excel template `52-Envizi-L4-POX-Setup-config-template-and-examples-modified.xlsx` from the shared Box folder. 
 
-**Note:** This template is the modified version of the template  [Envizi L4 POX - Setup config template + examples.XLSX](https://ibm.seismic.com/Link/Content/DCT9JP7FQMfq2GTGFQGRfc4cbpJB) available in `Seismic`.
+**Note:** This template is the modified version of the template  [Envizi L4 POX - Setup config template + examples.xlsx](https://ibm.seismic.com/Link/Content/DCT9JP7FQMfq2GTGFQGRfc4cbpJB) available in `Seismic`.
 
 ## 2. Understand the template
 
@@ -44,13 +44,13 @@ The content of the template looks like the following.
 - Example Update Locations : To understand about Update Locations
 - Example Update Group Membership : To understand about Group Membership using Group Hierarchy Name
 
-## 3. Populate Template with Organization Hierarchy Data
+## 3. Populate Template with Organization Hierarchy Data (Optional)
 
 Now, Lets Populate the template with the below organization hierarchy data.
     <img src="images/Org-hierarcy-scope1-2.png">
 
-1. Take a copy of the template `Envizi-L4-POX-Setup-config-template-and-examples-modified.XLSX` 
-2. Rename the file in the format `Envizi_SetupConfig_xxxxx.xlsx`. Here xxxxx could be anything. You can replace it with your `Prefix-Id`.
+1. Take a copy of the template `52-Envizi-L4-POX-Setup-config-template-and-examples-modified.xlsx` from the shared Box folder. 
+2. The file name format should be `Envizi_SetupConfig_xxxxx.xlsx`. Replace `xxxxx` with your `Prefix-Id`. 
 3. Following the organization hierarchy above, go to to the `Setup` sheet and add records. Fill in values for the columns listed here.
    - **Organization** : Enter the `Organization` name obtained as a prerequisite.
    - **Group Type** : Enter the value `classification`
@@ -72,12 +72,12 @@ To stay aligned with the subsequent labs, we recommend using the Prepopulated te
 
 ## 4 Preparing the Prepopulated Template
 
-Lets download the Prepopulated Template file and do the required changes.
+Lets get the Prepopulated Template file and do the required changes.
 
-1. Download the Prepopulated Template data file `Envizi_SetupConfig_1_INBank.xlsx` from [here](./files/Org-Hierarchy-IN-Bank.xlsx) or from the shared Box folder. 
-2. The file name format should be `Envizi_SetupConfig_xxxxx.xlsx`. Replace xxxx with your preferred text. But it is better to use your `Prefix-Id`.
+1. Get the Prepopulated Template data file `01-Envizi_SetupConfig_1_INBank-IBM50.xlsx` from the shared Box folder. 
+2. The file name format should be `Envizi_SetupConfig_xxxxx.xlsx`. In the file name, remove `01-` and replace `IBM50` with your `Prefix-Id`. 
 3. Replace the `ORGANIZATION` column values with Organization name you obtained as a prerequisite.
-4. To prevent naming conflicts, add prefix `Prefix-Id` for `GROUP NAME 1`, `GROUP NAME 2`,	`GROUP NAME 3` and `LOCATION` columns. For example, transform `IN Bank - Data Centers` to `A12-IN Bank - Data Centers`.
+4. To prevent naming conflicts, replace `IBM50` with your `Prefix-Id` for `GROUP NAME 1`, `GROUP NAME 2`,	`GROUP NAME 3` and `LOCATION` columns. For example, transform `IBM50-IN Bank - Data Centers` to `BLR12-IN Bank - Data Centers` , assuming your `Prefix-Id` is `BLR12`.
 
 The Prepopulated Template file is ready for upload now.
 

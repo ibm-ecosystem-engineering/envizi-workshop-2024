@@ -21,7 +21,7 @@ We can use the Org Hierarchy that you created in the previous lab [ Create Indus
 
 #### Pre-Requisite
 
-1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `MU11`, `MU12` ...
+1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `BLR01`, `BLR02` ...
 
 
 | S.No  | Topic             | Link                                               |

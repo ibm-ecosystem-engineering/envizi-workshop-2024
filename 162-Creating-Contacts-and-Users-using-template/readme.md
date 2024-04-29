@@ -4,7 +4,7 @@ In this lab exercise we will create Contacts and Logins in Envizi for a given or
 
 #### Pre-Requisite
 
-1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `MU11`, `MU12`.
+1. Get your `Prefix-Id` from your Instructor. This id to be prefixed in all your data to avoid duplicate records. Your `Prefix-Id` could be in the format `BLR01`, `BLR02`.
 2. Get the `Organization` name from Instructor.
 
 #### Key steps
@@ -14,10 +14,9 @@ Here are the key steps in this process:
 2. Update the template according to the contacts and logins needed.
 3. Upload the template file into Envizi to create Contacts and Logins.
 
-## 1. Download the Template
+## 1. Get the Template
 
-1. Download the excel template `ContactCreate-and-Update_v1.xlsx` from [here](./files/ContactCreate-and-Update_v1.xlsx) or from the shared Box folder.
-
+1. Get the excel template `54-ContactCreate-and-Update_v1.xlsx` from the shared Box folder.
 
 ## 2. Understand the template
 
@@ -33,9 +32,9 @@ To stay aligned with the labs, we recommend using the Prepopulated template file
 
 We are going to use the Prepopulated Template to feed in the contacts and login. Let's download, understand and do the required changes in the Prepopulated Template.
 
-### 3.1 Download the Prepopulated Template
+### 3.1 Get the Prepopulated Template
 
-1. Download the Prepopulated Template data file `Envizi_SetupContacts_G11.xlsx` from [here](./files/Envizi_SetupContacts_G11.xlsx) or from the shared Box folder.
+1. Get the Prepopulated Template data file `09-Envizi_SetupContacts_IBM50.xlsx` from the shared Box folder.
 
 ### 3.2 Understand the Prepopulated Template
 
@@ -50,9 +49,9 @@ The template file would be like this. Let's understand this.
 
 ### 3.3 Prepare the Prepopulated Template
 
-1. The template file name format should be `Envizi_SetupContacts_xxxxx.xlsx`. Replace xxxx with your preferred text. But it is better to use your `Prefix-Id`.
-2. Replace the `Associate` column values with Organization name you obtained as a prerequisite.
-3. To prevent naming conflicts, replace the prefix `G11` with your `Prefix-Id` in the `First Name`, `Last Name` and `User Name` columns. For example, transform `G11 Jacob` to `A12 Jacob`.
+1. The template file name format should be `Envizi_SetupContacts_xxxxx.xlsx`. So, remove `09-` from the file name and replace `IBM50` with your `Prefix-Id`. 
+2. Replace the `Associate` column values with `Organization` name you obtained as a prerequisite.
+3. To prevent naming conflicts, replace `IBM50` with your `Prefix-Id` in the `First Name`, `Last Name` and `User Name` columns.
 4. Replace the `EMail` column values with your email id. Same email can be given for several users.
 
 The Prepopulated Template file is ready for upload now.
