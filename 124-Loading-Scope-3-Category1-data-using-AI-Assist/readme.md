@@ -36,78 +36,114 @@ We have already created the  Groups and locations for the same in the previous l
 </details>
 
 ## 2. Scenario 1: Automatically submit the file processed by AI Assist directly 
+
 <details><summary>CLICK ME</summary>
 
-### 2.1 Upload file for AI Assist Processing
+### 2.1. Populate Template with Data (Optional)
 
 1. Make a copy of the downloaded template file `Account Setup and Data Load - AI Assist.xlsx` 
 
-2. In the above template file fill the relevant columns values or take the sample file `07-Account Setup and Data Load - AI Assist-set1-IBM50.xlsx` from the shared Box folder.
+2. Rename the file in the format `Account Setup and Data Load - AI Assist_xxxxx.xlsx`. Here xxxxx could `-set1-` followed by your `Prefix-Id`. Ex: `Account Setup and Data Load - AI Assist-set1-IBM50.xlsx`
 
-3. Verify the values of the mandatory fields
+3. In above template file, fill the below columns values as per your need.
    - Organization 
    - Location
+   - Account Supplier
    - Record Start YYYY-MM-DD
    - Record End YYYY-MM-DD
    - Spend in USD
    - NLP Reference 1
+
+### 2.2 Preparing the Prepopulated Template
+
+1. Take the sample file `07-Account Setup and Data Load - AI Assist-set1-IBM50.xlsx` from the shared Box folder.
 <img src="images/Scope3-cat1-set1-file.png">
 
-4. Navigate to Envizi UI and click on  `Manage` ->  `AI AssistFile Processing`
+2. The file name format should be `Account Setup and Data Load - AI Assist-xxxxx.xlsx`. Remove `07-` from the file name and replace `IBM50` with your `Prefix-Id`. 
+
+3. Replace the `ORGANIZATION` column values with Organization name you obtained as a prerequisite.
+
+4. To prevent naming conflicts, replace `IBM50` with your `Prefix-Id` for the `LOCATION` column.
+
+
+### 2.3 Upload file for AI Assist Processing
+
+1. Click on  `Manage` ->  `AI AssistFile Processing` to open the file upload screen for AI Assist.
 <img src="images/AI-assist-file-process-menu.png">
 
-5. Click on `Upload For AI Processing`
+2. Click on `Upload For AI Processing`
 <img src="images/AI-assist-Upload-for-AI-process.png">
 
-6. Select the file with Scope 3 spend based data and `Save`
+3. Select the template file that we created in the above step 
+
+4. Click on `Save`
 <img src="images/AI-Assist-select-file-for-process.png">
 
-### 2.2 Download AI Assist processed file
 
-7. Once the file status changed to `Complete`, click on `Actions` -> `Download Processed File`
+### 2.4 Download AI Assist processed file
+
+1. Wait for the Al Processing Status column to change to `Completed`
+
+2. Click on `Actions` -> `Download Processed File` to download the AI processed file.
+
 <img src="images/AI-assist-Download-file-action.png">
 
-### 2.3 Observe and Update the account style
 
-8. Open the file 
+### 2.5 Observe and Update the account style
+
+1. Open the file downloaded file
 <img src="images/AI-assist-Processed-file-set1-download.png">
 
-9. Verify the value of the column `Account Style Caption` updated by AI Assit
+2. Verify the value of the column `Account Style Caption` updated by AI Assit
 
 <img src="images/AI-assist-Processed-file-set1-contents.png">    
 
-Observe that the `Account style caption` is mapped correctly for the Cat 1 purchased goods activity data type based on the Natural language description provided in the NLP reference column. 
+Observe that the `Account style caption` is mapped correctly for the `Category 1 purchased goods` activity data type based on the text provided in the `NLP Reference 1` column.
 
-### 2.4 Upload the file Data loading
+### 2.6 Upload the file Data loading
 
-10. As we are satisfied with the account style mapped by AI Assist, we will proceed to load the data by uploading this file directly from AI Assist page.
+As we are satisfied with the account style mapped by AI Assist, we can proceed to load the data by submitting this file directly from AI Assist page.
 
-Submit the file for data loading.  `Manage` -> `AI Assist File Processing` -> Select the file -> click on `ACTIONS` -> `Submit for Data Loading`
+1. In the `AI Assist File Processing` page ensure that the uploaded record is checked/selected.
+
+2. Click on `ACTIONS` -> `Submit for Data Loading`
 
 <img src="images/AI-assist-Processed-file-set1-load.png">      
 
-### 2.5 Verify file upload status
+The AI assist would take up the AI processed file from the server create the required `Account` and `Data`.
 
-11. Check the status of the field `Data Loading Status` and wait till it shows `Submitted` and Click on `GO TO FILES PROCESSED`
+### 2.7 Verify file upload status
+
+1. Check the status of the field `Data Loading Status` and wait till it shows `Submitted` 
+
+2. Then click on `GO TO FILES PROCESSED`
 
 <img src="images/AI-assist-Processed-file-set1-load-submitted.png">      
 
-12.   Verify `File Status`  as `Loaded` and no errors. 
+3. Verify `File Status` column as `Loaded` and no errors. 
 
-<img src="images/AI-assist-Processed-file-set1-load-processed.png">    
+4. Check `Records In` and `Records Out` column values. It should have the total number of records available in the uploaded excel file.
 
-### 2.6 Verify Account
+<img src="images/AI-assist-Processed-file-set1-load-processed.png">
 
-13.  Verify the Accounts created and data loaded. Navigate to `Organization Hierarchy` -> pick `locationt` and view the `Accounts` 
+### 2.8 Verify Account
+
+Lets verify the Accounts created and data loaded. 
+
+1. Navigate to `Organization Hierarchy` and goto the `Location` mentioned in the uploaded excel file.
 
 <img src="images/AI-assist-Cat1-HP-Account-created.png">  
 
-14.  Click on the `Account` to view Account Summary page and look at `Account style` and `Records` loaded
+- You can see the accounts get created. 
+- The account name could be of the format `Location_AccountStyle_AccountSupplier` and it would take 100 characters maximum.
+
+2.  Click on the `Account` to view Account Summary page 
+
+3. Look at `Account style` and `Records` loaded
 
 <img src="images/AI-assist-Cat1-HP-Account-Summary.png">      
 
-
-This concludes the Scenario 1 lab using the AI assist feature for deriving the relevant Account style for the spend based data of Scope 3 Category1. 
+This concludes the Scenario 1 lab using the AI assist feature for deriving the relevant Account style for the spend based data of Scope 3 Category 1. 
 
 </details>
 
