@@ -183,18 +183,13 @@ The content may look like this.
 
 ### 3.2 Download AI Assisted processed File
 
-8. Once the file status changed to `Complete`, click on `Actions` -> `Download Processed File`
+8. Wait for the `Al Processing Status` column to change to `Completed`
 
-<img src="images/AI-assist-Processed-file-set1-load-submitted-set2.png">
-
-
-9. Wait for the `Al Processing Status` column to change to `Completed`
-
-10. Click on `Actions` -> `Download Processed File` to download the AI processed file.
+9. Click on `Actions` -> `Download Processed File` to download the AI processed file.
 
 <img src="images/AI-assist-Download-file-action-set2.png">
 
-11. Open the `downloaded` file which is processed by AI Assit
+10. Open the `downloaded` file which is processed by AI Assit
 
 <img src="images/AI-assist-Processed-file-set2-contents.png">
 
@@ -204,35 +199,35 @@ The content may look like this.
 
 ### 3.3 Observe and Update the account style
 
-12. Observe that the `Account style caption` column against each spend data.  Apart from Records/ Row 1, for the rest it is mapped correctly
+11. Observe that the `Account style caption` column against each spend data.  Apart from Records/ Row 1, for the rest it is mapped correctly
 
 For Row 1, the spend data is related to computers and laptops purchased, however AI Assist mapped to it as `S3.1 - Other real estate, general - USD or local` , which is incorrect. 
 
-13. Update the `Account style caption` for the Row 1 to `S3.1 - Computer and electronic products - USD or local`
+12. Update the `Account style caption` for the Row 1 to `S3.1 - Computer and electronic products - USD or local`
 You can click on `Account style caption`  drop-down to chose  the correct one or can refer to sheet `Supported account styles`
 
 <img src="images/AI-assist-Processed-file-set2-contents-updated-by-user.png">
 
 ### 3.4 Upload the file for data loading
 
-14. As we have modified the file after AI Assist processing, we can't directly submit the file for data loading as we did in the previous exercise. Here, we need to manual provide the file to upload. 
+13. As we have modified the file after AI Assist processing, we can't directly submit the file for data loading as we did in the previous exercise. Here, we need to manual provide the file to upload. 
 
 `Manage` -> `AI Assist File Processing` -> Select the file -> click on `UPLOAD DIRECTLY TO DATA LOADING`
 <img src="images/AI-assist-Processed-file-set2-load-manual.png">
 
 ### 3.5 Verify file upload status
 
-15. Check the status of the file from AI Assist page. Observe the filed status  - `AI Processing Status` - `Not Applicable` . This is because, the file we have uploaded is already having the `Account style caption` filled. AI Assist only process the rows if the `Account style caption` is blank and the `NLP reference 1` column is filled. 
+14. Check the status of the file from AI Assist page. Observe the filed status  - `AI Processing Status` - `Not Applicable` . This is because, the file we have uploaded is already having the `Account style caption` filled. AI Assist only process the rows if the `Account style caption` is blank and the `NLP reference 1` column is filled. 
 <img src="images/AI-assist-Processed-file-set2-load-status.png">
 
-16.  Click on `GO TO FILES PROCESSED` , which shows the file status and the number of accounts created. 
+15.  Click on `GO TO FILES PROCESSED` , which shows the file status and the number of accounts created. 
 <img src="images/AI-assist-Processed-file-set2-load-processed.png">
 
 Observe the values of the fields `File Status` , `Records In`, `Records Out` and `Delivered By`
 
 ### 3.6 Verify Account Summary
 
-17. For the locations specificed in the data loading file, verify that  the accounts are created and the records are loaded by navigating through the `Organization Hierarchy` or going to the `Manage`-> `Location` -> `Accounts` -> view each account details .
+16. For the locations specificed in the data loading file, verify that  the accounts are created and the records are loaded by navigating through the `Organization Hierarchy` or going to the `Manage`-> `Location` -> `Accounts` -> view each account details .
 
 This concludes the exercise. Happy Learning !
 </details>
