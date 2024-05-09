@@ -33,17 +33,17 @@ Now, lets go ahead create custom factor to be applied in the next section.
 
 **Note:**
 
-This excercise can't be done by more than one person as it would through the below error saying duplicate entry. 
+This excercise can't be done by more than one person as it would throw the below error saying duplicate entry. 
 ```
 This creates a conflict with 1 or more existing factors in the database. Please check that the effective and published dates do not overlap with any factors that share the same data type, sub type, factor set and region.
 ```
 
 This is because the combinations of `DataType/SubType/FactorSet/Region/effective-dates/published-dates` should be unique.
 
-Practically we can't create the unique combinations for the lab. So section `2.1` and `2.2` for to see and not to do.
+Practically we can't create the unique combinations for each and everyone in the the lab and we have use the already created one only. So section `2.1` and `2.2` are just to see and not to do.
 
 
-## 2.1 Create new custom factor using UI (To see only not to do)
+## 2.1 Create new custom factor using UI (to see only not to do)
 
 ### For Data type: Gasoline Stationary [gal]  Region : `Mumbai, India`
 
@@ -77,7 +77,7 @@ The fields `Effective from` and `Effective To` play an important role in factor 
 <img src="images/IN-Bank-MumbaiCo-gas-CF-Create-3.png">
 
 
-## 2.2 Create new custom factor using UI based on existing Factor  (To see only not to do)
+## 2.2 Create new custom factor using UI based on existing Factor  (to see only not to do)
 
 ### For Data type: Gasoline Stationary [gal]  Region : `London, United Kingdom`
 
