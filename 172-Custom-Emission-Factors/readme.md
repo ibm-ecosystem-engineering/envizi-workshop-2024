@@ -20,7 +20,7 @@ Lets work through these examples, and create the custom factos to apply on the s
 
 ## 1. View the existing emission factors applied for the data
 
-1. Navigate to `Manage` > `Accounts` > `IN Bank - Mumbai Co-Gas`.
+1. Navigate to `Manage` > `Accounts` > `IN Bank - Mumbai Co-Gas`  (prefix your prefix-id).
 2. Click on `Review` > `Monthly Data`
 3. View montly data and observe there are no data under column `Emissions` .
 4. Click on `Preview` and observe that there are no details under `Factor Details` because there us no matching emission factor found in Envizi managed library. 
@@ -31,7 +31,19 @@ Now, lets go ahead create custom factor to be applied in the next section.
 
 ## 2. Create Custom Factor
 
-## 2.1 Create new custom factor using UI 
+**Note:**
+
+This excercise can't be done by more than one person as it would through the below error saying duplicate entry. 
+```
+This creates a conflict with 1 or more existing factors in the database. Please check that the effective and published dates do not overlap with any factors that share the same data type, sub type, factor set and region.
+```
+
+This is because the combinations of `DataType/SubType/FactorSet/Region/effective-dates/published-dates` should be unique.
+
+Practically we can't create the unique combinations for the lab. So section `2.1` and `2.2` for to see and not to do.
+
+
+## 2.1 Create new custom factor using UI (To see only not to do)
 
 ### For Data type: Gasoline Stationary [gal]  Region : `Mumbai, India`
 
@@ -65,7 +77,7 @@ The fields `Effective from` and `Effective To` play an important role in factor 
 <img src="images/IN-Bank-MumbaiCo-gas-CF-Create-3.png">
 
 
-## 2.1 Create new custom factor using UI based on existing Factor
+## 2.2 Create new custom factor using UI based on existing Factor  (To see only not to do)
 
 ### For Data type: Gasoline Stationary [gal]  Region : `London, United Kingdom`
 
@@ -112,7 +124,7 @@ Please refer [Envizi knowledgebase](https://knowledgebase.envizi.com/home/custom
 
 ## 3 View the Custom emission factors applied for the data.
 
-1. Navigate to the account : `IN Bank - London Co-Gas` 
+1. Navigate to the account : `IN Bank - London Co-Gas`   (prefix your prefix-id)
 2. View `Review` > `Monthly Data` 
 3. Click on `Preview` 
 4. Select a record of consumption data between the time frame of `Effetive from`  and `Effective To` 
@@ -137,7 +149,7 @@ View the `Factor details` on preview panel. Observe that for Year 2022 data reco
 View the `Factor details` on preview panel. Observe that for Year 2024 data records, there is no emission factor applied, hence no emissions are calculated.
 
 
-9. Similarly, observe the custom factor applied for the account: `IN-Bank-Mumbai Co-Gas` 
+9. Similarly, observe the custom factor applied for the account: `IN-Bank-Mumbai Co-Gas`  (prefix your prefix-id)
 
 <img src="images/IN-Bank-MumbaiCo-gas-MonthlyData-CF-Applied.png">    
 
