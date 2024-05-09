@@ -1,6 +1,6 @@
 # Using API to retrive the reports data from Envizi - Answers
 
-#  Excercise and Answers
+The parameter values that we have mentioned here is based on the Envizi Instance that we have used. It could vary based on your instance.
 
 ### Excercise 1
 
@@ -20,22 +20,21 @@ https://usapi.envizi.com/api/meta
 https://usapi.envizi.com/api/meta
 ```
 
-The response is 
+You could find this report name.
 ```
             "name": "_Envizi-SetupLocations"
 ```
 
-2. Get the parameters for the location
+2. Get the all possible parameters for the location report.
 
 ```
 https://usapi.envizi.com/api/meta/reports/_Envizi-SetupLocations
 ```
 
-3. Identify the `IN Bank - Corporate offices` group-id from the above result
+3. Identify the `IN Bank - Corporate offices` group-id from the above parameters result
 
 The identified value would be
 ```
-
                     {
                         "name": "IN Bank > IN Bank - Corporate offices",
                         "value": "17008188"
@@ -59,22 +58,21 @@ https://usapi.envizi.com/api/data/_Envizi-SetupLocations?Group_Id=17008188
 https://usapi.envizi.com/api/meta
 ```
 
-The response is 
+You could find this report name.
 ```
             "name": "_Envizi-ExtractForAccounts"
 ```
 
-2. Get the parameters for the Accounts
+2. Get the all possible parameters for the Accounts report.
 
 ```
 https://usapi.envizi.com/api/meta/reports/_Envizi-ExtractForAccounts
 ```
 
-3. Identify the `IN Bank - APAC Corp Offices` group-id from the above result
+3. Identify the `IN Bank - APAC Corp Offices` group-id from the above parameters result
 
 The identified value would be
 ```
-
                     {
                         "name": "IN Bank > IN Bank - Corporate offices > IN Bank - APAC Corp Offices",
                         "value": "17017100"
@@ -97,12 +95,12 @@ https://usapi.envizi.com/api/data/_Envizi-ExtractForAccounts?Group_Id=17017100
 https://usapi.envizi.com/api/meta
 ```
 
-The response is 
+You could find this report name.
 ```
             "name": "_Envizi-MonthlyDataSummary"
 ```
 
-2. Get the parameters for the MonthlyDataSummary
+2. Get the all possible parameters for the MonthlyDataSummary report
 
 ```
 https://usapi.envizi.com/api/meta/reports/_Envizi-MonthlyDataSummary
@@ -114,7 +112,6 @@ We can take the value from the above excercise.
 
 The identified value would be
 ```
-
                     {
                         "name": "IN Bank > IN Bank - Corporate offices > IN Bank - APAC Corp Offices",
                         "value": "17017100"
@@ -142,7 +139,7 @@ The response is
             "name": "_Envizi-MissingDataDateRange"
 ```
 
-2. Get the parameters for the MissingDataDateRange
+2. Get the all possible parameters for the MissingDataDateRange report
 
 ```
 https://usapi.envizi.com/api/meta/reports/_Envizi-MissingDataDateRange
@@ -154,7 +151,6 @@ We can take the value from the above excercise.
 
 The identified value would be
 ```
-
                     {
                         "name": "IN Bank > IN Bank - Corporate offices > IN Bank - APAC Corp Offices",
                         "value": "17017100"
@@ -166,3 +162,5 @@ The identified value would be
 ```
 https://usapi.envizi.com/api/data/_Envizi-MissingDataDateRange?Group_Id=17017100&Period=12&End_Period=2024/04/30
 ```
+
+
