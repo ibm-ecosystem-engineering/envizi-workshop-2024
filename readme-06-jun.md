@@ -201,7 +201,7 @@
         <td>Data flow Automation</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
-        <td><td>
+        <td></td>
         <td>30 mins</td>
         <td>3:30 PM</td>
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
