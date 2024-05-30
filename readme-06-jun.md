@@ -72,7 +72,7 @@
         <td colspan="8"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>
    <tr>
-        <td>86</td>
+        <td>6</td>
         <td>Data Management</td>
         <td>Session</td>
         <td>Overview of Config Connector </td>
@@ -125,7 +125,7 @@
         <td></td>
     </tr>
     <tr>
-        <td colspan="6"> ...........................................................................................<strong>DAY 2</strong> ...........................................................................................<td>
+        <td colspan="8"> ...........................................................................................<strong>DAY 2</strong> ...........................................................................................</td>
     </tr>  
    <tr>
         <td>1</td>
@@ -229,7 +229,7 @@
         <td></td>
     </tr>
     <tr>
-        <td colspan="6"> ...........................................................................................<strong>DAY 3</strong> ...........................................................................................<td>
+        <td colspan="8"> ...........................................................................................<strong>DAY 3</strong> ...........................................................................................<td>
     </tr>   
     <tr>
         <td>1</td>
