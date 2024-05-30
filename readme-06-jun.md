@@ -52,8 +52,8 @@
         <td>Data Management</td>
         <td><strong>Lab</strong></td>
         <td>Identify Industry specific Org hierarchy using the template provided</td>
-        <td>"Provide a sample org hierarchy and ask the team to understand how should organization hierarchy generally looks like.
-        - Participant to present the hierarchy / story"</td>
+        <td>Provide a sample org hierarchy and ask the team to understand how should organization hierarchy generally looks like.
+        - Participant to present the hierarchy / story</td>
         <td>30 mins</td>
         <td>11:30 AM</td>
         <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
@@ -201,7 +201,7 @@
         <td>Data flow Automation</td>
         <td><strong>Lab</strong></td>
         <td>Data flow automation in Envizi</td>
-        <td>/<td>
+        <td><td>
         <td>30 mins</td>
         <td>3:30 PM</td>
         <td><a href="./126-data-flow-automation-lab">Link</a></td>
@@ -433,4 +433,4 @@
 
 ## Note : 
 
-1. The template Excel files mentioned in the labs are available in the shared Box folder with the same directory structure. Get the Box folder link from your instructor.
+1. The template Excel files mentioned in the labs are available in the shared Box folder. Get the Box folder link from your instructor.
