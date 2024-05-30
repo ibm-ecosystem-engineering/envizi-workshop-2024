@@ -48,7 +48,7 @@
         <td colspan="8"> Tea Break</td>  
     </tr>
    <tr>
-        <td>6</td>
+        <td>4</td>
         <td>Data Management</td>
         <td><strong>Lab</strong></td>
         <td>Identify Industry specific Org hierarchy using the template provided</td>
@@ -59,7 +59,7 @@
         <td><a href="./110-Create-Industry-Specific-Org-Hierarchy">Link</a></td>
     </tr>    
    <tr>
-        <td>7</td>
+        <td>5</td>
         <td>Data Management</td>
         <td><strong>Lab</strong></td>
         <td>Create Group, Locations, Account and Data using UI</td>
@@ -72,7 +72,7 @@
         <td colspan="8"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
     </tr>
    <tr>
-        <td>8</td>
+        <td>86</td>
         <td>Data Management</td>
         <td>Session</td>
         <td>Overview of Config Connector </td>
@@ -82,7 +82,7 @@
         <td></td>
     </tr>
    <tr>
-        <td>9</td>
+        <td>7</td>
         <td>Data Management</td>
         <td><strong>Lab</strong></td>
         <td>Create Group and Location Using Config Connector</td>
@@ -95,7 +95,7 @@
         <td colspan="8"> Tea Break</td>  
     </tr>
     <tr>
-        <td>10</td>
+        <td>8</td>
         <td>Emission Management</td>
         <td>Session</td>
         <td>Scope 1 & 2 Emission Management - Show and tell </td>
@@ -105,7 +105,7 @@
         <td></td>
     </tr> 
    <tr>
-        <td>11</td>
+        <td>9</td>
         <td>Data Management</td>
         <td>Session</td>
         <td>Overview of Config Connector </td>
@@ -115,7 +115,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>12</td>
+        <td>10</td>
         <td>Quiz</td>
         <td></td>
         <td></td>
@@ -125,7 +125,7 @@
         <td></td>
     </tr>
     <tr>
-        <td colspan="6"> ................................................................................................... <strong>DAY 2</strong> ...................................................................................................</td>
+        <td colspan="6"> ...........................................................................................<strong>DAY 2</strong> ...........................................................................................<td>
     </tr>  
    <tr>
         <td>1</td>
@@ -229,8 +229,8 @@
         <td></td>
     </tr>
     <tr>
-        <td colspan="8"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunch Break</td>  
-    </tr>    
+        <td colspan="6"> ...........................................................................................<strong>DAY 3</strong> ...........................................................................................<td>
+    </tr>   
     <tr>
         <td>1</td>
         <td>API Integrations</td>
