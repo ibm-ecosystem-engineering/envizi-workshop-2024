@@ -16,7 +16,7 @@ We have already created the below accounts and going to capture the data in thes
 
 Account summary get displayed as below.
 
-2. Click on `Track > Records` 
+2. Click on `Review > Records` 
 
 <img src="images/06-load-account-data12.png">
 
