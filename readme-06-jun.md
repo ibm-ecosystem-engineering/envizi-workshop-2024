@@ -237,7 +237,7 @@
         <td>Session</td>
         <td>User Management</td>
         <td>Discussion on  create users, logins,  providing access, assigning various work roles,  setting password policies</td>
-        <td>15 mins</td>
+        <td>30 mins</td>
         <td>9:30 AM</td>
         <td><a href="./160-contacts-logins">Link</a>  </td>
    </tr>
@@ -248,7 +248,7 @@
         <td>Creating Contacts and Users</td>
         <td>Create Users via UI</td>
         <td>30 mins</td>
- 		<td>9:45 AM</td>        
+ 		<td>10:00 AM</td>        
         <td><a href="./161-Creating-Contacts-and-Users-using-ui">Link</a></td>
    </tr>   
     <tr>
@@ -257,10 +257,13 @@
         <td>Session</td>
         <td>Envizi API</td>
         <td></td>
-        <td>15 mins</td>
-        <td>10:15 AM</td>
+        <td>30 mins</td>
+        <td>10:30 AM</td>
         <td><a href="./153-Use-API-to-extract-reports-data-session">Link</a></td>
    </tr>
+    <tr>
+        <td colspan="8"> Tea Break</td>  
+    </tr>   
     <tr>
         <td>4</td>
         <td>API Integrations</td>
@@ -268,12 +271,9 @@
         <td>Use API to extract reports data</td>
         <td>Lab: Use APIs to extract the Reports data</td>
         <td>30 mins</td>
-        <td>10:30 AM</td>
+        <td>11:15 AM</td>
         <td><a href="./150-Use-API-to-extract-reports-data">Link</a></td>
    </tr>
-    <tr>
-        <td colspan="8"> Tea Break</td>  
-    </tr>   
     <tr>
         <td>5</td>
         <td>ESG Reporting </td>
@@ -281,7 +281,7 @@
         <td>ESG Reporting - Show and tell</td>
         <td>Sustainability Reporting Manager | Reports and Dashboards</td>
         <td>30 mins</td>
- 		<td>11:15 AM</td>        
+ 		<td>11:45 AM</td>        
         <td></td>
    </tr>      
     <tr>
@@ -291,7 +291,7 @@
         <td>Advanced Modules</td>
         <td>Target setting and tracking | Program Tracking | Scenario modeller</td>
         <td>45 mins</td>
- 		<td>11:45 AM</td>        
+ 		<td>12:15 PM</td>        
         <td></td>
    </tr>      
     <tr>
@@ -306,7 +306,7 @@
         <td>30 mins</td>
         <td>2:00 PM</td>
         <td></td>
-   </tr>
+   </tr>    
    <tr>
         <td>8</td>
         <td>Data Health</td>
@@ -327,9 +327,6 @@
         <td>2:45 PM</td>
         <td><a href="./131-Capture-data-through-issue-management">Link</a> </td>
     </tr>
-    <tr>
-        <td colspan="8"> Tea Break</td>  
-    </tr>      
    <tr>
         <td>10</td>
         <td>Data Health</td>
@@ -337,7 +334,7 @@
         <td>Capture data through Account Setup and Data Load Template</td>
         <td></td>
         <td>30 mins</td>
-        <td>3:15 PM</td>
+        <td>3:00 PM</td>
         <td><a href="./123-Capture-data-through-Account-Setup-and-Data-Load-Template">Link</a> </td>
     </tr>   
     <tr>
@@ -347,9 +344,12 @@
         <td>Creating Custom power reports and best practices </td>
         <td>Using design methodologies while creating custom reports and identifies the requirements,etc</td>
         <td>30 mins</td>
-		<td>3:45 PM</td>        
+		<td>3:30 PM</td>        
         <td></td>
    </tr>
+    <tr>
+        <td colspan="8"> Tea Break</td>  
+    </tr>      
    <tr>
         <td>12</td>
         <td>Reports</td>
