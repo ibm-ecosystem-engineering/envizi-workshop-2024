@@ -43,30 +43,27 @@ Access Role determines the ability of a user to make data changes in Envizi. In 
 
 <img src="images/image4.png">
 
-**Engineer Admin** has a user experience that is optimized for users of EFD and APM. The user has a limited set of menus which align with the EFD and APM modules. They also have addition menus related to system administration functions.
-
-**Engineer User** has a user experience that is optimized for users of Equipment Fault Detection (EFD) and APM. The user has a limited set of menus which align with the EFD and APM modules.
-
-**Meter User** has a user experience that is optimized for users of Interval Meter Monitoring (IMM). The user has a limited set of menus which align with the IMM module.
-
-**Portfolio Manager** has a user experience that is optimized for Group level users who manage a single group and who login to Envizi to perform specific tasks such as capturing data, resolving data issues, fulling in surveys, resolving Interval Meter Alerts and managing Program Actions. Your organization needs to actively use Issue Tracking and or the Programs module for this experience to be useful to users as it is driven by the Issues and Program Actions assigned to the Portfolio Manager user. You can read more about the Portfolio Manager user here.
-
 **Sustainability Reporting Manager (SRM)** User is a login level role that can be added to individual users to provide them with access to the Sustainability Reporting Manager. This can be added on the Login page.
-
-**Value Chain User** is a user usually external to your organization who is asked to respond to value chain surveys. They have a user experience optimized to responding to surveys as part of the Value Chain Surveys and Assessments module.
-
-**View Only Engineer** has a user experience that is optimized for users of EFD and APM. The user has a limited set of menus which align with the EFD and APM modules. View only users can’t edit or change information, rather only view charts and run reports.
-
-**Tag User** has a user experience that is optimized for users who have general user access to one Tag only.
-
-**Tag View Only** has a user experience that is optimized for users who have view only access to one Tag only.
 
 **Personal Role for API Tokens** allows the user to have access to APIs.
 
 **Admin  Role for API Tokens** allows the user to have access to APIs.
 
+**Tag User** has a user experience that is optimized for users who have general user access to one Tag only.
 
-In this lab exercise we will create Contacts and Logins in Envizi for a given organization using Envizi Setup Contacts excel template.
+**Tag View Only** has a user experience that is optimized for users who have view only access to one Tag only.
+
+**Engineer Admin** has a user experience that is optimized for users of EFD and APM. The user has a limited set of menus which align with the EFD and APM modules. They also have addition menus related to system administration functions.
+
+**Engineer User** has a user experience that is optimized for users of Equipment Fault Detection (EFD) and APM. The user has a limited set of menus which align with the EFD and APM modules.
+
+**View Only Engineer** has a user experience that is optimized for users of EFD and APM. The user has a limited set of menus which align with the EFD and APM modules. View only users can’t edit or change information, rather only view charts and run reports.
+
+**Meter User** has a user experience that is optimized for users of Interval Meter Monitoring (IMM). The user has a limited set of menus which align with the IMM module.
+
+**Portfolio Manager** has a user experience that is optimized for Group level users who manage a single group and who login to Envizi to perform specific tasks such as capturing data, resolving data issues, fulling in surveys, resolving Interval Meter Alerts and managing Program Actions. Your organization needs to actively use Issue Tracking and or the Programs module for this experience to be useful to users as it is driven by the Issues and Program Actions assigned to the Portfolio Manager user. You can read more about the Portfolio Manager user here.
+
+**Value Chain User** is a user usually external to your organization who is asked to respond to value chain surveys. They have a user experience optimized to responding to surveys as part of the Value Chain Surveys and Assessments module.
 
 
 ## 3. Work Roles
