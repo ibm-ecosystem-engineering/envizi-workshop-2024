@@ -1,7 +1,10 @@
 
 # Create Scope 3 Accounts and Load data using Universal Account Connector
 
-In Our Bank example, we have identified 3 different Scope 3 Categories - `Business Travel, Employee Commute` and `Purchased Goods`.
+In Our Bank example, we have identified 3 different Scope 3 Categories.
+1. Purchased Goods
+2. Business Travel
+3. Employee Commute
 
 <img src="images/Org-Hier-S3.png">
 
