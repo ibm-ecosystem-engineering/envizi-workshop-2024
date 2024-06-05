@@ -6,14 +6,13 @@ In Our Bank example, we have identified 3 different Scope 3 Categories.
 2. Business Travel
 3. Employee Commute
 
-<img src="images/Org-Hier-S3.png">
-
 In this exercise, we will capture the data for locations
-- `IN Bank - Employe Air miles` :  Business Travel data
-- `IN Bank - Emp Commute` : Employee Commute data
+- `IN Bank - Employe Air miles` :  Business Travel
+- `IN Bank - Emp Commute` : Employee Commute
 
 In the next exercise, you will learn how to use Envizi new AI Assist feature to load the data into accounts of `Purchased Goods`
 
+<img src="images/Org-Hier-S3.png">
 
 In the previous exercise, we have already learnt how to use POC Template of Universal Account Connector which is provided to you which also comes with the Supported Universal Account Styles. You can very well use the same for this exercise also. 
 

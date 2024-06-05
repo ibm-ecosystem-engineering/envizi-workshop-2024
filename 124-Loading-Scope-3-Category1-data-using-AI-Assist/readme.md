@@ -2,6 +2,8 @@
 
 In this exercise, using AI assist features we will load spend-based data for the `Category 1 Purchased goods` for our Bank.
 
+<img src="images/Org-Hier-S3.png">
+
 For reference, here is our Bank Scope 3 groups and categories identified.
 <img src="images/Bank-Scope3-Cat1-PGS.png">
 
