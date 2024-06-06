@@ -3,6 +3,7 @@
 
 In this lab exercise we will monitor the health of the data by looking into Envizi Reports available out of the box. The Reports will provide the details on data gaps / arrears , etc at various levels such as  account, data type, Supplier level.  Based on the insights from the reports, we will take necessary actions to address the gaps / arrears.
 
+**Note:** You need to assume that the current month is `Jan-2024` while going through this.
 
 # 1. Check Data Quality of the Accounts
 
