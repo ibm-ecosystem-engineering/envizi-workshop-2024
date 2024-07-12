@@ -145,9 +145,8 @@ Now, Let's populate the template with data for all the locations we created in t
    - **Quantity** - Quantity of activity data. 
    - **Total cost (incl. Tax) in local currency** - Amount spend for the activity.
 
-Once prepared, you can upload the files following instructions from Section 3. However we recommend you to load the sample files given in Sample data section which also covers other scenarios for subsequent labs.
 
-#### Important
+#### Important:
 
 Once prepared, you can upload the files following instructions to upload. However
 To stay aligned with the subsequent labs, we recommend using the Prepopulated template file discussed in the following section for the upcoming steps.
